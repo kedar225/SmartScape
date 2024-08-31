@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SmartScape
 # SmartScape: Empowering Smart Cities Through Citizen Engagement
 
