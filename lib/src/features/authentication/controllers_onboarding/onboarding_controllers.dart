@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:smartscape/src/features/authentication/screens/login/login.dart';
 
 class OnboardingController extends GetxController {
   static OnboardingController get instance => Get.find();
@@ -22,7 +23,7 @@ class OnboardingController extends GetxController {
   ///update Current Index & Move to the Next
   void nextPage() {
     if (currentPageIndex == 2) {
-      // Get.to(LoginScreen());
+      Get.offAll(const LoginScreen());
     } else {
       int page = currentPageIndex.value + 1;
       pageController.jumpToPage(page);

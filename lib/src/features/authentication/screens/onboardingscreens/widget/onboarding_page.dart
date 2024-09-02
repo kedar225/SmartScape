@@ -1,6 +1,3 @@
-
-
-
 import 'package:flutter/material.dart';
 import 'package:smartscape/src/utils/helper/helper_funtion.dart';
 
