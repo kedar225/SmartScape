@@ -9,7 +9,7 @@ class TOutlinedButtonTheme {
     style: ElevatedButton.styleFrom(
       elevation: 0,
       foregroundColor: Colors.black,
-      side: const BorderSide(color: Colors.yellow),
+      side: const BorderSide(color: Colors.purple),
       textStyle: const TextStyle(
           fontSize: 16, color: Colors.black, fontWeight: FontWeight.w600),
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 20),
@@ -22,7 +22,7 @@ class TOutlinedButtonTheme {
     style: ElevatedButton.styleFrom(
       elevation: 0,
       foregroundColor: Colors.white,
-      side: const BorderSide(color: Colors.yellow),
+      side: const BorderSide(color: Colors.purple),
       textStyle: const TextStyle(
           fontSize: 16, color: Colors.white, fontWeight: FontWeight.w600),
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 20),
