@@ -97,7 +97,7 @@ class LoginScreen extends StatelessWidget {
                     ///Create Account Button
                     SizedBox(
                       width: double.infinity,
-                      child: ElevatedButton(
+                      child: OutlinedButton(
                           onPressed: () {},
                           child: const Text(Ttext.createAccount)),
                     ),
@@ -110,7 +110,11 @@ class LoginScreen extends StatelessWidget {
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Divider(color: dark ? TColors.darkGrey : TColors.grey, thickness: 0.5, indent: 60, endIndent: 5)
+                  Divider(
+                      color: dark ? TColors.darkGrey : TColors.grey,
+                      thickness: 0.5,
+                      indent: 60,
+                      endIndent: 5)
                 ],
               )
             ],
