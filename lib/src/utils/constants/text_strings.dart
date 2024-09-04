@@ -14,9 +14,10 @@ class Ttext {
 
   //Login Title
   // ignore: constant_identifier_names
-  static const String WelcomeTitle = "Welcome";
+  static const String WelcomeTitle = "Welcome Back!";
   // ignore: constant_identifier_names
-  static const String WelcomeSubTitle = "Holla! Glad To See You Back";
+  static const String WelcomeSubTitle =
+      "Namaste! It's Wonderful to Have You Back";
 
   // Authentication Form Text
   static const String firstName = "First Name";
@@ -30,7 +31,7 @@ class Ttext {
   static const String forgetPassword = "Forget Password?";
   static const String signIn = "Sign In";
   static const String createAccount = "Create Account";
-  static const String orSignInWith = "or sign in with";
+  static const String orSignInWith = "Or Sign In With";
   static const String orSignUpWith = "or sign up with";
   static const String iAgreeTo = "I agree to";
   static const String privacyPolicy = "Privacy Policy";

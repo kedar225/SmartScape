@@ -12,4 +12,8 @@ class TImage {
   //logo
   // ignore: constant_identifier_names
   static const String MainLogo = "assets/logo/smartscape_only_logo.png";
+  // ignore: constant_identifier_names
+  static const String GoogleLogo = "assets/logo/google_logo.png";
+  // ignore: constant_identifier_names
+  static const String FacebookLogo = "assets/logo/facebook_logo.png";
 }
