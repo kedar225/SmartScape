@@ -39,6 +39,7 @@ flutter:
     - assets/fonts/
     - assets/images/animations/
     - assets/images/on_boarding_screen/
+    - assets/images/email_verification/
     - assets/logo/
     - assets/videos/
     - assets/icons/

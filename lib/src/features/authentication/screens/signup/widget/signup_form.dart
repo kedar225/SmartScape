@@ -19,8 +19,7 @@ class TSignUpForm extends StatelessWidget {
               child: TextFormField(
                 expands: false,
                 decoration: const InputDecoration(
-                    labelText: Ttext.firstName,
-                    prefixIcon: Icon(Iconsax.user)),
+                    labelText: Ttext.firstName, prefixIcon: Icon(Iconsax.user)),
               ),
             ),
             const SizedBox(
@@ -30,8 +29,7 @@ class TSignUpForm extends StatelessWidget {
               child: TextFormField(
                 expands: false,
                 decoration: const InputDecoration(
-                    labelText: Ttext.lastName,
-                    prefixIcon: Icon(Iconsax.user)),
+                    labelText: Ttext.lastName, prefixIcon: Icon(Iconsax.user)),
               ),
             ),
           ],

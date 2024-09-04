@@ -18,17 +18,18 @@ class TImage {
   static const String FacebookLogo = "assets/logo/facebook_logo.png";
 
   ///Images
-  ///const String sammyDeliveryWithGPSNavigation = "assets/images/sammy_delivery_with_gps_navigation.gif";
+  static const String sammyDeliveryWithGPSNavigation =
+      "assets/images/sammy_delivery_with_gps_navigation.gif";
   static const String sammyComeBackLater =
-      "assets/images/animations/email_verification/sammy-line-come-back-later.png";
+      "assets/images/email_verification/sammy-line-come-back-later.png";
   static const String sammyManReceivesMail =
-      "assets/images/animations/email_verification/sammy-line-man-receives-a-mail.png";
+      "assets/images/email_verification/sammy-line-man-receives-a-mail.png";
   static const String sammySale =
-      "assets/images/animations/email_verification/sammy-line-sale.png";
+      "assets/images/email_verification/sammy-line-sale.png";
   static const String sammySuccess =
-      "assets/images/animations/email_verification/sammy-line-success.png";
+      "assets/images/email_verification/sammy-line-success.png";
   static const String sammyTravelBackpackWithPassport =
-      "assets/images/animations/email_verification/sammy-line-travel-backpack-with-passport.png";
+      "assets/images/email_verification/sammy-line-travel-backpack-with-passport.png";
   static const String sammyWorkout =
-      "assets/images/animations/email_verification/sammy-line-workout.gif";
+      "assets/images/email_verification/sammy-line-workout.gif";
 }
