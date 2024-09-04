@@ -1,12 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:smartscape/src/common/styles/spacing_styles.dart';
 import 'package:smartscape/src/common/widgets/login_divider.dart';
 import 'package:smartscape/src/common/widgets/login_footer.dart';
 import 'package:smartscape/src/features/authentication/screens/login/widgets/login_form.dart';
 import 'package:smartscape/src/features/authentication/screens/login/widgets/login_header.dart';
 import 'package:smartscape/src/utils/constants/sizes.dart';
 import 'package:smartscape/src/utils/constants/text_strings.dart';
-import 'package:smartscape/src/utils/helper/helper_funtion.dart';
 
 class LoginScreen extends StatelessWidget {
   const LoginScreen({super.key});
@@ -29,7 +27,7 @@ class LoginScreen extends StatelessWidget {
               TFormDivider(dividerText: Ttext.orSignInWith),
 
               SizedBox(
-                height: TSizes.spaceBtwItems,
+                height: TSizes.spaceBtwInputFields,
               ),
 
               //Footer

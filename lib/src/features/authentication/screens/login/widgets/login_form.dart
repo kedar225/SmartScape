@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';
+import 'package:smartscape/src/features/authentication/screens/signup/sign_up_page.dart';
 import 'package:smartscape/src/utils/constants/sizes.dart';
 import 'package:smartscape/src/utils/constants/text_strings.dart';
 
@@ -68,7 +70,8 @@ class TLoginForm extends StatelessWidget {
           SizedBox(
             width: double.infinity,
             child: OutlinedButton(
-                onPressed: () {}, child: const Text(Ttext.createAccount)),
+                onPressed: () => Get.to(() => const SignUpPage()),
+                child: const Text(Ttext.createAccount)),
           ),
           const SizedBox(height: TSizes.spaceBtwSections),
         ],

@@ -24,6 +24,9 @@ class TLoginFooter extends StatelessWidget {
                   height: TSizes.iconMd,
                   image: AssetImage(TImage.GoogleLogo))),
         ),
+        const SizedBox(
+          width: TSizes.spaceBtwItems,
+        ),
         Container(
           decoration: BoxDecoration(
               border: Border.all(color: TColors.grey),
