@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';
+import 'package:smartscape/navigation_menu.dart';
+import 'package:smartscape/src/features/authentication/screens/password_authorization/forget_password.dart';
 import 'package:smartscape/src/features/authentication/screens/signup/sign_up_page.dart';
 import 'package:smartscape/src/utils/constants/sizes.dart';
 import 'package:smartscape/src/utils/constants/text_strings.dart';
@@ -51,7 +53,8 @@ class TLoginForm extends StatelessWidget {
 
               ///Forget PASSWORD
               TextButton(
-                  onPressed: () {}, child: const Text(Ttext.forgetPassword)),
+                  onPressed: () => Get.to(() => const ForgetPassword()),
+                  child: const Text(Ttext.forgetPassword)),
             ],
           ),
 
@@ -61,7 +64,8 @@ class TLoginForm extends StatelessWidget {
           SizedBox(
             width: double.infinity,
             child: ElevatedButton(
-                onPressed: () {}, child: const Text(Ttext.signIn)),
+                onPressed: () => Get.to(() => const NavigationMenu()),
+                child: const Text(Ttext.signIn)),
           ),
 
           const SizedBox(height: TSizes.spaceBtwItems),
