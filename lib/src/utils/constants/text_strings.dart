@@ -30,6 +30,7 @@ class Ttext {
   static const String rememberMe = "Remember Me";
   static const String forgetPassword = "Forget Password?";
   static const String signIn = "Sign In";
+  static const String submit = "Submit";
   static const String createAccount = "Create Account";
   static const String orSignInWith = "Or Sign In With";
   static const String orSignUpWith = "or sign up with";
@@ -58,4 +59,5 @@ class Ttext {
       "Didn't get the email? Check your junk/spam or resend it.";
   static const String yourAccountCreatedTitle =
       "Your account successfully created!";
+  static const String yourAccountCreatedSubTitle = "holla";
 }
