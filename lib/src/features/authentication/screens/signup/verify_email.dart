@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:smartscape/src/common/widgets/success_screen.dart';
 import 'package:smartscape/src/features/authentication/screens/login/login.dart';
+import 'package:smartscape/src/utils/constants/colors.dart';
 import 'package:smartscape/src/utils/constants/image_string.dart';
 import 'package:smartscape/src/utils/constants/sizes.dart';
 import 'package:smartscape/src/utils/constants/text_strings.dart';
@@ -13,6 +13,8 @@ class VerifyEmailScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final dark = THelperFunctions.isDarkMode(context);
+
     return Scaffold(
       appBar: AppBar(
         automaticallyImplyLeading: false,
@@ -55,15 +57,11 @@ class VerifyEmailScreen extends StatelessWidget {
               ),
               const SizedBox(height: TSizes.spaceBtwSections),
 
-              //Verify Email Button
+              //Create Account Button
               SizedBox(
                 width: double.infinity,
                 child: ElevatedButton(
-                    onPressed: () => Get.to(() => SuccessScreen(
-                        image: TImage.sammySuccess,
-                        title: Ttext.yourAccountCreatedTitle,
-                        subtitle: Ttext.yourAccountCreatedSubTitle,
-                        onPressed: () => Get.to(() => const LoginScreen()))),
+                    onPressed: () => Get.to(() => const VerifyEmailScreen()),
                     child: const Text("Continue")),
               ),
               const SizedBox(
