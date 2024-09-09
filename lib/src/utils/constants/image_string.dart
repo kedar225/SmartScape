@@ -11,7 +11,7 @@ class TImage {
 
   //logo
   // ignore: constant_identifier_names
-  static const String MainLogo = "assets/logo/smartscape_only_logo.png";
+  static const String MainLogo = "assets/logo/icons8-skyline.png";
   // ignore: constant_identifier_names
   static const String GoogleLogo = "assets/logo/google_logo.png";
   // ignore: constant_identifier_names

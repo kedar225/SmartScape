@@ -13,7 +13,7 @@ class TLoginHeader extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        const Image(height: 150, image: AssetImage(TImage.MainLogo)),
+        const Image(height: 130, image: AssetImage(TImage.MainLogo)),
         Text(
           Ttext.WelcomeTitle,
           style: Theme.of(context).textTheme.headlineMedium,

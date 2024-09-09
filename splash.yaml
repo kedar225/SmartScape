@@ -1,13 +1,13 @@
 flutter_native_splash:
   color: "#FFFFFF"
   color_dark: "#272727"
-  image: assets/logo/smartscape.png
-  image_dark: assets/logo/smartscape.png
+  image: assets/logo/smartscape_only_logo.png
+  image_dark: assets/logo/smartscape_only_logo.png
 
   android_12:
     color: "#FFFFFF"
     color_dark: "#272727"
-    image: assets/logo/smartscape.png
-    image_dark: assets/logo/smartscape.png
+    image: assets/logo/smartscape_only_logo.png
+    image_dark: assets/logo/smartscape_only_logo.png
 
   web: false
