@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
 import 'package:smartscape/src/common/widgets/login_divider.dart';
 import 'package:smartscape/src/common/widgets/login_footer.dart';
-import 'package:smartscape/src/features/authentication/screens/signup/verify_email.dart';
 import 'package:smartscape/src/features/authentication/screens/signup/widget/terms_and_conditions_checkbox.dart';
 import 'package:smartscape/src/features/authentication/screens/signup/widget/signup_form.dart';
 import 'package:smartscape/src/utils/constants/sizes.dart';
@@ -39,15 +37,7 @@ class SignUpPage extends StatelessWidget {
               ),
 
               //Create Account Button
-              SizedBox(
-                width: double.infinity,
-                child: ElevatedButton(
-                    onPressed: () => Get.to(() => const VerifyEmailScreen()),
-                    child: const Text(Ttext.createAccount)),
-              ),
-              const SizedBox(
-                height: TSizes.spaceBtwInputFields,
-              ),
+              
 
               //Divider
               const TFormDivider(dividerText: Ttext.orSignInWith),

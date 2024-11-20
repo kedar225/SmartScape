@@ -1,3 +1,5 @@
+// ignore_for_file: constant_identifier_names
+
 class Ttext {
   // Onboarding Titles
   static const String onboardingTitle1 = "Welcome to Your Smart City!";
@@ -59,5 +61,13 @@ class Ttext {
       "Didn't get the email? Check your junk/spam or resend it.";
   static const String yourAccountCreatedTitle =
       "Your account successfully created!";
-  static const String yourAccountCreatedSubTitle = "holla";
+  static const String yourAccountCreatedSubTitle =
+      "Your SmartScape account has been created, use our accout to make others and yourself aware of your local Psroblem and News";
+
+  //predetermined names
+  static const String full_name = "Kedar Nadkarni";
+  static const String user_name = "VitraKami";
+  static const String useremail = "Kedarnadkarni225@gmail.com";
+  static const String phoneno = "+91-9820080619";
+  static const String birthday = "3 Jun, 2003";
 }

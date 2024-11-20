@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "598563023453",
+    "project_id": "smartscapeog",
+    "storage_bucket": "smartscapeog.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598563023453:android:d86323eb685411d2a0bbb4",
+        "android_client_info": {
+          "package_name": "com.example.smartscape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598563023453-q9oicf8cbkjjl3fn3t3mo1622gnfps8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartscape",
+            "certificate_hash": "195f3e757ca5001e9d161d40bdba5fd320a6da22"
+          }
+        },
+        {
+          "client_id": "598563023453-m68a9ofr5mvibvik328123kj5uis8rbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzEVRH3caO4cOs-YVFMTpfnHb3Q4AljOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598563023453-m68a9ofr5mvibvik328123kj5uis8rbo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598563023453-ob0sdk2dphi7tn0khvvhk1doqt606351.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartscape"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2407 @@
+city_name,locality_name,one_bhk_rent_range,two_bhk_rent_range,three_bhk_rent_range
+ncr,Akshardham,-,-,three_bhk_rent_range
+ncr,Dilshad Colony,-,-,three_bhk_rent_range
+ncr,Dilshad Garden,-,Rs. 10771 - 12118,three_bhk_rent_range
+ncr,I P Extension,Rs. 10710 - 11900,Rs. 16150 - 17000,three_bhk_rent_range
+ncr,Kondli Gharoli,-,Rs. 7039 - 8122,three_bhk_rent_range
+ncr,Mayur Vihar - I,Rs. 11602 - 13812,Rs. 18700 - 21250,three_bhk_rent_range
+ncr,Mayur Vihar - II,Rs. 9528 - 11534,Rs. 14450 - 17000,three_bhk_rent_range
+ncr,Mayur Vihar - III,-,Rs. 8976 - 10771,three_bhk_rent_range
+ncr,New Ashok Nagar,Rs. 10518 - 13719,-,three_bhk_rent_range
+ncr,Patparganj,Rs. 8670 - 10200,Rs. 16150 - 17000,three_bhk_rent_range
+ncr,Preet Vihar,Rs. 6078 - 7735,-,three_bhk_rent_range
+ncr,Vasundhara Enclave,Rs. 10710 - 13770,Rs. 16150 - 17850,three_bhk_rent_range
+ncr,A1 Block Paschim Vihar,-,Rs. 10901 - 12622,three_bhk_rent_range
+ncr,Bakkarwala,-,-,three_bhk_rent_range
+ncr,D Block Vikaspuri,-,-,three_bhk_rent_range
+ncr,Janakpuri,Rs. 9125 - 11526,Rs. 13770 - 17595,three_bhk_rent_range
+ncr,Mahavir Enclave,-,-,three_bhk_rent_range
+ncr,Moti Nagar,-,Rs. 20664 - 25360,three_bhk_rent_range
+ncr,Paschim Vihar,Rs. 8075 - 10200,Rs. 14535 - 16830,three_bhk_rent_range
+ncr,Patel Nagar,-,Rs. 16830 - 19890,three_bhk_rent_range
+ncr,Punjabi Bagh,-,-,three_bhk_rent_range
+ncr,Ramesh Nagar,-,Rs. 12282 - 14450,three_bhk_rent_range
+ncr,Subhash Nagar,Rs. 8394 - 10744,-,three_bhk_rent_range
+ncr,Uttam Nagar,-,-,three_bhk_rent_range
+ncr,Uttam Nagar East,-,-,three_bhk_rent_range
+ncr,Uttam Nagar West,-,-,three_bhk_rent_range
+ncr,Vikas Puri,Rs. 8160 - 9690,Rs. 12586 - 14807,three_bhk_rent_range
+ncr,West Patel Nagar,-,Rs. 16083 - 18380,three_bhk_rent_range
+ncr,Karol Bagh,-,-,three_bhk_rent_range
+ncr,Dwarka Mor,-,-,three_bhk_rent_range
+ncr,Kakrola,-,-,three_bhk_rent_range
+ncr,L Zone,-,-,three_bhk_rent_range
+ncr,Pocket-2 Sector 6 Dwarka,-,Rs. 13889 - 16082,three_bhk_rent_range
+ncr,Sector-1 Dwarka,-,-,three_bhk_rent_range
+ncr,Sector-2 Dwarka,-,Rs. 17809 - 20777,three_bhk_rent_range
+ncr,Sector-3 Dwarka,-,Rs. 15300 - 18360,three_bhk_rent_range
+ncr,Sector-4 Dwarka,-,Rs. 17136 - 18088,three_bhk_rent_range
+ncr,Sector-5 Dwarka,-,-,three_bhk_rent_range
+ncr,Sector-6 Dwarka,-,Rs. 16830 - 18700,three_bhk_rent_range
+ncr,Sector-7 Dwarka,Rs. 9818 - 10752,Rs. 17765 - 19635,three_bhk_rent_range
+ncr,Sector-8 Dwarka,Rs. 8553 - 9211,-,three_bhk_rent_range
+ncr,Sector-9 Dwarka,-,Rs. 16830 - 19635,three_bhk_rent_range
+ncr,Sector-10 Dwarka,-,Rs. 16830 - 18700,three_bhk_rent_range
+ncr,Sector-11 Dwarka,Rs. 9775 - 11050,Rs. 16830 - 19635,three_bhk_rent_range
+ncr,Sector-12 Dwarka,-,Rs. 16830 - 18700,three_bhk_rent_range
+ncr,Sector-13 Dwarka,Rs. 8925 - 11900,Rs. 14960 - 17765,three_bhk_rent_range
+ncr,Sector-14 Dwarka,Rs. 9126 - 11614,-,three_bhk_rent_range
+ncr,Sector-15 Dwarka,-,-,three_bhk_rent_range
+ncr,Sector-16B Dwarka,Rs. 6885 - 8606,-,three_bhk_rent_range
+ncr,Sector-17 Dwarka,-,Rs. 14161 - 16660,three_bhk_rent_range
+ncr,Sector-18 Dwarka,Rs. 9157 - 10465,Rs. 16830 - 18700,three_bhk_rent_range
+ncr,Sector-18A Dwarka,-,Rs. 18742 - 19784,three_bhk_rent_range
+ncr,Sector-18B Dwarka,Rs. 8942 - 10283,Rs. 15300 - 17000,three_bhk_rent_range
+ncr,Sector-19 Dwarka,Rs. 9466 - 12226,Rs. 15172 - 17850,three_bhk_rent_range
+ncr,Sector-19B Dwarka,-,-,three_bhk_rent_range
+ncr,Sector-22 Dwarka,-,Rs. 17340 - 20400,three_bhk_rent_range
+ncr,Sector-23 Dwarka,Rs. 5780 - 7820,Rs. 16011 - 19778,three_bhk_rent_range
+ncr,Sector-23B Dwarka,-,-,three_bhk_rent_range
+ncr,Sector-24 Dwarka,-,-,three_bhk_rent_range
+ncr,Adhchini,Rs. 12171 - 13816,-,three_bhk_rent_range
+ncr,Alaknanda,-,Rs. 23460 - 27540,three_bhk_rent_range
+ncr,Ashram,-,-,three_bhk_rent_range
+ncr,Aya Nagar,-,Rs. 7721 - 10295,three_bhk_rent_range
+ncr,Chattarpur,Rs. 7480 - 7948,Rs. 11560 - 13005,three_bhk_rent_range
+ncr,Chattarpur Enclave Phase 1,-,Rs. 11560 - 13005,three_bhk_rent_range
+ncr,Chattarpur Enclave Phase 2,Rs. 7012 - 7948,Rs. 10838 - 13005,three_bhk_rent_range
+ncr,Chattarpur Extension,-,-,three_bhk_rent_range
+ncr,C R Park,-,Rs. 23868 - 26622,three_bhk_rent_range
+ncr,Defence Colony,-,Rs. 43138 - 55038,three_bhk_rent_range
+ncr,Devli,-,-,three_bhk_rent_range
+ncr,East Of Kailash,-,Rs. 20482 - 24749,three_bhk_rent_range
+ncr,Freedom Fighter Enclave,-,-,three_bhk_rent_range
+ncr,Govind Puri,-,Rs. 14450 - 15895,three_bhk_rent_range
+ncr,Greater Kailash,Rs. 17106 - 22971,Rs. 35126 - 41182,three_bhk_rent_range
+ncr,Greater Kailash I,-,Rs. 35153 - 46452,three_bhk_rent_range
+ncr,Greater Kailash II,-,Rs. 36338 - 42394,three_bhk_rent_range
+ncr,Green Park,-,Rs. 34520 - 43814,three_bhk_rent_range
+ncr,Green Park Extension,-,-,three_bhk_rent_range
+ncr,Gulmohar Park,-,-,three_bhk_rent_range
+ncr,Hauz Khas,-,-,three_bhk_rent_range
+ncr,Jamia Nagar,-,-,three_bhk_rent_range
+ncr,Jangpura Extension,-,Rs. 22950 - 26775,three_bhk_rent_range
+ncr,Jasola,Rs. 10200 - 11900,Rs. 15690 - 17932,three_bhk_rent_range
+ncr,Kalkaji,Rs. 8032 - 9945,Rs. 16524 - 19278,three_bhk_rent_range
+ncr,Kalkaji Extension,-,Rs. 14790 - 16269,three_bhk_rent_range
+ncr,Khirki Extension,-,Rs. 16618 - 18785,three_bhk_rent_range
+ncr,Lajpat Nagar,Rs. 12437 - 16048,Rs. 20777 - 25230,three_bhk_rent_range
+ncr,Lajpat Nagar I,-,Rs. 20952 - 26010,three_bhk_rent_range
+ncr,Lajpat Nagar II,-,Rs. 21420 - 25245,three_bhk_rent_range
+ncr,Lajpat Nagar IV,-,Rs. 19125 - 24480,three_bhk_rent_range
+ncr,Mahipalpur,-,Rs. 9945 - 11271,three_bhk_rent_range
+ncr,Malviya Nagar,-,Rs. 20655 - 23715,three_bhk_rent_range
+ncr,Munirka,Rs. 5797 - 6545,Rs. 24990 - 26775,three_bhk_rent_range
+ncr,Neb Sarai,-,-,three_bhk_rent_range
+ncr,S.D.A,-,-,three_bhk_rent_range
+ncr,Safdarjung,Rs. 21420 - 25245,Rs. 37591 - 41480,three_bhk_rent_range
+ncr,Safdarjung Enclave,Rs. 21420 - 25245,Rs. 35126 - 39971,three_bhk_rent_range
+ncr,Saket,-,Rs. 12750 - 17000,three_bhk_rent_range
+ncr,Sarita Vihar,-,Rs. 18572 - 21505,three_bhk_rent_range
+ncr,Sector-B Vasant Kunj,-,Rs. 24083 - 27405,three_bhk_rent_range
+ncr,Sector-C Vasant Kunj,-,-,three_bhk_rent_range
+ncr,Sector-D Vasant Kunj,Rs. 15895 - 16830,Rs. 23536 - 26675,three_bhk_rent_range
+ncr,Sheikh Sarai,-,-,three_bhk_rent_range
+ncr,Shivalik,-,-,three_bhk_rent_range
+ncr,Sidharth Ext,-,-,three_bhk_rent_range
+ncr,South Extension,-,-,three_bhk_rent_range
+ncr,Sukhdev Vihar,-,-,three_bhk_rent_range
+ncr,Sultanpur,-,Rs. 11155 - 13780,three_bhk_rent_range
+ncr,Tughlakabad,-,-,three_bhk_rent_range
+ncr,Tughlakabad Extension,-,-,three_bhk_rent_range
+ncr,Vasant Kunj,Rs. 15428 - 16830,Rs. 24650 - 27200,three_bhk_rent_range
+ncr,Vasant Vihar,Rs. 22399 - 30280,-,three_bhk_rent_range
+ncr,Ashok Vihar,-,Rs. 16437 - 19426,three_bhk_rent_range
+ncr,Burari,-,-,three_bhk_rent_range
+ncr,Keshav Puram,-,-,three_bhk_rent_range
+ncr,Loknayak Puram,-,-,three_bhk_rent_range
+ncr,Narela,-,-,three_bhk_rent_range
+ncr,Pitampura,Rs. 10285 - 13090,Rs. 12580 - 16354,three_bhk_rent_range
+ncr,Prashant Vihar,-,-,three_bhk_rent_range
+ncr,Rohini,-,Rs. 14535 - 17595,three_bhk_rent_range
+ncr,Sector-7 Rohini,-,-,three_bhk_rent_range
+ncr,Sector-8 Rohini,-,-,three_bhk_rent_range
+ncr,Sector-9 Rohini,-,Rs. 15682 - 18983,three_bhk_rent_range
+ncr,Sector-13 Rohini,Rs. 11050 - 12708,Rs. 15262 - 18475,three_bhk_rent_range
+ncr,Sector-14 Rohini,-,-,three_bhk_rent_range
+ncr,Sector-18 Rohini,-,Rs. 14605 - 16596,three_bhk_rent_range
+ncr,Sector-21 Rohini,-,-,three_bhk_rent_range
+ncr,Sector-22 Rohini,-,-,three_bhk_rent_range
+ncr,Sector-23 Rohini,-,-,three_bhk_rent_range
+ncr,Sector-24 Rohini,-,-,three_bhk_rent_range
+ncr,Sector-25 Rohini,-,-,three_bhk_rent_range
+ncr,Sector-28 Rohini,-,-,three_bhk_rent_range
+ncr,Sector-29 Rohini,-,-,three_bhk_rent_range
+ncr,Sector-34 Rohini,-,-,three_bhk_rent_range
+ncr,Shalimar Bagh,-,-,three_bhk_rent_range
+ncr,West Enclave,-,-,three_bhk_rent_range
+gurgaon,A Block Sushant Lok Phase - I,-,-,three_bhk_rent_range
+gurgaon,Ardee City,-,-,three_bhk_rent_range
+gurgaon,DLF CITY,-,-,three_bhk_rent_range
+gurgaon,DLF CITY PHASE 1,-,Rs. 23588 - 29248,three_bhk_rent_range
+gurgaon,DLF CITY PHASE 2,-,-,three_bhk_rent_range
+gurgaon,DLF CITY PHASE 3,-,-,three_bhk_rent_range
+gurgaon,DLF CITY PHASE 4,-,Rs. 27795 - 33354,three_bhk_rent_range
+gurgaon,DLF CITY PHASE 5,-,Rs. 26350 - 29750,three_bhk_rent_range
+gurgaon,Dwarka Expressway Gurgaon,Rs. 6864 - 9031,Rs. 9775 - 12708,three_bhk_rent_range
+gurgaon,Golf Course Ext. Road,Rs. 11098 - 13709,Rs. 24480 - 28560,three_bhk_rent_range
+gurgaon,Golf Course Road,-,Rs. 28511 - 33109,three_bhk_rent_range
+gurgaon,Gurgaon-Faridabad Road,-,-,three_bhk_rent_range
+gurgaon,Gwal Pahari,-,Rs. 14681 - 15545,three_bhk_rent_range
+gurgaon,Heritage City,-,Rs. 34391 - 39304,three_bhk_rent_range
+gurgaon,IMT Manesar,-,-,three_bhk_rent_range
+gurgaon,Malibu Town,-,-,three_bhk_rent_range
+gurgaon,MG Road,-,-,three_bhk_rent_range
+gurgaon,New Gurgaon,-,Rs. 9775 - 11730,three_bhk_rent_range
+gurgaon,NH-8,-,Rs. 11414 - 15218,three_bhk_rent_range
+gurgaon,Nirvana Country,-,Rs. 23800 - 26180,three_bhk_rent_range
+gurgaon,Palam Vihar,Rs. 16337 - 17391,Rs. 22270 - 23384,three_bhk_rent_range
+gurgaon,Rampura,-,-,three_bhk_rent_range
+gurgaon,Rosewood,-,Rs. 21596 - 23196,three_bhk_rent_range
+gurgaon,Sector-1 Imt Manesar,-,-,three_bhk_rent_range
+gurgaon,Sector-1A IMT Manesar,-,-,three_bhk_rent_range
+gurgaon,Sector-2 Gurgaon,-,Rs. 16524 - 17442,three_bhk_rent_range
+gurgaon,Sector-7 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-15 Gurgaon,Rs. 12679 - 14600,Rs. 14450 - 19508,three_bhk_rent_range
+gurgaon,Sector-22 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-28 Gurgaon,Rs. 11732 - 12607,Rs. 28994 - 33826,three_bhk_rent_range
+gurgaon,Sector-30 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-31 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-33 Gurgaon,-,Rs. 19242 - 22741,three_bhk_rent_range
+gurgaon,Sector-37 Gurgaon,-,Rs. 10812 - 11893,three_bhk_rent_range
+gurgaon,Sector-37C Gurgaon,-,Rs. 13260 - 14365,three_bhk_rent_range
+gurgaon,Sector-37D Gurgaon,-,Rs. 10812 - 11893,three_bhk_rent_range
+gurgaon,Sector-41 Gurgaon,-,Rs. 29555 - 33632,three_bhk_rent_range
+gurgaon,Sector-42 Gurgaon,Rs. 15810 - 18445,-,three_bhk_rent_range
+gurgaon,Sector-43 Gurgaon,-,Rs. 20840 - 26451,three_bhk_rent_range
+gurgaon,Sector-45 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-46 Gurgaon,-,Rs. 16004 - 20449,three_bhk_rent_range
+gurgaon,Sector-47 Gurgaon,-,Rs. 18625 - 20177,three_bhk_rent_range
+gurgaon,Sector-48 Gurgaon,Rs. 27975 - 38784,Rs. 36285 - 43088,three_bhk_rent_range
+gurgaon,Sector-49 Gurgaon,Rs. 11475 - 13540,Rs. 18700 - 23800,three_bhk_rent_range
+gurgaon,Sector-50 Gurgaon,-,Rs. 23800 - 26180,three_bhk_rent_range
+gurgaon,Sector-51 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-52 Gurgaon,Rs. 18785 - 20995,Rs. 25143 - 29478,three_bhk_rent_range
+gurgaon,Sector-53 Gurgaon,-,Rs. 33235 - 36168,three_bhk_rent_range
+gurgaon,Sector-54 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-55 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-56 Gurgaon,Rs. 12258 - 13857,Rs. 18118 - 21569,three_bhk_rent_range
+gurgaon,Sector-57 Gurgaon,-,Rs. 16796 - 20995,three_bhk_rent_range
+gurgaon,Sector-58 Gurgaon,-,Rs. 33691 - 41177,three_bhk_rent_range
+gurgaon,Sector-60 Gurgaon,-,Rs. 27907 - 31396,three_bhk_rent_range
+gurgaon,Sector-61 Gurgaon,-,Rs. 24847 - 28988,three_bhk_rent_range
+gurgaon,Sector-62 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-63 Gurgaon,-,Rs. 22603 - 23545,three_bhk_rent_range
+gurgaon,Sector-63A Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-65 Gurgaon,-,Rs. 20862 - 22467,three_bhk_rent_range
+gurgaon,Sector-66 Gurgaon,-,Rs. 26228 - 29974,three_bhk_rent_range
+gurgaon,Sector-67 Gurgaon,-,Rs. 26392 - 28688,three_bhk_rent_range
+gurgaon,Sector-69 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-70 Gurgaon,-,Rs. 20655 - 21802,three_bhk_rent_range
+gurgaon,Sector-70A Gurgaon,-,Rs. 18523 - 20839,three_bhk_rent_range
+gurgaon,Sector-71 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-72 Gurgaon,-,Rs. 23481 - 26244,three_bhk_rent_range
+gurgaon,Sector-76 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-77 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-78 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-80 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-81 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-82 Gurgaon,-,Rs. 10149 - 12686,three_bhk_rent_range
+gurgaon,Sector-82A Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-83 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-84 Gurgaon,-,Rs. 10556 - 11516,three_bhk_rent_range
+gurgaon,Sector-85 Gurgaon,-,Rs. 9050 - 12067,three_bhk_rent_range
+gurgaon,Sector-88A Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-88B Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-89 A Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-89 Gurgaon,-,Rs. 7704 - 10271,three_bhk_rent_range
+gurgaon,Sector-90 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-91 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-92 Gurgaon,-,Rs. 8288 - 9945,three_bhk_rent_range
+gurgaon,Sector-93 Gurgaon,-,Rs. 10540 - 11594,three_bhk_rent_range
+gurgaon,Sector-95 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-95A Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-99A Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-102 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-103 Gurgaon,-,Rs. 8758 - 10948,three_bhk_rent_range
+gurgaon,Sector-104 Gurgaon,-,Rs. 11220 - 13260,three_bhk_rent_range
+gurgaon,Sector-107 Gurgaon,-,Rs. 11050 - 12155,three_bhk_rent_range
+gurgaon,Sector-108 Gurgaon,-,Rs. 9180 - 12240,three_bhk_rent_range
+gurgaon,Sector-109 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-110 A Gurgaon,-,Rs. 16524 - 18360,three_bhk_rent_range
+gurgaon,Sector-110 Gurgaon,-,Rs. 16524 - 18360,three_bhk_rent_range
+gurgaon,Sector-111 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-112 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sector-113 Gurgaon,-,-,three_bhk_rent_range
+gurgaon,Sohna Road,-,Rs. 19224 - 23802,three_bhk_rent_range
+gurgaon,South City,-,Rs. 28964 - 34956,three_bhk_rent_range
+gurgaon,South City 1,-,Rs. 28372 - 34242,three_bhk_rent_range
+gurgaon,Southern Peripheral Road,-,Rs. 19508 - 20655,three_bhk_rent_range
+gurgaon,Sun City,-,-,three_bhk_rent_range
+gurgaon,Sushant Lok,-,Rs. 20400 - 25296,three_bhk_rent_range
+gurgaon,Sushant Lok Phase - 1,-,Rs. 20400 - 25296,three_bhk_rent_range
+gurgaon,Sushant Lok Phase - 2,-,-,three_bhk_rent_range
+gurgaon,Sushant Lok Phase - 3,-,Rs. 17578 - 23171,three_bhk_rent_range
+gurgaon,Vigyan Vihar,-,-,three_bhk_rent_range
+noida,Arun Vihar,-,Rs. 12716 - 17484,three_bhk_rent_range
+noida,Baraula,-,-,three_bhk_rent_range
+noida,Block C Sector-44 Noida,-,-,three_bhk_rent_range
+noida,Chhalera,-,-,three_bhk_rent_range
+noida,Hajipur,-,-,three_bhk_rent_range
+noida,Noida-Greater Noida Expressway,Rs. 10180 - 11585,Rs. 10078 - 11757,three_bhk_rent_range
+noida,Noida Extension,Rs. 3481 - 3978,Rs. 5414 - 6962,three_bhk_rent_range
+noida,Sector-16B Noida,-,-,three_bhk_rent_range
+noida,Sector-21 Noida,-,Rs. 12811 - 15213,three_bhk_rent_range
+noida,Sector-25 Noida,-,Rs. 12138 - 14566,three_bhk_rent_range
+noida,Sector-28 Noida,-,Rs. 20456 - 23865,three_bhk_rent_range
+noida,Sector-29 Noida,Rs. 7242 - 8147,Rs. 14960 - 17765,three_bhk_rent_range
+noida,Sector-30 Noida,-,-,three_bhk_rent_range
+noida,Sector-34 Noida,Rs. 7018 - 9211,Rs. 15147 - 15988,three_bhk_rent_range
+noida,Sector-37 Noida,-,Rs. 12920 - 16150,three_bhk_rent_range
+noida,Sector-44 Noida,-,-,three_bhk_rent_range
+noida,Sector-45 Noida,-,Rs. 14103 - 15866,three_bhk_rent_range
+noida,Sector-46 Noida,-,Rs. 10948 - 12512,three_bhk_rent_range
+noida,Sector-48 Noida,-,-,three_bhk_rent_range
+noida,Sector-49 Noida,-,-,three_bhk_rent_range
+noida,Sector-50 Noida,-,Rs. 13438 - 15230,three_bhk_rent_range
+noida,Sector-51 Noida,Rs. 9353 - 10690,Rs. 13120 - 15744,three_bhk_rent_range
+noida,Sector-52 Noida,Rs. 9125 - 11046,Rs. 13464 - 13464,three_bhk_rent_range
+noida,Sector-53 Noida,-,Rs. 10276 - 11067,three_bhk_rent_range
+noida,Sector-61 Noida,-,Rs. 12277 - 14165,three_bhk_rent_range
+noida,Sector-62 Noida,-,Rs. 11404 - 14035,three_bhk_rent_range
+noida,Sector-70 Noida,-,Rs. 12125 - 12934,three_bhk_rent_range
+noida,Sector-71 Noida,Rs. 7657 - 9571,-,three_bhk_rent_range
+noida,Sector-73 Noida,Rs. 4801 - 6001,-,three_bhk_rent_range
+noida,Sector-74 Noida,-,Rs. 12495 - 13388,three_bhk_rent_range
+noida,Sector-75 Noida,-,Rs. 10710 - 12495,three_bhk_rent_range
+noida,Sector-76 Noida,-,Rs. 10231 - 11936,three_bhk_rent_range
+noida,Sector-77 Noida,Rs. 7946 - 8364,Rs. 11216 - 13804,three_bhk_rent_range
+noida,Sector-78 Noida,Rs. 7925 - 10127,Rs. 11337 - 13082,three_bhk_rent_range
+noida,Sector-79 Noida,-,-,three_bhk_rent_range
+noida,Sector-82 Noida,Rs. 6962 - 8354,Rs. 9331 - 10180,three_bhk_rent_range
+noida,Sector-92 Noida,-,-,three_bhk_rent_range
+noida,Sector-93 B Noida,-,Rs. 13388 - 15172,three_bhk_rent_range
+noida,Sector-93 Noida,-,Rs. 11768 - 14484,three_bhk_rent_range
+noida,Sector-94 Noida,-,-,three_bhk_rent_range
+noida,Sector-99 Noida,-,-,three_bhk_rent_range
+noida,Sector-100 Noida,-,Rs. 13348 - 15402,three_bhk_rent_range
+noida,Sector-104 Noida,-,-,three_bhk_rent_range
+noida,Sector-107 Noida,-,Rs. 14025 - 14960,three_bhk_rent_range
+noida,Sector-108 Noida,-,-,three_bhk_rent_range
+noida,Sector-110 Noida,-,Rs. 10781 - 12578,three_bhk_rent_range
+noida,Sector-117 Noida,-,Rs. 5760 - 7041,three_bhk_rent_range
+noida,Sector-118 Noida,-,-,three_bhk_rent_range
+noida,Sector-119 Noida,-,Rs. 9750 - 10724,three_bhk_rent_range
+noida,Sector-120 Noida,Rs. 8124 - 8576,Rs. 9266 - 10108,three_bhk_rent_range
+noida,Sector-121 Noida,-,Rs. 9476 - 11055,three_bhk_rent_range
+noida,Sector-128 Noida,Rs. 12282 - 15172,Rs. 12515 - 15644,three_bhk_rent_range
+noida,Sector-129 Noida,-,-,three_bhk_rent_range
+noida,Sector-132 Noida,-,-,three_bhk_rent_range
+noida,Sector-133 Noida,-,-,three_bhk_rent_range
+noida,Sector-134 Noida,-,Rs. 7166 - 8599,three_bhk_rent_range
+noida,Sector-135 Noida,-,Rs. 9935 - 10763,three_bhk_rent_range
+noida,Sector-137 Noida,Rs. 10532 - 11585,Rs. 10027 - 11698,three_bhk_rent_range
+noida,Sector-143 Noida,-,Rs. 8415 - 10098,three_bhk_rent_range
+noida,Sector-143B Noida,-,-,three_bhk_rent_range
+noida,Sector-144 Noida,-,-,three_bhk_rent_range
+noida,Sector-150 Noida,-,-,three_bhk_rent_range
+noida,Sector-151 Noida,-,Rs. 6212 - 7592,three_bhk_rent_range
+noida,Sector-152 Noida,-,-,three_bhk_rent_range
+noida,Sector-168 Noida,-,-,three_bhk_rent_range
+noida,Alpha-I Gr Noida,-,Rs. 9818 - 10710,three_bhk_rent_range
+noida,Alpha-II Gr Noida,-,Rs. 9086 - 9995,three_bhk_rent_range
+noida,Eta II,-,-,three_bhk_rent_range
+noida,Greater Noida West,-,Rs. 6297 - 7084,three_bhk_rent_range
+noida,Gurjinder Vihar,-,-,three_bhk_rent_range
+noida,Jaypee Greens,-,Rs. 13404 - 17426,three_bhk_rent_range
+noida,Omega II  Gr Noida,-,-,three_bhk_rent_range
+noida,Pari Chowk,-,Rs. 7480 - 9350,three_bhk_rent_range
+noida,Sector-2 Gr Noida,-,Rs. 5629 - 7237,three_bhk_rent_range
+noida,Sector-4 Gr Noida,-,Rs. 7459 - 8288,three_bhk_rent_range
+noida,Sector-10 Greater Noida West,-,-,three_bhk_rent_range
+noida,Sector-16 B Gr Noida,-,-,three_bhk_rent_range
+noida,Sector-16 Gr Noida,-,-,three_bhk_rent_range
+noida,Sector-16C Greater Noida,-,Rs. 6358 - 7948,three_bhk_rent_range
+noida,Sector-Pi Gr Noida,-,Rs. 8044 - 11061,three_bhk_rent_range
+noida,Sector 1 Greater Noida West,Rs. 4675 - 5610,Rs. 5712 - 7344,three_bhk_rent_range
+noida,Sector 17A,-,-,three_bhk_rent_range
+noida,Sector Chi-2 Greater Noida,-,-,three_bhk_rent_range
+noida,Sector Chi 3 Gr Noida,-,-,three_bhk_rent_range
+noida,Sector Chi 4 Gr Noida,-,-,three_bhk_rent_range
+noida,Sector Chi 5 Gr Noida,-,-,three_bhk_rent_range
+noida,Sector Chi Gr Noida,-,-,three_bhk_rent_range
+noida,Sector MU 2 Greater Noida,-,-,three_bhk_rent_range
+noida,Sector Mu Gr Noida,-,-,three_bhk_rent_range
+noida,Sector Omega -1 Gr Noida,-,-,three_bhk_rent_range
+noida,Sector Omicron 1A Greater Noida,-,-,three_bhk_rent_range
+noida,Sector Omicron I Greater Noida,Rs. 7381 - 8546,Rs. 6460 - 8075,three_bhk_rent_range
+noida,Sector Omicron III Greater Noida,-,Rs. 6936 - 7803,three_bhk_rent_range
+noida,Sector Phi  Gr Noida,-,Rs. 7948 - 8670,three_bhk_rent_range
+noida,Sector Phi IV Greater Noida,-,Rs. 6842 - 6842,three_bhk_rent_range
+noida,Sector Phi Ll Gr Noida,-,Rs. 7948 - 8670,three_bhk_rent_range
+noida,Sector Pi- 1 Gr Noida,-,Rs. 8687 - 11293,three_bhk_rent_range
+noida,Sector Pi- II Gr Noida,-,Rs. 8500 - 11688,three_bhk_rent_range
+noida,Sector ZETA Gr Noida,Rs. 4930 - 4930,Rs. 7140 - 8925,three_bhk_rent_range
+noida,Sector ZETA I Gr Noida,Rs. 4930 - 4930,Rs. 7133 - 8916,three_bhk_rent_range
+noida,Shahberi,-,-,three_bhk_rent_range
+noida,Sigma IV,-,-,three_bhk_rent_range
+noida,Site C Gr Noida,-,Rs. 6249 - 7812,three_bhk_rent_range
+noida,Surajpur,-,-,three_bhk_rent_range
+noida,Swaran Nagri,-,-,three_bhk_rent_range
+noida,Techzone,-,Rs. 5916 - 7395,three_bhk_rent_range
+noida,Techzone 4 Greater Noida West,-,Rs. 5916 - 7395,three_bhk_rent_range
+noida,Yamuna Expressway,-,-,three_bhk_rent_range
+ghaziabad,Abhay Khand,-,Rs. 9894 - 12862,three_bhk_rent_range
+ghaziabad,Abhay Khand 3,-,-,three_bhk_rent_range
+ghaziabad,Ahinsa Khand,-,Rs. 11230 - 14038,three_bhk_rent_range
+ghaziabad,Ahinsa Khand 1,-,Rs. 12155 - 14960,three_bhk_rent_range
+ghaziabad,Ahinsa Khand 2,-,Rs. 10752 - 12708,three_bhk_rent_range
+ghaziabad,Ankur Vihar,-,-,three_bhk_rent_range
+ghaziabad,Bamheta,-,Rs. 4427 - 5692,three_bhk_rent_range
+ghaziabad,Bhopura,-,-,three_bhk_rent_range
+ghaziabad,Crossing Republik,-,Rs. 6521 - 7453,three_bhk_rent_range
+ghaziabad,Dasna,-,-,three_bhk_rent_range
+ghaziabad,Dundahera,-,-,three_bhk_rent_range
+ghaziabad,Gyan Khand,-,-,three_bhk_rent_range
+ghaziabad,Gyan Khand 3,-,-,three_bhk_rent_range
+ghaziabad,Indirapuram,-,Rs. 11016 - 13770,three_bhk_rent_range
+ghaziabad,Judges Enclave,-,Rs. 10238 - 11169,three_bhk_rent_range
+ghaziabad,Kaushambi,-,Rs. 11526 - 12294,three_bhk_rent_range
+ghaziabad,Kinauni Village,-,-,three_bhk_rent_range
+ghaziabad,Lajpat Nagar - Ghaziabad,-,-,three_bhk_rent_range
+ghaziabad,Lal Kuan,-,Rs. 4992 - 5705,three_bhk_rent_range
+ghaziabad,Loni,-,-,three_bhk_rent_range
+ghaziabad,Madhuban Bapudham,-,-,three_bhk_rent_range
+ghaziabad,Mehrauli,-,Rs. 5562 - 6258,three_bhk_rent_range
+ghaziabad,Mohan Nagar,-,-,three_bhk_rent_range
+ghaziabad,N.H-58,-,-,three_bhk_rent_range
+ghaziabad,NH-24 Highway,-,Rs. 5807 - 6533,three_bhk_rent_range
+ghaziabad,NH 91,-,Rs. 4992 - 5705,three_bhk_rent_range
+ghaziabad,Niti Khand,-,-,three_bhk_rent_range
+ghaziabad,Nyay Khand 1,-,Rs. 11149 - 13007,three_bhk_rent_range
+ghaziabad,Nyay Khand 2,-,Rs. 9119 - 9879,three_bhk_rent_range
+ghaziabad,Nyay Khand III,-,-,three_bhk_rent_range
+ghaziabad,Pratap Vihar,-,-,three_bhk_rent_range
+ghaziabad,Rajendar Nagar,-,Rs. 6120 - 7650,three_bhk_rent_range
+ghaziabad,Raj Nagar Extension,-,Rs. 6059 - 7574,three_bhk_rent_range
+ghaziabad,Ramprastha,-,-,three_bhk_rent_range
+ghaziabad,Ramprastha Greens,-,Rs. 14606 - 16432,three_bhk_rent_range
+ghaziabad,Sahibabad,-,-,three_bhk_rent_range
+ghaziabad,Sanjay Nagar,-,-,three_bhk_rent_range
+ghaziabad,Sector-1 Vaishali,Rs. 9889 - 10360,Rs. 11696 - 12427,three_bhk_rent_range
+ghaziabad,Sector-1 Vasundhara,-,-,three_bhk_rent_range
+ghaziabad,Sector-2 Vaishali,-,-,three_bhk_rent_range
+ghaziabad,Sector-3 Vaishali,-,Rs. 13388 - 14280,three_bhk_rent_range
+ghaziabad,Sector-3 Vasundhara,-,Rs. 9843 - 11812,three_bhk_rent_range
+ghaziabad,Sector-4 Vaishali,-,Rs. 12750 - 13600,three_bhk_rent_range
+ghaziabad,Sector-4C Vasundhara,-,-,three_bhk_rent_range
+ghaziabad,Sector-5 Vaishali,Rs. 6341 - 7292,Rs. 12417 - 13193,three_bhk_rent_range
+ghaziabad,Sector-5 Vasundhara,-,-,three_bhk_rent_range
+ghaziabad,Sector-7 Vaishali,-,-,three_bhk_rent_range
+ghaziabad,Sector-9 Vaishali,-,Rs. 11233 - 13479,three_bhk_rent_range
+ghaziabad,Sector 9 Vasundhara,-,-,three_bhk_rent_range
+ghaziabad,Shakti Khand,-,-,three_bhk_rent_range
+ghaziabad,Shalimar Garden,Rs. 4675 - 5100,Rs. 6800 - 7650,three_bhk_rent_range
+ghaziabad,Shalimar Garden Extension I,-,Rs. 6827 - 8534,three_bhk_rent_range
+ghaziabad,Shalimar Garden Extension II,-,Rs. 6732 - 7480,three_bhk_rent_range
+ghaziabad,Siddhartha Vihar,Rs. 4376 - 5105,-,three_bhk_rent_range
+ghaziabad,Surya Nagar,-,-,three_bhk_rent_range
+ghaziabad,Vaibhav Khand,-,Rs. 11602 - 12495,three_bhk_rent_range
+ghaziabad,Vaishali,Rs. 8476 - 9889,Rs. 12750 - 14450,three_bhk_rent_range
+ghaziabad,Vasundhara,-,Rs. 10618 - 12388,three_bhk_rent_range
+ghaziabad,Vijay Nagar,-,-,three_bhk_rent_range
+ghaziabad,Wave City,-,-,three_bhk_rent_range
+faridabad,Charmwood Village,-,Rs. 20738 - 22624,three_bhk_rent_range
+faridabad,Nehar Par,-,Rs. 8453 - 10332,three_bhk_rent_range
+faridabad,Sector 21C Faridabad,-,-,three_bhk_rent_range
+faridabad,Sector 21D Faridabad,-,-,three_bhk_rent_range
+faridabad,Sector 39 Faridabad,-,Rs. 20738 - 22624,three_bhk_rent_range
+faridabad,Sector 43 Faridabad,-,-,three_bhk_rent_range
+faridabad,Sector 45 Faridabad,-,-,three_bhk_rent_range
+faridabad,Sector 46 Faridabad,-,-,three_bhk_rent_range
+faridabad,Sector 48 Faridabad,-,-,three_bhk_rent_range
+faridabad,Sector 70 Faridabad,-,Rs. 7317 - 9146,three_bhk_rent_range
+faridabad,Sector 75 Faridabad,-,-,three_bhk_rent_range
+faridabad,Sector 76 Faridabad,-,-,three_bhk_rent_range
+faridabad,Sector 77 Faridabad,-,Rs. 5829 - 6801,three_bhk_rent_range
+faridabad,Sector 78 Faridabad,-,-,three_bhk_rent_range
+faridabad,Sector 79 Faridabad,-,-,three_bhk_rent_range
+faridabad,Sector 80 Faridabad,-,-,three_bhk_rent_range
+faridabad,Sector 81 Faridabad,-,-,three_bhk_rent_range
+faridabad,Sector 82 Faridabad,-,-,three_bhk_rent_range
+faridabad,Sector 84 Faridabad,-,-,three_bhk_rent_range
+faridabad,Sector 85 Faridabad,-,-,three_bhk_rent_range
+faridabad,Sector 86 Faridabad,-,Rs. 9350 - 12155,three_bhk_rent_range
+faridabad,Sector 87 Faridabad,-,-,three_bhk_rent_range
+faridabad,Sector 88 Faridabad,-,Rs. 9096 - 10106,three_bhk_rent_range
+faridabad,Sector 89 Faridabad,-,Rs. 6872 - 7854,three_bhk_rent_range
+faridabad,Suraj Kund,-,-,three_bhk_rent_range
+mumbai,Anand Nagar,Rs. 10811 - 11751,Rs. 17000 - 18700,three_bhk_rent_range
+mumbai,Balkum,Rs. 10353 - 13459,-,three_bhk_rent_range
+mumbai,Brahmand,Rs. 11016 - 11934,Rs. 15172 - 17340,three_bhk_rent_range
+mumbai,Budhaji Nagar,Rs. 8925 - 11602,-,three_bhk_rent_range
+mumbai,Charai,-,Rs. 20655 - 25474,three_bhk_rent_range
+mumbai,Dhobi Ali,-,-,three_bhk_rent_range
+mumbai,Dhokali,Rs. 12750 - 14280,Rs. 17536 - 20586,three_bhk_rent_range
+mumbai,Diva Gaon,-,-,three_bhk_rent_range
+mumbai,Dokali Pada,-,Rs. 17497 - 21301,three_bhk_rent_range
+mumbai,Gawand Baug,-,-,three_bhk_rent_range
+mumbai,G B Road,-,-,three_bhk_rent_range
+mumbai,Ghodbunder Road,Rs. 11613 - 14642,Rs. 16833 - 20840,three_bhk_rent_range
+mumbai,Hiranandani Estate,Rs. 15810 - 17340,Rs. 21619 - 24021,three_bhk_rent_range
+mumbai,Hiranandani Meadows,-,Rs. 25474 - 28022,three_bhk_rent_range
+mumbai,Kailash Nagar,-,-,three_bhk_rent_range
+mumbai,Kalher,-,-,three_bhk_rent_range
+mumbai,Kalwa,Rs. 10540 - 12121,Rs. 13424 - 15793,three_bhk_rent_range
+mumbai,Kapurbawadi,Rs. 13685 - 15327,Rs. 19380 - 21802,three_bhk_rent_range
+mumbai,Kasar Vadavali,Rs. 9775 - 11241,Rs. 13421 - 15540,three_bhk_rent_range
+mumbai,Kasheli,-,-,three_bhk_rent_range
+mumbai,Kavesar,Rs. 11832 - 12818,Rs. 18289 - 19951,three_bhk_rent_range
+mumbai,Khopat,Rs. 14864 - 16402,Rs. 20196 - 23188,three_bhk_rent_range
+mumbai,Kolshet Industrial Area,-,-,three_bhk_rent_range
+mumbai,Kolshet Road,Rs. 13294 - 14450,Rs. 16779 - 17578,three_bhk_rent_range
+mumbai,Kopri,-,Rs. 22610 - 24225,three_bhk_rent_range
+mumbai,Laxmi Nagar,-,-,three_bhk_rent_range
+mumbai,Louis Wadi,Rs. 13570 - 17510,-,three_bhk_rent_range
+mumbai,Majiwada,Rs. 13426 - 16906,Rs. 19859 - 22568,three_bhk_rent_range
+mumbai,Manisha Nagar,Rs. 8693 - 11177,-,three_bhk_rent_range
+mumbai,Manpada,Rs. 14174 - 15151,Rs. 21229 - 23776,three_bhk_rent_range
+mumbai,Naupada,Rs. 16320 - 18360,Rs. 26086 - 31136,three_bhk_rent_range
+mumbai,Owale,Rs. 8476 - 10360,Rs. 11603 - 15016,three_bhk_rent_range
+mumbai,Panch Pakhadi,Rs. 16266 - 18299,Rs. 22610 - 26648,three_bhk_rent_range
+mumbai,Parsik Nagar,Rs. 10710 - 11246,Rs. 13728 - 16150,three_bhk_rent_range
+mumbai,Patlipada,Rs. 12852 - 15708,Rs. 18062 - 20952,three_bhk_rent_range
+mumbai,Pokharan Road,-,Rs. 18514 - 22539,three_bhk_rent_range
+mumbai,Pokhran-2,Rs. 14356 - 15792,Rs. 21038 - 25245,three_bhk_rent_range
+mumbai,Sai Nagar,Rs. 10622 - 13036,Rs. 13114 - 14494,three_bhk_rent_range
+mumbai,Sainath Nagar,Rs. 14756 - 16660,Rs. 20591 - 23062,three_bhk_rent_range
+mumbai,Samata Nagar,Rs. 15664 - 17046,Rs. 23460 - 25806,three_bhk_rent_range
+mumbai,Shree Nagar,-,-,three_bhk_rent_range
+mumbai,Teen Haath Naka,Rs. 14178 - 16541,Rs. 23689 - 25217,three_bhk_rent_range
+mumbai,Thane (East),Rs. 14144 - 15912,Rs. 20230 - 24565,three_bhk_rent_range
+mumbai,Thane West,Rs. 11437 - 14918,Rs. 17634 - 21642,three_bhk_rent_range
+mumbai,Uthalsar,-,-,three_bhk_rent_range
+mumbai,Vartak Nagar,Rs. 14535 - 15020,Rs. 17660 - 18921,three_bhk_rent_range
+mumbai,Vasant Vihar,Rs. 13948 - 15808,Rs. 22015 - 24374,three_bhk_rent_range
+mumbai,Vijay Nagari,Rs. 10772 - 12645,Rs. 16830 - 19125,three_bhk_rent_range
+mumbai,Vitawa,-,-,three_bhk_rent_range
+mumbai,Waghbil,Rs. 11144 - 12597,Rs. 14793 - 17908,three_bhk_rent_range
+mumbai,Wagle Estate,Rs. 14282 - 16585,-,three_bhk_rent_range
+mumbai,Adharwadi,Rs. 5142 - 6078,Rs. 7268 - 8882,three_bhk_rent_range
+mumbai,Ambernath,Rs. 4141 - 5176,Rs. 5868 - 7336,three_bhk_rent_range
+mumbai,Ambernath East,-,Rs. 6351 - 8733,three_bhk_rent_range
+mumbai,Ambernath West,Rs. 4114 - 5142,Rs. 6502 - 7225,three_bhk_rent_range
+mumbai,Ambivli,Rs. 2601 - 3468,-,three_bhk_rent_range
+mumbai,Amrut Nagar,Rs. 22908 - 26180,-,three_bhk_rent_range
+mumbai,Anand Nagar,-,-,three_bhk_rent_range
+mumbai,Anjurdive,-,-,three_bhk_rent_range
+mumbai,Asangaon,-,-,three_bhk_rent_range
+mumbai,Atgaon,-,-,three_bhk_rent_range
+mumbai,Badlapur,Rs. 3528 - 4032,Rs. 4360 - 5814,three_bhk_rent_range
+mumbai,Badlapur (East),Rs. 2830 - 3774,Rs. 5022 - 5739,three_bhk_rent_range
+mumbai,Badlapur (West),Rs. 3131 - 4175,Rs. 4529 - 6038,three_bhk_rent_range
+mumbai,Belavali,Rs. 3213 - 4284,-,three_bhk_rent_range
+mumbai,Bhivpuri,-,-,three_bhk_rent_range
+mumbai,Bhiwandi,Rs. 4483 - 5479,Rs. 8181 - 9669,three_bhk_rent_range
+mumbai,Bhoiwada,-,Rs. 62397 - 70448,three_bhk_rent_range
+mumbai,Chanakya Nagar,-,-,three_bhk_rent_range
+mumbai,Chikan Ghar,-,Rs. 11900 - 13600,three_bhk_rent_range
+mumbai,Chikholi,Rs. 3820 - 4366,-,three_bhk_rent_range
+mumbai,Desale Pada,-,-,three_bhk_rent_range
+mumbai,Devicha Pada,-,-,three_bhk_rent_range
+mumbai,Diva,Rs. 3699 - 5086,-,three_bhk_rent_range
+mumbai,Dombivli (East),Rs. 6365 - 7834,Rs. 9381 - 10825,three_bhk_rent_range
+mumbai,Dombivli (West),-,Rs. 7684 - 9989,three_bhk_rent_range
+mumbai,Gandhar Nagar,Rs. 7140 - 8160,Rs. 10498 - 12112,three_bhk_rent_range
+mumbai,Gauripada,-,-,three_bhk_rent_range
+mumbai,Gograswadi,-,-,three_bhk_rent_range
+mumbai,Hendre Pada,-,-,three_bhk_rent_range
+mumbai,Jadhav Colony,-,-,three_bhk_rent_range
+mumbai,Joveli Gaon,-,-,three_bhk_rent_range
+mumbai,Kalu Nagar,-,-,three_bhk_rent_range
+mumbai,Kalwa,-,-,three_bhk_rent_range
+mumbai,Kalyan (East),-,-,three_bhk_rent_range
+mumbai,Kalyan (West),Rs. 6630 - 7650,Rs. 10663 - 12304,three_bhk_rent_range
+mumbai,Karjat,-,-,three_bhk_rent_range
+mumbai,Katemanivali,-,-,three_bhk_rent_range
+mumbai,Katrap,Rs. 3213 - 4284,Rs. 5319 - 6079,three_bhk_rent_range
+mumbai,Khadakpada,Rs. 6630 - 7650,Rs. 10575 - 12202,three_bhk_rent_range
+mumbai,Kharegaon,Rs. 9775 - 10752,-,three_bhk_rent_range
+mumbai,Kharvai,Rs. 2805 - 3272,-,three_bhk_rent_range
+mumbai,Khatiwali,-,-,three_bhk_rent_range
+mumbai,Khoni,-,-,three_bhk_rent_range
+mumbai,Khopoli,Rs. 4437 - 5423,-,three_bhk_rent_range
+mumbai,Kopargaon,-,-,three_bhk_rent_range
+mumbai,Kulgaon,Rs. 3570 - 4080,-,three_bhk_rent_range
+mumbai,Manda,Rs. 3835 - 4794,-,three_bhk_rent_range
+mumbai,Manjarli,Rs. 3213 - 4284,-,three_bhk_rent_range
+mumbai,Morivali,-,-,three_bhk_rent_range
+mumbai,Mumbra,-,-,three_bhk_rent_range
+mumbai,Nandivali Panchanand,-,-,three_bhk_rent_range
+mumbai,Nandivli,-,-,three_bhk_rent_range
+mumbai,Neral,-,-,three_bhk_rent_range
+mumbai,Nilje Gaon,Rs. 7012 - 7480,Rs. 9238 - 9948,three_bhk_rent_range
+mumbai,Pandurangwadi,-,-,three_bhk_rent_range
+mumbai,Pendse Nagar,-,-,three_bhk_rent_range
+mumbai,Radha Nagar,-,-,three_bhk_rent_range
+mumbai,Rambaug,-,-,three_bhk_rent_range
+mumbai,Rameshwadi,-,-,three_bhk_rent_range
+mumbai,Sagaon,-,-,three_bhk_rent_range
+mumbai,Sangeeta Wadi,-,-,three_bhk_rent_range
+mumbai,Shahad,-,-,three_bhk_rent_range
+mumbai,Shahpur,-,-,three_bhk_rent_range
+mumbai,Shastri Nagar,-,-,three_bhk_rent_range
+mumbai,Shirgaon,Rs. 3510 - 4012,Rs. 5034 - 5753,three_bhk_rent_range
+mumbai,Sunil Nagar,-,-,three_bhk_rent_range
+mumbai,Thakurli,Rs. 6630 - 7650,-,three_bhk_rent_range
+mumbai,Tilak Nagar,-,-,three_bhk_rent_range
+mumbai,Titwala,Rs. 3951 - 4938,Rs. 6256 - 7038,three_bhk_rent_range
+mumbai,Ulhasnagar,-,-,three_bhk_rent_range
+mumbai,Umesh Nagar,-,-,three_bhk_rent_range
+mumbai,Valivali Gaon,-,-,three_bhk_rent_range
+mumbai,Vangani,Rs. 2570 - 2999,-,three_bhk_rent_range
+mumbai,Vasind,Rs. 2720 - 3060,-,three_bhk_rent_range
+mumbai,Vishnunagar,-,-,three_bhk_rent_range
+mumbai,Wayale Nagar,-,-,three_bhk_rent_range
+mumbai,Wayle Nagar,Rs. 6763 - 8323,Rs. 10498 - 12112,three_bhk_rent_range
+mumbai,Yogidham,Rs. 6818 - 8391,-,three_bhk_rent_range
+mumbai,Agashi,-,-,three_bhk_rent_range
+mumbai,Ambawadi,-,-,three_bhk_rent_range
+mumbai,Bevarly Park,Rs. 9818 - 10752,Rs. 13243 - 15334,three_bhk_rent_range
+mumbai,Bhayander (East),Rs. 9282 - 11050,Rs. 12971 - 14268,three_bhk_rent_range
+mumbai,Bhayander (West),-,-,three_bhk_rent_range
+mumbai,Boisar,-,-,three_bhk_rent_range
+mumbai,Bolinj,-,-,three_bhk_rent_range
+mumbai,Chandan Shanti,-,-,three_bhk_rent_range
+mumbai,Chikhal Dongari,Rs. 4530 - 5890,Rs. 5539 - 7385,three_bhk_rent_range
+mumbai,Dongarpada,-,-,three_bhk_rent_range
+mumbai,Geeta Nagar,-,-,three_bhk_rent_range
+mumbai,Ghodev,-,-,three_bhk_rent_range
+mumbai,Gokul Township,-,-,three_bhk_rent_range
+mumbai,Hatkesh Udhog Nagar,Rs. 9139 - 10445,Rs. 12179 - 13532,three_bhk_rent_range
+mumbai,Jesal Park,-,-,three_bhk_rent_range
+mumbai,Juchandra,-,-,three_bhk_rent_range
+mumbai,Kanakia Park,Rs. 8925 - 10710,Rs. 13296 - 16989,three_bhk_rent_range
+mumbai,Kashimira,-,Rs. 11465 - 13614,three_bhk_rent_range
+mumbai,Lakshmiben Chedda Nagar,-,-,three_bhk_rent_range
+mumbai,Medetiya Nagar,-,-,three_bhk_rent_range
+mumbai,Mira Bhayandar,Rs. 10192 - 11581,Rs. 14110 - 16226,three_bhk_rent_range
+mumbai,Mira Road,Rs. 9818 - 11220,Rs. 13906 - 15992,three_bhk_rent_range
+mumbai,Mira Road East,Rs. 9782 - 11645,Rs. 13485 - 16324,three_bhk_rent_range
+mumbai,Morya Nagar,Rs. 4122 - 4947,Rs. 5432 - 6035,three_bhk_rent_range
+mumbai,Naigaon (East),Rs. 4254 - 5028,-,three_bhk_rent_range
+mumbai,Naigaon (West),Rs. 4122 - 4947,Rs. 5432 - 6035,three_bhk_rent_range
+mumbai,Nalasopara (West),Rs. 4122 - 4535,Rs. 5470 - 6685,three_bhk_rent_range
+mumbai,Nalasopara East,Rs. 4122 - 4947,Rs. 5699 - 6966,three_bhk_rent_range
+mumbai,Nallasopara,Rs. 4122 - 4947,Rs. 5584 - 6826,three_bhk_rent_range
+mumbai,Navghar Gaon,-,-,three_bhk_rent_range
+mumbai,Nilemore,Rs. 4122 - 4947,Rs. 5508 - 6120,three_bhk_rent_range
+mumbai,Poonam Gardens,-,-,three_bhk_rent_range
+mumbai,Poonam Nagar,-,-,three_bhk_rent_range
+mumbai,Poonam Sagar Complex,-,-,three_bhk_rent_range
+mumbai,Ramdev Park,-,-,three_bhk_rent_range
+mumbai,Shanti Nagar,-,-,three_bhk_rent_range
+mumbai,Shanti Park,-,-,three_bhk_rent_range
+mumbai,Sheetal Nagar,-,-,three_bhk_rent_range
+mumbai,Sriprastha,-,-,three_bhk_rent_range
+mumbai,Vasai,Rs. 6210 - 7166,Rs. 8170 - 9532,three_bhk_rent_range
+mumbai,Vasai East,Rs. 6210 - 7166,Rs. 8170 - 9532,three_bhk_rent_range
+mumbai,Vasai Road,-,-,three_bhk_rent_range
+mumbai,Vasai West,Rs. 6464 - 7459,Rs. 8895 - 9580,three_bhk_rent_range
+mumbai,Vasant Nagari,-,-,three_bhk_rent_range
+mumbai,Vijay Park,-,-,three_bhk_rent_range
+mumbai,Vinay Nagar,-,-,three_bhk_rent_range
+mumbai,Virar,Rs. 4684 - 5620,Rs. 6044 - 7386,three_bhk_rent_range
+mumbai,Virar East,Rs. 3995 - 5194,-,three_bhk_rent_range
+mumbai,Virar West,Rs. 4684 - 5620,Rs. 6044 - 7386,three_bhk_rent_range
+mumbai,Y K Nagar,-,-,three_bhk_rent_range
+mumbai,4 Bunglows,Rs. 24225 - 31025,Rs. 43350 - 48450,three_bhk_rent_range
+mumbai,Aarey Milk Colony,Rs. 16371 - 20464,Rs. 21216 - 23338,three_bhk_rent_range
+mumbai,Akurli Nagar,-,-,three_bhk_rent_range
+mumbai,Alika Nagar,-,-,three_bhk_rent_range
+mumbai,Ambivali,-,-,three_bhk_rent_range
+mumbai,Amboli,Rs. 21038 - 22185,Rs. 36902 - 43680,three_bhk_rent_range
+mumbai,Anand Nagar,-,Rs. 43605 - 45220,three_bhk_rent_range
+mumbai,Andheri (East),Rs. 23842 - 27115,Rs. 36832 - 42437,three_bhk_rent_range
+mumbai,Andheri (West),Rs. 22440 - 28985,Rs. 36834 - 46238,three_bhk_rent_range
+mumbai,Andheri MIDC,Rs. 14280 - 17850,-,three_bhk_rent_range
+mumbai,Asara Colony,-,-,three_bhk_rent_range
+mumbai,Asha Nagar,Rs. 16940 - 19111,Rs. 23264 - 25923,three_bhk_rent_range
+mumbai,Azad Nagar,Rs. 22366 - 26474,Rs. 38312 - 42388,three_bhk_rent_range
+mumbai,Babhai,-,-,three_bhk_rent_range
+mumbai,Bangur Nagar,Rs. 17738 - 21573,Rs. 30842 - 34604,three_bhk_rent_range
+mumbai,Bhagat Colony,-,-,three_bhk_rent_range
+mumbai,Borivali (East),Rs. 14941 - 18017,Rs. 26086 - 30039,three_bhk_rent_range
+mumbai,Borivali (West),Rs. 15262 - 18314,Rs. 23113 - 28016,three_bhk_rent_range
+mumbai,Cama Industrial Estate,-,-,three_bhk_rent_range
+mumbai,Chakala,Rs. 16565 - 18635,Rs. 39100 - 46138,three_bhk_rent_range
+mumbai,Charkop,Rs. 15895 - 17298,Rs. 20301 - 22477,three_bhk_rent_range
+mumbai,Chikuwadi,Rs. 15667 - 18278,-,three_bhk_rent_range
+mumbai,Chincholi Bunder,Rs. 21408 - 24030,Rs. 26596 - 29763,three_bhk_rent_range
+mumbai,Churi Wadi,-,-,three_bhk_rent_range
+mumbai,Dahanukar Wadi,-,-,three_bhk_rent_range
+mumbai,Dahisar,Rs. 13064 - 14866,Rs. 17468 - 20961,three_bhk_rent_range
+mumbai,Dahisar (East),Rs. 12566 - 13913,Rs. 16606 - 19373,three_bhk_rent_range
+mumbai,Dahisar (West),Rs. 14866 - 16218,Rs. 21675 - 24565,three_bhk_rent_range
+mumbai,Dattaguru Nagar,-,Rs. 40759 - 45005,three_bhk_rent_range
+mumbai,Dattapada,-,-,three_bhk_rent_range
+mumbai,Daulat Nagar,-,-,three_bhk_rent_range
+mumbai,Devipada,-,-,three_bhk_rent_range
+mumbai,Dindoshi,Rs. 19354 - 21879,Rs. 27455 - 33235,three_bhk_rent_range
+mumbai,DN Nagar,-,Rs. 36125 - 43350,three_bhk_rent_range
+mumbai,Eksar,-,-,three_bhk_rent_range
+mumbai,Ekta Nagar,Rs. 12342 - 14212,-,three_bhk_rent_range
+mumbai,Evershine Nagar,Rs. 15580 - 17978,Rs. 29070 - 31492,three_bhk_rent_range
+mumbai,Film City Road,Rs. 20918 - 23192,Rs. 33017 - 37250,three_bhk_rent_range
+mumbai,Gokuldham,Rs. 19125 - 21250,Rs. 36168 - 40078,three_bhk_rent_range
+mumbai,Gorai,-,-,three_bhk_rent_range
+mumbai,Goregaon (East),Rs. 19518 - 22695,Rs. 33150 - 38250,three_bhk_rent_range
+mumbai,Goregaon (West),Rs. 20102 - 23842,Rs. 32094 - 36679,three_bhk_rent_range
+mumbai,Hanuman Nagar,-,-,three_bhk_rent_range
+mumbai,Hemu Colony,-,-,three_bhk_rent_range
+mumbai,I C Colony,Rs. 14198 - 15973,Rs. 23399 - 25663,three_bhk_rent_range
+mumbai,Irani Wadi,-,-,three_bhk_rent_range
+mumbai,Jankalyan Nagar,Rs. 16541 - 18431,Rs. 22924 - 25981,three_bhk_rent_range
+mumbai,Jawahar Nagar,Rs. 16906 - 21675,Rs. 26732 - 30345,three_bhk_rent_range
+mumbai,Jay Prakash Nagar,Rs. 18700 - 21505,Rs. 27455 - 31068,three_bhk_rent_range
+mumbai,J B Nagar,Rs. 24544 - 26775,Rs. 37952 - 44412,three_bhk_rent_range
+mumbai,Jogeshwari (East),Rs. 22908 - 26648,Rs. 39950 - 44200,three_bhk_rent_range
+mumbai,Jogeshwari (West),Rs. 20102 - 22440,Rs. 32300 - 41182,three_bhk_rent_range
+mumbai,JVLR,Rs. 21926 - 24318,Rs. 39950 - 45050,three_bhk_rent_range
+mumbai,Kajupada,-,-,three_bhk_rent_range
+mumbai,Kanchpada,Rs. 21802 - 27616,-,three_bhk_rent_range
+mumbai,Kandarpada,Rs. 13954 - 14826,Rs. 20018 - 22686,three_bhk_rent_range
+mumbai,Kandivali (East),Rs. 16376 - 18962,-,three_bhk_rent_range
+mumbai,Kandivali (West),Rs. 15976 - 18714,Rs. 21981 - 25644,three_bhk_rent_range
+mumbai,Kasam Baug,-,Rs. 34850 - 39950,three_bhk_rent_range
+mumbai,Ketkipada,-,-,three_bhk_rent_range
+mumbai,Liberty Garden,Rs. 16150 - 18700,-,three_bhk_rent_range
+mumbai,Link Road,-,Rs. 30600 - 35955,three_bhk_rent_range
+mumbai,Lokhandwala Andheri West,-,-,three_bhk_rent_range
+mumbai,Lokhandwala Kandivali East,Rs. 15159 - 17207,Rs. 24216 - 26559,three_bhk_rent_range
+mumbai,Madh,-,-,three_bhk_rent_range
+mumbai,Mahakali Caves,Rs. 25727 - 27984,Rs. 32360 - 36674,three_bhk_rent_range
+mumbai,Maharashtra Nagar,Rs. 18476 - 20420,-,three_bhk_rent_range
+mumbai,Mahavir Nagar,Rs. 19168 - 21038,Rs. 28530 - 31791,three_bhk_rent_range
+mumbai,Malad (East),Rs. 18742 - 22312,Rs. 32776 - 36873,three_bhk_rent_range
+mumbai,Malad (West),Rs. 17404 - 21420,Rs. 28305 - 33660,three_bhk_rent_range
+mumbai,Malvani,Rs. 13780 - 17225,Rs. 19508 - 24565,three_bhk_rent_range
+mumbai,Marol,Rs. 24098 - 27471,Rs. 35904 - 41616,three_bhk_rent_range
+mumbai,Maruti Nagar,Rs. 13977 - 15422,-,three_bhk_rent_range
+mumbai,Mhatre Wadi,-,-,three_bhk_rent_range
+mumbai,Mindspace,Rs. 21588 - 24128,Rs. 34745 - 41851,three_bhk_rent_range
+mumbai,Mitha Nagar,Rs. 22908 - 25245,-,three_bhk_rent_range
+mumbai,Motilal Nagar II,Rs. 23491 - 24929,Rs. 29223 - 35717,three_bhk_rent_range
+mumbai,Natwar Nagar,-,-,three_bhk_rent_range
+mumbai,Nensey Colony,Rs. 13597 - 15790,-,three_bhk_rent_range
+mumbai,Orlem,Rs. 19242 - 21075,Rs. 25823 - 31725,three_bhk_rent_range
+mumbai,Oshiwara,Rs. 23460 - 29814,Rs. 35955 - 39780,three_bhk_rent_range
+mumbai,Prem Nagar,Rs. 8055 - 9914,-,three_bhk_rent_range
+mumbai,Pushpa Park,-,-,three_bhk_rent_range
+mumbai,Rawalpada,Rs. 12376 - 13702,-,three_bhk_rent_range
+mumbai,Safed Pul,-,Rs. 36465 - 43010,three_bhk_rent_range
+mumbai,Sahayog Nagar,-,-,three_bhk_rent_range
+mumbai,Saibaba Nagar,Rs. 15351 - 17105,-,three_bhk_rent_range
+mumbai,Sakinaka,Rs. 26648 - 30378,Rs. 37101 - 41317,three_bhk_rent_range
+mumbai,Samta Nagar,-,Rs. 17304 - 21481,three_bhk_rent_range
+mumbai,Sankalp Colony,-,-,three_bhk_rent_range
+mumbai,Satya Nagar,-,Rs. 27068 - 30349,three_bhk_rent_range
+mumbai,Sector-8 Charkop,Rs. 16097 - 17991,Rs. 21026 - 23202,three_bhk_rent_range
+mumbai,Sector-9 Charkop,-,-,three_bhk_rent_range
+mumbai,Sector 1 Charkop,-,-,three_bhk_rent_range
+mumbai,Sector 2 Charkop,-,Rs. 18945 - 20975,three_bhk_rent_range
+mumbai,Sector 3 Charkop,Rs. 16571 - 18465,-,three_bhk_rent_range
+mumbai,Seven Bunglow,-,-,three_bhk_rent_range
+mumbai,Shastri Nagar,Rs. 33724 - 38122,Rs. 46890 - 52454,three_bhk_rent_range
+mumbai,Sher E Punjab Colony,Rs. 22822 - 24648,Rs. 30336 - 33864,three_bhk_rent_range
+mumbai,Shimpoli,-,-,three_bhk_rent_range
+mumbai,Shreyas Colony,-,Rs. 25840 - 31280,three_bhk_rent_range
+mumbai,Shyam Nagar,-,Rs. 44506 - 50575,three_bhk_rent_range
+mumbai,Siddharth Nagar,Rs. 16925 - 19152,Rs. 25288 - 28900,three_bhk_rent_range
+mumbai,Subhash Nagar,-,Rs. 31858 - 34247,three_bhk_rent_range
+mumbai,Sunder Nagar,Rs. 22772 - 24710,Rs. 30703 - 34447,three_bhk_rent_range
+mumbai,SV Patel Nagar,-,-,three_bhk_rent_range
+mumbai,Thakur Complex,Rs. 15788 - 17495,Rs. 25288 - 26732,three_bhk_rent_range
+mumbai,Thakur Village,Rs. 17774 - 20374,Rs. 24692 - 28220,three_bhk_rent_range
+mumbai,Umershetpada,Rs. 23375 - 25712,-,three_bhk_rent_range
+mumbai,Upper Govind Nagar,-,-,three_bhk_rent_range
+mumbai,Vaishali Nagar,-,-,three_bhk_rent_range
+mumbai,Veera Desai Road,Rs. 26414 - 29776,Rs. 38276 - 43744,three_bhk_rent_range
+mumbai,Versova,-,-,three_bhk_rent_range
+mumbai,Yari Road,Rs. 26775 - 31025,Rs. 47660 - 52198,three_bhk_rent_range
+mumbai,Yashodham,-,Rs. 30600 - 35955,three_bhk_rent_range
+mumbai,Yogi Nagar,-,-,three_bhk_rent_range
+mumbai,Bandra (East),-,Rs. 57800 - 67150,three_bhk_rent_range
+mumbai,Bandra (West),Rs. 44965 - 54251,Rs. 72004 - 87911,three_bhk_rent_range
+mumbai,Bandra Kurla Complex,-,-,three_bhk_rent_range
+mumbai,Band Stand,Rs. 55080 - 59160,-,three_bhk_rent_range
+mumbai,Chuim,-,Rs. 71868 - 88825,three_bhk_rent_range
+mumbai,Gandhi Nagar,-,-,three_bhk_rent_range
+mumbai,Hill Road,Rs. 47345 - 55867,-,three_bhk_rent_range
+mumbai,Juhu,Rs. 32120 - 37873,Rs. 60350 - 79900,three_bhk_rent_range
+mumbai,Juhu Scheme,-,-,three_bhk_rent_range
+mumbai,JVPD,-,-,three_bhk_rent_range
+mumbai,Kala Nagar,-,-,three_bhk_rent_range
+mumbai,Kalina,Rs. 28988 - 34986,Rs. 40185 - 49283,three_bhk_rent_range
+mumbai,Khar,Rs. 38802 - 46750,Rs. 69700 - 85000,three_bhk_rent_range
+mumbai,Khar West,Rs. 38802 - 46750,Rs. 69630 - 84915,three_bhk_rent_range
+mumbai,Linking Road,-,-,three_bhk_rent_range
+mumbai,Mahim (West),Rs. 32725 - 35700,Rs. 52764 - 65752,three_bhk_rent_range
+mumbai,Mount Mary,-,Rs. 65450 - 87550,three_bhk_rent_range
+mumbai,Pali Hill,Rs. 48450 - 57630,Rs. 74800 - 90100,three_bhk_rent_range
+mumbai,Pali Village,-,Rs. 71540 - 86156,three_bhk_rent_range
+mumbai,Santacruz (East),Rs. 27132 - 30524,Rs. 40185 - 47008,three_bhk_rent_range
+mumbai,Santacruz (West),-,Rs. 58385 - 72981,three_bhk_rent_range
+mumbai,Union Park,-,Rs. 72760 - 84584,three_bhk_rent_range
+mumbai,Vakola,Rs. 25245 - 28518,Rs. 38189 - 44064,three_bhk_rent_range
+mumbai,Vidya Nagari,Rs. 36210 - 39270,Rs. 38984 - 46481,three_bhk_rent_range
+mumbai,Vile Parle (East),Rs. 31472 - 35287,Rs. 47685 - 52742,three_bhk_rent_range
+mumbai,Vile Parle (West),Rs. 30903 - 37995,Rs. 54713 - 63072,three_bhk_rent_range
+mumbai,Yashwant Nagar,Rs. 25712 - 29452,-,three_bhk_rent_range
+mumbai,Ambedkar Nagar,Rs. 23990 - 26489,Rs. 36550 - 40800,three_bhk_rent_range
+mumbai,Asha Nagar,-,-,three_bhk_rent_range
+mumbai,Bhandup (East),Rs. 17298 - 20570,Rs. 33150 - 36550,three_bhk_rent_range
+mumbai,Bhandup (West),Rs. 20562 - 22568,Rs. 29304 - 33490,three_bhk_rent_range
+mumbai,Chandivali,Rs. 24012 - 27854,Rs. 39100 - 42500,three_bhk_rent_range
+mumbai,Dina Bama Estate,Rs. 22440 - 24480,Rs. 27044 - 28363,three_bhk_rent_range
+mumbai,Friends Colony,Rs. 16371 - 18645,-,three_bhk_rent_range
+mumbai,Ganesh Nagar,Rs. 19168 - 21038,Rs. 29338 - 33099,three_bhk_rent_range
+mumbai,Garodia Nagar,-,-,three_bhk_rent_range
+mumbai,Gavanpada,Rs. 14884 - 19699,-,three_bhk_rent_range
+mumbai,Ghatkopar (East),Rs. 20400 - 24480,Rs. 31365 - 38250,three_bhk_rent_range
+mumbai,Ghatkopar West,Rs. 20385 - 22811,Rs. 37141 - 41268,three_bhk_rent_range
+mumbai,Govind Nagar,Rs. 21063 - 24072,Rs. 27081 - 28586,three_bhk_rent_range
+mumbai,Hanuman Chowk,Rs. 17425 - 19550,-,three_bhk_rent_range
+mumbai,Hiranandani Gardens - Powai,Rs. 29325 - 34212,Rs. 52006 - 61384,three_bhk_rent_range
+mumbai,HMPL Surya Nagar,-,Rs. 38208 - 40500,three_bhk_rent_range
+mumbai,Jagdusha Nagar,Rs. 16065 - 18742,-,three_bhk_rent_range
+mumbai,Jaydev Singh Nagar,Rs. 22652 - 24310,-,three_bhk_rent_range
+mumbai,Kanjur Marg (East),Rs. 19635 - 22440,Rs. 35734 - 39307,three_bhk_rent_range
+mumbai,Kanjur Marg (west),Rs. 23371 - 26354,Rs. 36550 - 40800,three_bhk_rent_range
+mumbai,Kannamwar Nagar I,-,-,three_bhk_rent_range
+mumbai,Kannamwar Nagar II,Rs. 12928 - 14918,-,three_bhk_rent_range
+mumbai,Kurla (East),Rs. 19516 - 21896,Rs. 27802 - 31559,three_bhk_rent_range
+mumbai,Kurla (west),Rs. 20318 - 23786,Rs. 37952 - 45220,three_bhk_rent_range
+mumbai,LBS Marg,Rs. 21930 - 23970,Rs. 29038 - 31330,three_bhk_rent_range
+mumbai,Lok Milan Colony,Rs. 23162 - 28258,Rs. 44200 - 48450,three_bhk_rent_range
+mumbai,Mhada Colony,-,-,three_bhk_rent_range
+mumbai,Moti Nagar,-,-,three_bhk_rent_range
+mumbai,Mulund,Rs. 17298 - 19635,Rs. 28560 - 31824,three_bhk_rent_range
+mumbai,Mulund (East),Rs. 16738 - 19993,Rs. 27102 - 29425,three_bhk_rent_range
+mumbai,Mulund (West),Rs. 17298 - 20102,Rs. 28858 - 32156,three_bhk_rent_range
+mumbai,Mulund Colony,-,Rs. 26388 - 30158,three_bhk_rent_range
+mumbai,Nahur,Rs. 19542 - 20570,Rs. 29878 - 36338,three_bhk_rent_range
+mumbai,Nahur East,Rs. 15341 - 18217,-,three_bhk_rent_range
+mumbai,Nehru Nagar,Rs. 18896 - 21318,Rs. 25172 - 29614,three_bhk_rent_range
+mumbai,Nirmal Nagar,-,-,three_bhk_rent_range
+mumbai,Panchkutir Ganesh Nagar,-,Rs. 63250 - 68116,three_bhk_rent_range
+mumbai,Pant Nagar,Rs. 19201 - 21552,-,three_bhk_rent_range
+mumbai,Pestom Sagar Colony,Rs. 18870 - 24480,Rs. 31068 - 36125,three_bhk_rent_range
+mumbai,Powai,Rs. 26255 - 30631,Rs. 41862 - 50235,three_bhk_rent_range
+mumbai,Raheja Vihar,Rs. 26163 - 29070,Rs. 38212 - 42458,three_bhk_rent_range
+mumbai,Rajiv Gandhi Nagar,Rs. 20884 - 23371,Rs. 26732 - 31790,three_bhk_rent_range
+mumbai,Sadan Wadi,-,-,three_bhk_rent_range
+mumbai,Sangharsh Nagar,-,Rs. 35700 - 41948,three_bhk_rent_range
+mumbai,Sarvodaya Nagar,Rs. 18700 - 20102,-,three_bhk_rent_range
+mumbai,Savarkar Nagar,Rs. 27310 - 33163,-,three_bhk_rent_range
+mumbai,Sion (East),-,-,three_bhk_rent_range
+mumbai,Tagore Nagar,-,-,three_bhk_rent_range
+mumbai,Tambe Nagar,-,Rs. 31686 - 33354,three_bhk_rent_range
+mumbai,Tilak Nagar,Rs. 20332 - 22984,Rs. 32306 - 36246,three_bhk_rent_range
+mumbai,Tunga Village,Rs. 25967 - 29531,Rs. 38212 - 42458,three_bhk_rent_range
+mumbai,Valmiki Nagar,Rs. 22253 - 24276,-,three_bhk_rent_range
+mumbai,Veena Nagar,Rs. 17000 - 19125,-,three_bhk_rent_range
+mumbai,Vidya Vihar West,Rs. 19958 - 23451,-,three_bhk_rent_range
+mumbai,Vikhroli (East),Rs. 23343 - 27402,Rs. 48241 - 55388,three_bhk_rent_range
+mumbai,Vikhroli (West),Rs. 20923 - 25572,Rs. 36307 - 40629,three_bhk_rent_range
+mumbai,Adaigaon,-,-,three_bhk_rent_range
+mumbai,Airoli,Rs. 13090 - 15428,Rs. 20655 - 24480,three_bhk_rent_range
+mumbai,Belapur,Rs. 10032 - 12898,Rs. 21888 - 28016,three_bhk_rent_range
+mumbai,Belpada,Rs. 9092 - 11964,Rs. 14994 - 18326,three_bhk_rent_range
+mumbai,Bonkode,Rs. 10200 - 12325,Rs. 19890 - 22185,three_bhk_rent_range
+mumbai,Devad,-,-,three_bhk_rent_range
+mumbai,Diva Gaothan,Rs. 9313 - 10582,-,three_bhk_rent_range
+mumbai,Dronagiri,-,-,three_bhk_rent_range
+mumbai,Gaothan,Rs. 8350 - 9668,-,three_bhk_rent_range
+mumbai,Ghansoli,Rs. 11302 - 13185,Rs. 22100 - 25500,three_bhk_rent_range
+mumbai,Jeejamata Nagar,-,Rs. 24553 - 28330,three_bhk_rent_range
+mumbai,Jijamata Nagar,-,Rs. 24378 - 27425,three_bhk_rent_range
+mumbai,Jui Nagar,-,-,three_bhk_rent_range
+mumbai,Kalamboli,Rs. 7556 - 9176,Rs. 10271 - 11983,three_bhk_rent_range
+mumbai,Kamothe,Rs. 7599 - 8612,Rs. 10973 - 12661,three_bhk_rent_range
+mumbai,Karanjade,Rs. 4406 - 5386,-,three_bhk_rent_range
+mumbai,Karave Nagar,-,Rs. 30855 - 38335,three_bhk_rent_range
+mumbai,Khalapur,Rs. 8160 - 10200,Rs. 15123 - 17959,three_bhk_rent_range
+mumbai,Khanda Colony,-,Rs. 11475 - 13005,three_bhk_rent_range
+mumbai,Khandeshwar,Rs. 9256 - 9771,Rs. 12431 - 13260,three_bhk_rent_range
+mumbai,Kharghar,Rs. 7929 - 10407,Rs. 15943 - 18600,three_bhk_rent_range
+mumbai,Kopara,-,Rs. 15606 - 17442,three_bhk_rent_range
+mumbai,Koperkhairane,Rs. 12622 - 14960,Rs. 20188 - 24225,three_bhk_rent_range
+mumbai,Kutak Bandhan,-,-,three_bhk_rent_range
+mumbai,Nerul,Rs. 11688 - 14025,Rs. 22100 - 28900,three_bhk_rent_range
+mumbai,New Panvel,Rs. 7166 - 8599,Rs. 8854 - 11067,three_bhk_rent_range
+mumbai,New Sector-50 Nerul,Rs. 12750 - 16320,Rs. 21611 - 28527,three_bhk_rent_range
+mumbai,Old Panvel,-,Rs. 10940 - 12622,three_bhk_rent_range
+mumbai,Owe Village,-,-,three_bhk_rent_range
+mumbai,Palm Beach,Rs. 15343 - 18133,Rs. 28179 - 37866,three_bhk_rent_range
+mumbai,Panvel,Rs. 7021 - 8526,Rs. 10873 - 12546,three_bhk_rent_range
+mumbai,Petali,Rs. 4590 - 5100,-,three_bhk_rent_range
+mumbai,Phase-1 Petali,Rs. 4720 - 4720,-,three_bhk_rent_range
+mumbai,Rabale,-,Rs. 20311 - 22568,three_bhk_rent_range
+mumbai,Ranjanpada,-,-,three_bhk_rent_range
+mumbai,Rasayani,-,-,three_bhk_rent_range
+mumbai,Roadpali,Rs. 7735 - 8840,Rs. 10710 - 11602,three_bhk_rent_range
+mumbai,Sanpada,Rs. 15895 - 18700,Rs. 25032 - 30685,three_bhk_rent_range
+mumbai,Seawoods,Rs. 12619 - 15046,Rs. 23317 - 31090,three_bhk_rent_range
+mumbai,Sector-1 Airoli,Rs. 8840 - 11050,Rs. 15581 - 20324,three_bhk_rent_range
+mumbai,Sector-2 Kopar Khairane,Rs. 14790 - 18360,-,three_bhk_rent_range
+mumbai,Sector-2A Kopar Khairane,-,Rs. 20619 - 23792,three_bhk_rent_range
+mumbai,Sector-3 Airoli,-,Rs. 21174 - 24825,three_bhk_rent_range
+mumbai,Sector-3 Belpada,Rs. 9238 - 12155,Rs. 15827 - 19159,three_bhk_rent_range
+mumbai,Sector-3 Ulwe,Rs. 4628 - 5657,-,three_bhk_rent_range
+mumbai,Sector-4 Airoli,Rs. 13242 - 16185,-,three_bhk_rent_range
+mumbai,Sector-4 Nerul,-,Rs. 40509 - 46742,three_bhk_rent_range
+mumbai,Sector-4A Koparkhairane,Rs. 11750 - 13219,-,three_bhk_rent_range
+mumbai,Sector-5 Kamothe,-,-,three_bhk_rent_range
+mumbai,Sector-5 Kharghar,-,Rs. 18546 - 21196,three_bhk_rent_range
+mumbai,Sector-5 Kopar Khairane,Rs. 12155 - 15428,Rs. 18360 - 22185,three_bhk_rent_range
+mumbai,Sector-6 Airoli,Rs. 14960 - 17298,Rs. 21326 - 24608,three_bhk_rent_range
+mumbai,Sector-6 Ghansoli,Rs. 10696 - 13127,-,three_bhk_rent_range
+mumbai,Sector-6 Kharghar,Rs. 11164 - 12179,-,three_bhk_rent_range
+mumbai,Sector-6 Kopar Khairane,Rs. 11411 - 13694,-,three_bhk_rent_range
+mumbai,Sector-6 Nerul,Rs. 7507 - 8915,-,three_bhk_rent_range
+mumbai,Sector-6A Kamothe,-,-,three_bhk_rent_range
+mumbai,Sector-7 Ghansoli,-,Rs. 20332 - 21896,three_bhk_rent_range
+mumbai,Sector-7 Kamothe,-,-,three_bhk_rent_range
+mumbai,Sector-7 Kopar Khairane,-,Rs. 17790 - 21658,three_bhk_rent_range
+mumbai,Sector-8 Ghansoli,Rs. 16634 - 18650,Rs. 23664 - 25242,three_bhk_rent_range
+mumbai,Sector-8 Kharghar,Rs. 10809 - 11791,Rs. 17391 - 20869,three_bhk_rent_range
+mumbai,Sector-8 Kopar Khairane,Rs. 13749 - 16498,Rs. 17947 - 23409,three_bhk_rent_range
+mumbai,Sector-8 Sanpada,-,-,three_bhk_rent_range
+mumbai,Sector-8 Ulwe,Rs. 4216 - 5270,Rs. 7249 - 9061,three_bhk_rent_range
+mumbai,Sector-8A Airoli,Rs. 14408 - 16328,Rs. 20999 - 24110,three_bhk_rent_range
+mumbai,Sector-9 Kamothe,-,-,three_bhk_rent_range
+mumbai,Sector-9 Sanpada,-,Rs. 21950 - 28322,three_bhk_rent_range
+mumbai,Sector-9 Ulwe,Rs. 5372 - 5909,-,three_bhk_rent_range
+mumbai,Sector-10 New Panvel,Rs. 6630 - 7514,-,three_bhk_rent_range
+mumbai,Sector-10/B Ulwe,-,-,three_bhk_rent_range
+mumbai,Sector-10A Airoli,-,-,three_bhk_rent_range
+mumbai,Sector-11 Taloja,-,-,three_bhk_rent_range
+mumbai,Sector-12 Kamothe,-,-,three_bhk_rent_range
+mumbai,Sector-12 Kopar Khairane,Rs. 11539 - 13846,Rs. 19125 - 21420,three_bhk_rent_range
+mumbai,Sector-13 Kharghar,Rs. 8583 - 10014,Rs. 14226 - 16893,three_bhk_rent_range
+mumbai,Sector-14 Koparkhairane,Rs. 13829 - 16213,Rs. 21420 - 23715,three_bhk_rent_range
+mumbai,Sector-14 Sanpada,Rs. 16958 - 19380,Rs. 23715 - 30600,three_bhk_rent_range
+mumbai,Sector-14 Taloja,-,-,three_bhk_rent_range
+mumbai,Sector-15 Airoli,-,Rs. 13894 - 18946,three_bhk_rent_range
+mumbai,Sector-15 Ghansoli,Rs. 12689 - 14275,Rs. 20747 - 22476,three_bhk_rent_range
+mumbai,Sector-15 Sanpada,Rs. 15722 - 20143,Rs. 27251 - 30365,three_bhk_rent_range
+mumbai,Sector-16 Kharghar,Rs. 7752 - 8721,-,three_bhk_rent_range
+mumbai,Sector-16 Koparkhairane,-,Rs. 17707 - 21396,three_bhk_rent_range
+mumbai,Sector-16 Sanpada,Rs. 16524 - 19003,Rs. 24544 - 26031,three_bhk_rent_range
+mumbai,Sector-16 Taloja,-,-,three_bhk_rent_range
+mumbai,Sector-16 Ulwe,-,-,three_bhk_rent_range
+mumbai,Sector-17 Kamothe,Rs. 7357 - 8338,Rs. 11050 - 12750,three_bhk_rent_range
+mumbai,Sector-17 Kopar Khairane,-,Rs. 19727 - 21371,three_bhk_rent_range
+mumbai,Sector-18 Sanpada,-,Rs. 35530 - 39270,three_bhk_rent_range
+mumbai,Sector-18 Ulwe,-,Rs. 7826 - 8696,three_bhk_rent_range
+mumbai,Sector-19 Airoli,Rs. 13558 - 15895,Rs. 24225 - 26648,three_bhk_rent_range
+mumbai,Sector-19 Koper Khairane,Rs. 8483 - 10180,Rs. 14025 - 15938,three_bhk_rent_range
+mumbai,Sector-19 Taloja,-,-,three_bhk_rent_range
+mumbai,Sector-19A Kopar Khairane,-,-,three_bhk_rent_range
+mumbai,Sector-20 Koparkhairane,Rs. 13260 - 16320,Rs. 22950 - 26350,three_bhk_rent_range
+mumbai,Sector-20 Nerul,Rs. 9443 - 12590,Rs. 16830 - 19890,three_bhk_rent_range
+mumbai,Sector-20 Roadpali,Rs. 6405 - 8152,Rs. 10248 - 13042,three_bhk_rent_range
+mumbai,Sector-20 Taloja,-,-,three_bhk_rent_range
+mumbai,Sector-20B Airoli,Rs. 14025 - 16830,Rs. 22950 - 26010,three_bhk_rent_range
+mumbai,Sector-22 Kopar Khairane,Rs. 11688 - 13558,-,three_bhk_rent_range
+mumbai,Sector-23 Juinagar,-,-,three_bhk_rent_range
+mumbai,Sector-23 Kharghar,-,-,three_bhk_rent_range
+mumbai,Sector-23 Taloja,-,-,three_bhk_rent_range
+mumbai,Sector-24 Kamothe,-,-,three_bhk_rent_range
+mumbai,Sector-25 Kamothe,Rs. 7739 - 9287,-,three_bhk_rent_range
+mumbai,Sector-25 Khandeshhwar,Rs. 9706 - 10217,Rs. 13260 - 13260,three_bhk_rent_range
+mumbai,Sector-27 Kharghar,Rs. 6785 - 7307,Rs. 16356 - 19082,three_bhk_rent_range
+mumbai,Sector-27 Nerul,-,Rs. 17404 - 20719,three_bhk_rent_range
+mumbai,Sector-28 Nerul,-,-,three_bhk_rent_range
+mumbai,Sector-29C Airoli,Rs. 12990 - 15395,Rs. 22491 - 25823,three_bhk_rent_range
+mumbai,Sector-30 Belapur,-,Rs. 25372 - 28417,three_bhk_rent_range
+mumbai,Sector-30 Ghansoli,Rs. 12973 - 17962,Rs. 24786 - 25612,three_bhk_rent_range
+mumbai,Sector-34 Kharghar,Rs. 7902 - 8395,-,three_bhk_rent_range
+mumbai,Sector-34A Kharghar,-,Rs. 20757 - 23588,three_bhk_rent_range
+mumbai,Sector-34B Kharghar,-,Rs. 13222 - 16333,three_bhk_rent_range
+mumbai,Sector-35 Kamothe,Rs. 8010 - 8511,Rs. 10387 - 11985,three_bhk_rent_range
+mumbai,Sector-35D Kharghar,Rs. 8418 - 9471,Rs. 14960 - 18700,three_bhk_rent_range
+mumbai,Sector-35E Kharghar,Rs. 8242 - 10817,Rs. 15150 - 17991,three_bhk_rent_range
+mumbai,Sector-35G Kharghar,Rs. 10924 - 11965,Rs. 14277 - 16796,three_bhk_rent_range
+mumbai,Sector-37 Taloja,-,-,three_bhk_rent_range
+mumbai,Sector-42A Seawoods,-,-,three_bhk_rent_range
+mumbai,Sector-44A Seawoods,Rs. 11772 - 13656,-,three_bhk_rent_range
+mumbai,Sector-46 Seawoods,Rs. 10117 - 11036,Rs. 32640 - 36720,three_bhk_rent_range
+mumbai,Sector-48 Seawoods,Rs. 10067 - 11506,-,three_bhk_rent_range
+mumbai,Sector-50 Seawoods,Rs. 12495 - 15494,-,three_bhk_rent_range
+mumbai,Sector-58 Seawoods,-,Rs. 36465 - 43010,three_bhk_rent_range
+mumbai,Sector-58A Seawoods,-,-,three_bhk_rent_range
+mumbai,Sector 1 Kopar Khairane,Rs. 11492 - 13260,-,three_bhk_rent_range
+mumbai,Sector 1 Sanpada,Rs. 15317 - 18470,Rs. 20658 - 22872,three_bhk_rent_range
+mumbai,Sector 2 Kharghar,-,Rs. 17000 - 20400,three_bhk_rent_range
+mumbai,Sector 2 Ulwe,Rs. 4938 - 5926,Rs. 7788 - 8653,three_bhk_rent_range
+mumbai,Sector 3 Kharghar,Rs. 10710 - 11730,Rs. 14450 - 17000,three_bhk_rent_range
+mumbai,Sector 4 Kharghar,Rs. 11602 - 12995,Rs. 15342 - 18572,three_bhk_rent_range
+mumbai,Sector 5 Ghansoli,Rs. 11688 - 14025,-,three_bhk_rent_range
+mumbai,Sector 5 Ulwe,-,-,three_bhk_rent_range
+mumbai,Sector 6 Kamothe,-,-,three_bhk_rent_range
+mumbai,Sector 7 Airoli,Rs. 15776 - 17748,Rs. 22610 - 25840,three_bhk_rent_range
+mumbai,Sector 7 Kharghar,-,Rs. 21134 - 23890,three_bhk_rent_range
+mumbai,Sector 8 Airoli,Rs. 14280 - 17612,Rs. 19426 - 24656,three_bhk_rent_range
+mumbai,Sector 9 Airoli,Rs. 10625 - 12750,Rs. 16618 - 20230,three_bhk_rent_range
+mumbai,Sector 9 Nerul,-,-,three_bhk_rent_range
+mumbai,Sector 10 Kamothe,-,-,three_bhk_rent_range
+mumbai,Sector 10 Kharghar,Rs. 9642 - 10656,Rs. 16157 - 18850,three_bhk_rent_range
+mumbai,Sector 11 Belapur,Rs. 13196 - 13685,-,three_bhk_rent_range
+mumbai,Sector 11 Kamothe,-,-,three_bhk_rent_range
+mumbai,Sector 11 Kharghar,Rs. 9200 - 10455,Rs. 14535 - 18360,three_bhk_rent_range
+mumbai,Sector 11 Koparkhairane,Rs. 13540 - 15797,Rs. 20995 - 25840,three_bhk_rent_range
+mumbai,Sector 12 Kharghar,Rs. 9877 - 12346,Rs. 17000 - 18700,three_bhk_rent_range
+mumbai,Sector 12 Vashi,Rs. 14790 - 17850,Rs. 23324 - 30821,three_bhk_rent_range
+mumbai,Sector 13 Sanpada,Rs. 13260 - 15470,-,three_bhk_rent_range
+mumbai,Sector 14 Kamothe,-,-,three_bhk_rent_range
+mumbai,Sector 14 Kharghar,-,Rs. 16333 - 17888,three_bhk_rent_range
+mumbai,Sector 14 Vashi,-,-,three_bhk_rent_range
+mumbai,Sector 15 Belapur,-,Rs. 24650 - 28900,three_bhk_rent_range
+mumbai,Sector 15 Kharghar,-,Rs. 19414 - 21355,three_bhk_rent_range
+mumbai,Sector 15 Kopar Khairane,Rs. 11648 - 15046,Rs. 19380 - 21802,three_bhk_rent_range
+mumbai,Sector 16 Ghansoli,Rs. 12177 - 13114,Rs. 16810 - 18210,three_bhk_rent_range
+mumbai,Sector 16 Kamothe,-,Rs. 11080 - 11818,three_bhk_rent_range
+mumbai,Sector 16 Vashi,-,Rs. 23715 - 26775,three_bhk_rent_range
+mumbai,Sector 16A Nerul,-,-,three_bhk_rent_range
+mumbai,Sector 17 Ulwe,Rs. 4529 - 5535,Rs. 6548 - 8186,three_bhk_rent_range
+mumbai,Sector 17 Vashi,Rs. 17340 - 20910,Rs. 28727 - 32951,three_bhk_rent_range
+mumbai,Sector 18 Kamothe,Rs. 7561 - 8065,Rs. 10752 - 11579,three_bhk_rent_range
+mumbai,Sector 18 Kharghar,Rs. 9432 - 12410,Rs. 14520 - 16133,three_bhk_rent_range
+mumbai,Sector 19 Kamothe,Rs. 7446 - 8935,Rs. 11050 - 11900,three_bhk_rent_range
+mumbai,Sector 19 Kharghar,Rs. 9690 - 10710,Rs. 15592 - 18343,three_bhk_rent_range
+mumbai,Sector 19 Nerul,Rs. 14408 - 15848,Rs. 19380 - 22610,three_bhk_rent_range
+mumbai,Sector 19 Ulwe,-,Rs. 7574 - 9256,three_bhk_rent_range
+mumbai,Sector 19A Nerul,Rs. 14816 - 16297,Rs. 21917 - 26788,three_bhk_rent_range
+mumbai,Sector 20 Airoli,Rs. 12622 - 14492,Rs. 18360 - 23715,three_bhk_rent_range
+mumbai,Sector 20 Belapur,Rs. 10370 - 12444,-,three_bhk_rent_range
+mumbai,Sector 20 Kamothe,Rs. 7650 - 8160,Rs. 10037 - 10873,three_bhk_rent_range
+mumbai,Sector 20 Kharghar,Rs. 9945 - 10940,Rs. 15300 - 19550,three_bhk_rent_range
+mumbai,Sector 20 Ulwe,Rs. 5296 - 6355,Rs. 9640 - 11393,three_bhk_rent_range
+mumbai,Sector 21 Ghansoli,Rs. 10285 - 11688,Rs. 15440 - 19116,three_bhk_rent_range
+mumbai,Sector 21 Kamothe,Rs. 7116 - 8641,Rs. 11050 - 11900,three_bhk_rent_range
+mumbai,Sector 21 Kharghar,Rs. 10481 - 12136,Rs. 15927 - 18582,three_bhk_rent_range
+mumbai,Sector 21 Nerul,Rs. 14025 - 15895,Rs. 20597 - 22974,three_bhk_rent_range
+mumbai,Sector 21 Ulwe,Rs. 5338 - 5872,Rs. 7941 - 10588,three_bhk_rent_range
+mumbai,Sector 22 Kamothe,Rs. 7318 - 7841,Rs. 11050 - 11900,three_bhk_rent_range
+mumbai,Sector 23 Ghansoli,Rs. 10713 - 11645,-,three_bhk_rent_range
+mumbai,Sector 23 Nerul,Rs. 12622 - 13558,Rs. 16958 - 20995,three_bhk_rent_range
+mumbai,Sector 23 Ulwe,-,-,three_bhk_rent_range
+mumbai,Sector 25 Nerul,-,Rs. 23541 - 25976,three_bhk_rent_range
+mumbai,Sector 26 Vashi,Rs. 13614 - 16045,Rs. 21128 - 25191,three_bhk_rent_range
+mumbai,Sector 28 Vashi,Rs. 15708 - 18326,Rs. 19550 - 23800,three_bhk_rent_range
+mumbai,Sector 29 Vashi,-,Rs. 23837 - 27946,three_bhk_rent_range
+mumbai,Sector 30 Kharghar,-,-,three_bhk_rent_range
+mumbai,Sector 34 Kamothe,Rs. 7535 - 8540,Rs. 12928 - 16376,three_bhk_rent_range
+mumbai,Sector 34C Kharghar,-,Rs. 13090 - 15895,three_bhk_rent_range
+mumbai,Sector 35I Kharghar,Rs. 9486 - 10540,Rs. 12750 - 15300,three_bhk_rent_range
+mumbai,Sector 36 Kamothe,Rs. 7535 - 8540,Rs. 10608 - 12240,three_bhk_rent_range
+mumbai,Sector 36 Kharghar,Rs. 6450 - 6910,Rs. 13426 - 15216,three_bhk_rent_range
+mumbai,Sector 36 Seawoods,-,-,three_bhk_rent_range
+mumbai,Sector 40 Seawoods,Rs. 13449 - 14943,Rs. 20804 - 24132,three_bhk_rent_range
+mumbai,Sector 42 Seawoods,Rs. 14586 - 15558,Rs. 22100 - 25500,three_bhk_rent_range
+mumbai,Sector 44 Seawoods,Rs. 12266 - 15096,Rs. 18221 - 21389,three_bhk_rent_range
+mumbai,Shilphata,Rs. 7069 - 8583,Rs. 10543 - 12050,three_bhk_rent_range
+mumbai,Takka Colony,-,-,three_bhk_rent_range
+mumbai,Taloja,Rs. 4582 - 5092,Rs. 7130 - 7922,three_bhk_rent_range
+mumbai,Taloja Panchanand,Rs. 5194 - 6232,Rs. 7650 - 9350,three_bhk_rent_range
+mumbai,Ulwe,Rs. 5100 - 5610,Rs. 7619 - 9313,three_bhk_rent_range
+mumbai,Vashi,Rs. 15045 - 19057,Rs. 22800 - 27686,three_bhk_rent_range
+mumbai,Vichumbe,Rs. 5844 - 5844,Rs. 7268 - 8075,three_bhk_rent_range
+mumbai,Abhyudaya Nagar,-,Rs. 63954 - 68395,three_bhk_rent_range
+mumbai,Adarsh Nagar,Rs. 18034 - 23603,-,three_bhk_rent_range
+mumbai,Agripada,-,-,three_bhk_rent_range
+mumbai,Altamount Road,Rs. 71400 - 90525,-,three_bhk_rent_range
+mumbai,Apollo Bandar,Rs. 54060 - 58650,-,three_bhk_rent_range
+mumbai,Breach Candy,Rs. 73480 - 90643,Rs. 119340 - 138720,three_bhk_rent_range
+mumbai,Century Bazaar,-,Rs. 62345 - 80416,three_bhk_rent_range
+mumbai,Chamundeshwari Nagar,-,Rs. 131835 - 142120,three_bhk_rent_range
+mumbai,Chandrakant Dhuru Wadi,-,-,three_bhk_rent_range
+mumbai,Churchgate,-,-,three_bhk_rent_range
+mumbai,Colaba,Rs. 50490 - 56100,Rs. 79700 - 94881,three_bhk_rent_range
+mumbai,Cuffe Parade,-,Rs. 110106 - 125589,three_bhk_rent_range
+mumbai,Cusrow Baug Colony,Rs. 51000 - 57630,-,three_bhk_rent_range
+mumbai,Dadar,Rs. 27399 - 32416,Rs. 65450 - 79050,three_bhk_rent_range
+mumbai,Dadar (East),Rs. 35182 - 37592,Rs. 59500 - 72250,three_bhk_rent_range
+mumbai,Dadar (West),Rs. 27158 - 32130,Rs. 65450 - 80750,three_bhk_rent_range
+mumbai,Elphinestone Road,Rs. 28948 - 32164,-,three_bhk_rent_range
+mumbai,Gamdevi,-,-,three_bhk_rent_range
+mumbai,Gandhi Nagar Worli,-,Rs. 64061 - 72170,three_bhk_rent_range
+mumbai,Girgaon,-,-,three_bhk_rent_range
+mumbai,Hanuman Nagar,-,-,three_bhk_rent_range
+mumbai,Hindu Colony,-,-,three_bhk_rent_range
+mumbai,Jacob Circle,-,Rs. 123831 - 139182,three_bhk_rent_range
+mumbai,Kemps Corner,-,Rs. 123250 - 139400,three_bhk_rent_range
+mumbai,Koliwada,-,-,three_bhk_rent_range
+mumbai,Lower Parel,Rs. 29325 - 34425,Rs. 71536 - 89420,three_bhk_rent_range
+mumbai,Lower Parel East,-,Rs. 63240 - 77520,three_bhk_rent_range
+mumbai,Lower Parel West,Rs. 21258 - 26486,Rs. 71400 - 79900,three_bhk_rent_range
+mumbai,Mahalaxmi,Rs. 35764 - 42916,Rs. 117443 - 128775,three_bhk_rent_range
+mumbai,Malabar Hill,Rs. 62730 - 69870,Rs. 122400 - 153000,three_bhk_rent_range
+mumbai,Marine Drive,-,-,three_bhk_rent_range
+mumbai,Matunga,Rs. 34884 - 39015,Rs. 49946 - 63777,three_bhk_rent_range
+mumbai,Matunga East,Rs. 36465 - 41140,Rs. 68000 - 82450,three_bhk_rent_range
+mumbai,Matunga West,Rs. 34425 - 39015,Rs. 48344 - 58756,three_bhk_rent_range
+mumbai,Mumbai Central,-,-,three_bhk_rent_range
+mumbai,Napean Sea Road,-,-,three_bhk_rent_range
+mumbai,Parel,Rs. 28532 - 34494,Rs. 62832 - 72352,three_bhk_rent_range
+mumbai,Parmanand Wadi,-,Rs. 62944 - 69620,three_bhk_rent_range
+mumbai,Peddar Road,-,Rs. 93745 - 106189,three_bhk_rent_range
+mumbai,Prabhadevi,Rs. 26334 - 31295,Rs. 68493 - 86700,three_bhk_rent_range
+mumbai,Shivaji Park,Rs. 38743 - 41896,Rs. 62475 - 69139,three_bhk_rent_range
+mumbai,Tardeo,-,-,three_bhk_rent_range
+mumbai,Upper Worli,Rs. 38255 - 44140,-,three_bhk_rent_range
+mumbai,Walkeshwar,-,-,three_bhk_rent_range
+mumbai,Worli,Rs. 26392 - 34808,Rs. 74078 - 89250,three_bhk_rent_range
+mumbai,Worli Hill,Rs. 51382 - 59670,Rs. 79050 - 87550,three_bhk_rent_range
+mumbai,Worli Naka,Rs. 34918 - 41990,Rs. 68133 - 72558,three_bhk_rent_range
+mumbai,Worli Seaface,-,Rs. 70543 - 84109,three_bhk_rent_range
+mumbai,Bhakti Park,-,Rs. 47603 - 53096,three_bhk_rent_range
+mumbai,Byculla,Rs. 24072 - 26520,-,three_bhk_rent_range
+mumbai,Byculla East,-,-,three_bhk_rent_range
+mumbai,Byculla West,Rs. 25075 - 27200,-,three_bhk_rent_range
+mumbai,Chembur,Rs. 23371 - 27349,Rs. 37523 - 44194,three_bhk_rent_range
+mumbai,Chembur (East),Rs. 25075 - 28586,Rs. 38250 - 45050,three_bhk_rent_range
+mumbai,Chembur (West),Rs. 20026 - 22529,Rs. 27455 - 32512,three_bhk_rent_range
+mumbai,Collectors Colony Chembur,Rs. 24840 - 26751,Rs. 31633 - 35850,three_bhk_rent_range
+mumbai,Deonar,-,Rs. 40429 - 47311,three_bhk_rent_range
+mumbai,Govandi,-,-,three_bhk_rent_range
+mumbai,Govandi East,Rs. 24778 - 28985,-,three_bhk_rent_range
+mumbai,Lalbaug,-,Rs. 63580 - 67320,three_bhk_rent_range
+mumbai,Mankhurd,-,-,three_bhk_rent_range
+mumbai,Mazgaon,Rs. 31714 - 36244,Rs. 52360 - 61710,three_bhk_rent_range
+mumbai,Nagesh Patilwadi,-,Rs. 36210 - 38926,three_bhk_rent_range
+mumbai,Postal Colony,-,Rs. 38174 - 42415,three_bhk_rent_range
+mumbai,RCF Colony Chembur,-,Rs. 30880 - 38968,three_bhk_rent_range
+mumbai,Sewri,Rs. 24055 - 26942,-,three_bhk_rent_range
+mumbai,Sindhi Society Chembur,Rs. 26444 - 29438,Rs. 34722 - 41182,three_bhk_rent_range
+mumbai,Swastik Park,Rs. 20522 - 22660,Rs. 35666 - 41908,three_bhk_rent_range
+mumbai,Tilak Nagar,Rs. 21613 - 23912,Rs. 31688 - 37233,three_bhk_rent_range
+mumbai,Tolaram Colony,-,Rs. 29410 - 38968,three_bhk_rent_range
+mumbai,Union Park,-,Rs. 36152 - 42792,three_bhk_rent_range
+mumbai,Wadala,Rs. 31640 - 34517,Rs. 47369 - 55264,three_bhk_rent_range
+mumbai,Wadala East,Rs. 29060 - 31261,Rs. 44870 - 49949,three_bhk_rent_range
+mumbai,Wadala West,Rs. 39046 - 42299,Rs. 48746 - 55967,three_bhk_rent_range
+bangalore,Basaveshwara Nagar,-,Rs. 18360 - 22440,three_bhk_rent_range
+bangalore,BEML Layout,-,-,three_bhk_rent_range
+bangalore,Binny Pete,-,-,three_bhk_rent_range
+bangalore,Dasanapura,-,Rs. 8995 - 11070,three_bhk_rent_range
+bangalore,Jalahalli West,-,Rs. 13120 - 15744,three_bhk_rent_range
+bangalore,Kenchenhalli,-,Rs. 11934 - 13923,three_bhk_rent_range
+bangalore,Kengeri,Rs. 4972 - 5355,Rs. 9060 - 11531,three_bhk_rent_range
+bangalore,Kengeri Satellite Town,-,Rs. 9292 - 10841,three_bhk_rent_range
+bangalore,Mahalakshmi Layout,-,-,three_bhk_rent_range
+bangalore,Mallasandra,-,Rs. 14662 - 17595,three_bhk_rent_range
+bangalore,Mathikere,-,Rs. 13005 - 15172,three_bhk_rent_range
+bangalore,Mysore Road,Rs. 5304 - 5712,Rs. 10111 - 10888,three_bhk_rent_range
+bangalore,Nagarbhavi,-,-,three_bhk_rent_range
+bangalore,Nelamangala,-,Rs. 8303 - 11070,three_bhk_rent_range
+bangalore,Rajaji Nagar,-,Rs. 35731 - 42646,three_bhk_rent_range
+bangalore,Raja Rajeshwari Nagar,-,Rs. 11424 - 14280,three_bhk_rent_range
+bangalore,Raja Rajeshwari Nagar 5th Stage,-,-,three_bhk_rent_range
+bangalore,Tumkur Road,-,-,three_bhk_rent_range
+bangalore,Vijayanagar,-,Rs. 12750 - 15300,three_bhk_rent_range
+bangalore,1A Block Koramangala,-,Rs. 28322 - 29334,three_bhk_rent_range
+bangalore,1st Block Koramangala,-,-,three_bhk_rent_range
+bangalore,1st Phase JP Nagar,Rs. 10417 - 12610,Rs. 18360 - 19380,three_bhk_rent_range
+bangalore,2nd Stage Arekere Mico Layout,-,Rs. 17170 - 19746,three_bhk_rent_range
+bangalore,3rd Block Koramangala,-,-,three_bhk_rent_range
+bangalore,4th Block Koramangala,-,Rs. 23949 - 28114,three_bhk_rent_range
+bangalore,5th Phase JP Nagar,-,Rs. 14662 - 17595,three_bhk_rent_range
+bangalore,6th Phase JP Nagar,-,-,three_bhk_rent_range
+bangalore,7th Phase JP Nagar,-,-,three_bhk_rent_range
+bangalore,8th Phase JP Nagar,-,Rs. 12067 - 15779,three_bhk_rent_range
+bangalore,9th Phase JP Nagar,-,-,three_bhk_rent_range
+bangalore,Adugodi,-,-,three_bhk_rent_range
+bangalore,Akshaya Nagar,-,Rs. 14280 - 16320,three_bhk_rent_range
+bangalore,Akshaya Vana,-,Rs. 11602 - 13260,three_bhk_rent_range
+bangalore,Amblipura,-,-,three_bhk_rent_range
+bangalore,Ananth Nagar,-,Rs. 9690 - 12112,three_bhk_rent_range
+bangalore,Anekal,-,Rs. 8160 - 10200,three_bhk_rent_range
+bangalore,Anjanapura,-,Rs. 8424 - 10108,three_bhk_rent_range
+bangalore,Arekere,Rs. 9615 - 10645,Rs. 15895 - 19635,three_bhk_rent_range
+bangalore,Attibele,-,Rs. 5804 - 6771,three_bhk_rent_range
+bangalore,Balaji Gardens Layout,-,Rs. 11411 - 12933,three_bhk_rent_range
+bangalore,Banashankari,-,Rs. 13260 - 16320,three_bhk_rent_range
+bangalore,Banashankari Stage III,-,Rs. 12155 - 14960,three_bhk_rent_range
+bangalore,Bannerghatta Road,-,Rs. 14025 - 17765,three_bhk_rent_range
+bangalore,Basapura,-,Rs. 13257 - 16097,three_bhk_rent_range
+bangalore,Basavangudi,-,Rs. 19635 - 23375,three_bhk_rent_range
+bangalore,Begur,-,-,three_bhk_rent_range
+bangalore,Begur Road,-,Rs. 12750 - 15300,three_bhk_rent_range
+bangalore,Bellandur,-,Rs. 21243 - 24140,three_bhk_rent_range
+bangalore,Bikasipura,-,Rs. 11127 - 12839,three_bhk_rent_range
+bangalore,Billekahalli,-,-,three_bhk_rent_range
+bangalore,Bohra Layout,-,Rs. 10686 - 12976,three_bhk_rent_range
+bangalore,Bommanahalli,-,Rs. 12724 - 15269,three_bhk_rent_range
+bangalore,Bommasandra,-,Rs. 9200 - 10873,three_bhk_rent_range
+bangalore,BTM 2nd Stage,Rs. 9649 - 11404,Rs. 16683 - 19317,three_bhk_rent_range
+bangalore,BTM Layout,Rs. 9350 - 11050,Rs. 17000 - 19550,three_bhk_rent_range
+bangalore,Carmelaram,-,Rs. 20358 - 21986,three_bhk_rent_range
+bangalore,Chandapura,Rs. 5879 - 6718,Rs. 8058 - 9401,three_bhk_rent_range
+bangalore,Chikkalasandra,-,Rs. 11459 - 11459,three_bhk_rent_range
+bangalore,Chikku Lakshmaiah Layout,-,-,three_bhk_rent_range
+bangalore,Choodasandra,-,-,three_bhk_rent_range
+bangalore,Devarabisanahalli,-,-,three_bhk_rent_range
+bangalore,Devarachikkanahalli,-,Rs. 11745 - 13423,three_bhk_rent_range
+bangalore,Doddakallasandra,-,-,three_bhk_rent_range
+bangalore,Doddathoguru,Rs. 7255 - 8222,Rs. 11864 - 15254,three_bhk_rent_range
+bangalore,Dollars Layout,-,-,three_bhk_rent_range
+bangalore,Ejipura,-,-,three_bhk_rent_range
+bangalore,Electronic City,-,Rs. 11900 - 15300,three_bhk_rent_range
+bangalore,Electronic City Phase II,-,Rs. 10498 - 12920,three_bhk_rent_range
+bangalore,Electronics City Phase 1,-,Rs. 14022 - 16651,three_bhk_rent_range
+bangalore,Gollahalli,-,Rs. 12852 - 14688,three_bhk_rent_range
+bangalore,Gottigere,-,Rs. 9378 - 12788,three_bhk_rent_range
+bangalore,Green Glen Layout,-,Rs. 21384 - 23421,three_bhk_rent_range
+bangalore,Gubbalala,-,Rs. 15300 - 17340,three_bhk_rent_range
+bangalore,Harlur,-,Rs. 19635 - 26180,three_bhk_rent_range
+bangalore,Hongasandra,-,Rs. 12444 - 13274,three_bhk_rent_range
+bangalore,Hosa Road,-,Rs. 13107 - 13981,three_bhk_rent_range
+bangalore,Hosur Road,-,Rs. 13043 - 16521,three_bhk_rent_range
+bangalore,HSR Layout,Rs. 11975 - 15467,Rs. 17765 - 21505,three_bhk_rent_range
+bangalore,Hulimavu,-,Rs. 13974 - 16769,three_bhk_rent_range
+bangalore,Iblur Village,-,-,three_bhk_rent_range
+bangalore,Ittamadu,-,Rs. 11220 - 13090,three_bhk_rent_range
+bangalore,Jayanagar,-,Rs. 20570 - 22440,three_bhk_rent_range
+bangalore,Jigani,-,Rs. 8480 - 10022,three_bhk_rent_range
+bangalore,JP Nagar,-,Rs. 15042 - 19742,three_bhk_rent_range
+bangalore,Kaggalipura,-,-,three_bhk_rent_range
+bangalore,Kaikondrahalli,-,-,three_bhk_rent_range
+bangalore,Kalena Agrahara,-,Rs. 17701 - 20825,three_bhk_rent_range
+bangalore,Kammasandra,-,Rs. 10044 - 12362,three_bhk_rent_range
+bangalore,Kanakapura,-,-,three_bhk_rent_range
+bangalore,Kanakpura Road,-,Rs. 12708 - 15640,three_bhk_rent_range
+bangalore,Karuna Nagar,-,Rs. 16592 - 19703,three_bhk_rent_range
+bangalore,Kodichikkanahalli,-,Rs. 12852 - 14458,three_bhk_rent_range
+bangalore,Konanakunte,-,Rs. 10248 - 13042,three_bhk_rent_range
+bangalore,Koramangala,Rs. 14918 - 19338,Rs. 24969 - 30961,three_bhk_rent_range
+bangalore,Kothannur,-,Rs. 11503 - 14158,three_bhk_rent_range
+bangalore,Kudlu,-,Rs. 14008 - 17510,three_bhk_rent_range
+bangalore,Kumaraswami Layout,-,-,three_bhk_rent_range
+bangalore,Lakshmi Layout,-,Rs. 16312 - 19746,three_bhk_rent_range
+bangalore,Lingadheeranahalli,-,-,three_bhk_rent_range
+bangalore,Mallasandra,-,-,three_bhk_rent_range
+bangalore,Maragondanahalli,-,-,three_bhk_rent_range
+bangalore,Munivenkatppa Layout,-,-,three_bhk_rent_range
+bangalore,Neeladri Nagar,Rs. 8670 - 11220,Rs. 12750 - 14450,three_bhk_rent_range
+bangalore,Padmanabhanagar,-,Rs. 13107 - 14855,three_bhk_rent_range
+bangalore,Panduranga Nagar,-,Rs. 17518 - 22385,three_bhk_rent_range
+bangalore,Rajapura,-,Rs. 9532 - 10894,three_bhk_rent_range
+bangalore,Rayasandra,Rs. 5773 - 7216,Rs. 11370 - 13994,three_bhk_rent_range
+bangalore,Roopena Agrahara,-,Rs. 13600 - 16150,three_bhk_rent_range
+bangalore,Sahyadri Layout,-,Rs. 21284 - 25541,three_bhk_rent_range
+bangalore,Sarjapura - Attibele Road,-,Rs. 6040 - 7687,three_bhk_rent_range
+bangalore,Sector 1 HSR Layout,-,Rs. 20551 - 22420,three_bhk_rent_range
+bangalore,Sector 2 HSR Layout,Rs. 13260 - 16830,Rs. 18459 - 22346,three_bhk_rent_range
+bangalore,Sector 7 HSR Layout,-,Rs. 23746 - 26714,three_bhk_rent_range
+bangalore,Shan Boga Colony,-,-,three_bhk_rent_range
+bangalore,Shikaripalya,-,-,three_bhk_rent_range
+bangalore,Silk Board,Rs. 8772 - 11404,Rs. 15172 - 18742,three_bhk_rent_range
+bangalore,Singasandra,-,Rs. 12495 - 15172,three_bhk_rent_range
+bangalore,Somasundara Palya,-,Rs. 16256 - 19125,three_bhk_rent_range
+bangalore,Subramanyapura,-,Rs. 12240 - 16320,three_bhk_rent_range
+bangalore,Talaghattapura,-,-,three_bhk_rent_range
+bangalore,Uttarahalli,-,Rs. 9818 - 11602,three_bhk_rent_range
+bangalore,Vasantha Vallabha Nagar,-,-,three_bhk_rent_range
+bangalore,Vijaya Bank Layout,-,Rs. 13257 - 16097,three_bhk_rent_range
+bangalore,Vishwapriya Layout,-,-,three_bhk_rent_range
+bangalore,Vittasandra,-,Rs. 17600 - 18635,three_bhk_rent_range
+bangalore,Yelenahalli,-,-,three_bhk_rent_range
+bangalore,Ashok Nagar,-,Rs. 45186 - 54223,three_bhk_rent_range
+bangalore,Benson Town,-,-,three_bhk_rent_range
+bangalore,Cox Town,-,Rs. 21420 - 24098,three_bhk_rent_range
+bangalore,Cunningham Road,-,-,three_bhk_rent_range
+bangalore,Frazer Town,-,Rs. 20570 - 23375,three_bhk_rent_range
+bangalore,Lavelle Road,-,-,three_bhk_rent_range
+bangalore,M.G Road,-,Rs. 32538 - 38454,three_bhk_rent_range
+bangalore,Richards Town,-,-,three_bhk_rent_range
+bangalore,Richmond Road,-,Rs. 30916 - 35333,three_bhk_rent_range
+bangalore,Richmond Town,-,Rs. 30916 - 35333,three_bhk_rent_range
+bangalore,Shanthala Nagar,-,-,three_bhk_rent_range
+bangalore,Ulsoor,Rs. 12186 - 15232,Rs. 20528 - 24990,three_bhk_rent_range
+bangalore,Vittal Mallya Road,-,Rs. 43520 - 48960,three_bhk_rent_range
+bangalore,3rd Block HBR Layout,-,Rs. 18700 - 22440,three_bhk_rent_range
+bangalore,AECS Layout,Rs. 13056 - 14144,Rs. 19550 - 23460,three_bhk_rent_range
+bangalore,Ambalipura,-,Rs. 19635 - 25245,three_bhk_rent_range
+bangalore,Ambedkar Nagar,-,-,three_bhk_rent_range
+bangalore,Anjappa Layout,Rs. 10947 - 11353,-,three_bhk_rent_range
+bangalore,Ardendale,-,-,three_bhk_rent_range
+bangalore,Badavala Nagar,Rs. 10542 - 11758,Rs. 16949 - 18644,three_bhk_rent_range
+bangalore,Balagere,Rs. 14849 - 17598,Rs. 18700 - 21250,three_bhk_rent_range
+bangalore,Banaswadi,Rs. 7973 - 10251,Rs. 16830 - 17765,three_bhk_rent_range
+bangalore,Belatur,-,Rs. 14458 - 16386,three_bhk_rent_range
+bangalore,Belatur Colony,-,-,three_bhk_rent_range
+bangalore,Bhoganhalli,-,Rs. 19635 - 25245,three_bhk_rent_range
+bangalore,B Narayanapura,Rs. 11492 - 12376,Rs. 16958 - 19635,three_bhk_rent_range
+bangalore,Brookefield,-,Rs. 19207 - 23780,three_bhk_rent_range
+bangalore,Cambridge Layout,-,Rs. 25245 - 28050,three_bhk_rent_range
+bangalore,Channasandra,-,Rs. 12686 - 14378,three_bhk_rent_range
+bangalore,Chelekare,-,Rs. 16578 - 18651,three_bhk_rent_range
+bangalore,Chinnapanahalli,-,Rs. 19380 - 22440,three_bhk_rent_range
+bangalore,CMH Road,-,Rs. 24480 - 27540,three_bhk_rent_range
+bangalore,Cooke Town,Rs. 13834 - 16600,Rs. 20570 - 23375,three_bhk_rent_range
+bangalore,CV Raman Nagar,Rs. 10924 - 12485,Rs. 17243 - 20117,three_bhk_rent_range
+bangalore,Defence Colony,-,-,three_bhk_rent_range
+bangalore,Devarabeesana Halli,-,-,three_bhk_rent_range
+bangalore,Doddabanahalli,-,Rs. 8466 - 9877,three_bhk_rent_range
+bangalore,Doddakannelli,-,Rs. 18836 - 22603,three_bhk_rent_range
+bangalore,Dodda Nekkundi,-,Rs. 19429 - 22079,three_bhk_rent_range
+bangalore,Dodda Nekkundi Extension,-,-,three_bhk_rent_range
+bangalore,Doddanekundi,Rs. 9955 - 12444,Rs. 17595 - 21505,three_bhk_rent_range
+bangalore,Domlur,Rs. 12622 - 14492,Rs. 27540 - 31620,three_bhk_rent_range
+bangalore,Dooravani Nagar,-,-,three_bhk_rent_range
+bangalore,EPIP Zone,-,Rs. 23297 - 26209,three_bhk_rent_range
+bangalore,Garudachar Palya,-,-,three_bhk_rent_range
+bangalore,GM Palaya,Rs. 11624 - 12554,Rs. 15794 - 17652,three_bhk_rent_range
+bangalore,Gunjur,-,-,three_bhk_rent_range
+bangalore,Hagadur,-,Rs. 12340 - 14985,three_bhk_rent_range
+bangalore,HAL 2nd Stage,Rs. 11730 - 14174,Rs. 22440 - 27115,three_bhk_rent_range
+bangalore,HAL 3rd Stage,-,Rs. 21212 - 23056,three_bhk_rent_range
+bangalore,Harlur Road,-,Rs. 23991 - 25911,three_bhk_rent_range
+bangalore,HBR Layout,Rs. 7948 - 10752,Rs. 16242 - 19108,three_bhk_rent_range
+bangalore,Hoodi,-,Rs. 17846 - 20664,three_bhk_rent_range
+bangalore,Hoskote,-,Rs. 7517 - 8884,three_bhk_rent_range
+bangalore,HRBR Layout,-,Rs. 18742 - 21420,three_bhk_rent_range
+bangalore,Indira Nagar,Rs. 13260 - 15810,Rs. 22482 - 27370,three_bhk_rent_range
+bangalore,Indira Nagar Stage 2,-,Rs. 21505 - 27115,three_bhk_rent_range
+bangalore,ITPL,-,Rs. 17085 - 20502,three_bhk_rent_range
+bangalore,Jeevan Bima Nagar,-,Rs. 19149 - 20890,three_bhk_rent_range
+bangalore,Kadubeesanahalli,-,Rs. 19903 - 23694,three_bhk_rent_range
+bangalore,Kadugodi,-,Rs. 13528 - 16233,three_bhk_rent_range
+bangalore,Kaggadasapura,Rs. 9764 - 11624,Rs. 15172 - 17850,three_bhk_rent_range
+bangalore,Kalyan Nagar,Rs. 8882 - 10285,Rs. 15286 - 19108,three_bhk_rent_range
+bangalore,Kammanahalli,-,Rs. 14450 - 17850,three_bhk_rent_range
+bangalore,Kannamangala,-,Rs. 12638 - 14443,three_bhk_rent_range
+bangalore,Kartik Nagar,Rs. 9350 - 12325,Rs. 17595 - 20528,three_bhk_rent_range
+bangalore,Kasavanhalli,-,Rs. 17167 - 20028,three_bhk_rent_range
+bangalore,Kasturi Nagar,Rs. 10282 - 11424,-,three_bhk_rent_range
+bangalore,Kaverappa Layout,-,-,three_bhk_rent_range
+bangalore,Kodigehalli,-,Rs. 12126 - 13858,three_bhk_rent_range
+bangalore,Kodihalli,-,Rs. 18700 - 22440,three_bhk_rent_range
+bangalore,KR Puram,-,Rs. 11890 - 14634,three_bhk_rent_range
+bangalore,Kundalahalli,-,Rs. 16150 - 22100,three_bhk_rent_range
+bangalore,Kundalahalli Colony,-,Rs. 21866 - 24990,three_bhk_rent_range
+bangalore,Lakshminarayana Pura,-,Rs. 24643 - 29777,three_bhk_rent_range
+bangalore,Lingarajapuram,-,-,three_bhk_rent_range
+bangalore,Mahadevpura,Rs. 11492 - 12376,Rs. 17054 - 19747,three_bhk_rent_range
+bangalore,Malleshpalya,Rs. 10341 - 12221,Rs. 15042 - 16812,three_bhk_rent_range
+bangalore,Marathahalli,Rs. 10727 - 13409,Rs. 17765 - 22440,three_bhk_rent_range
+bangalore,Munnekollal,Rs. 9562 - 11156,Rs. 14960 - 17765,three_bhk_rent_range
+bangalore,Murugeshpalya,Rs. 12424 - 14494,Rs. 17118 - 20379,three_bhk_rent_range
+bangalore,Nagavarapalya,-,Rs. 20272 - 21894,three_bhk_rent_range
+bangalore,Nagondanahalli,-,Rs. 12792 - 14620,three_bhk_rent_range
+bangalore,Nallurhalli,-,Rs. 17000 - 18700,three_bhk_rent_range
+bangalore,New Thippasandra,Rs. 12464 - 14382,Rs. 20327 - 22175,three_bhk_rent_range
+bangalore,NRI Layout,-,Rs. 11475 - 14344,three_bhk_rent_range
+bangalore,Old Airport Road,-,Rs. 19907 - 23888,three_bhk_rent_range
+bangalore,Old Madras Road,-,Rs. 12840 - 15592,three_bhk_rent_range
+bangalore,OMBR Layout,-,Rs. 17901 - 18896,three_bhk_rent_range
+bangalore,Outer Ring Road East,-,-,three_bhk_rent_range
+bangalore,Pai Layout,-,Rs. 19074 - 19941,three_bhk_rent_range
+bangalore,Panathur,-,Rs. 20528 - 24990,three_bhk_rent_range
+bangalore,Pattandur Agrahara,-,Rs. 19421 - 21270,three_bhk_rent_range
+bangalore,Puttappa Layout,-,Rs. 21212 - 23056,three_bhk_rent_range
+bangalore,Ramagondanahalli,-,Rs. 18008 - 19009,three_bhk_rent_range
+bangalore,Ramamurthy Nagar,-,Rs. 12162 - 13030,three_bhk_rent_range
+bangalore,Sarjapur,-,-,three_bhk_rent_range
+bangalore,Sarjapur  Road,Rs. 10264 - 11495,Rs. 17765 - 22440,three_bhk_rent_range
+bangalore,Sathya Layout,Rs. 11934 - 12818,-,three_bhk_rent_range
+bangalore,Seegehalli,-,Rs. 13090 - 14960,three_bhk_rent_range
+bangalore,Seetharampalya,-,Rs. 18475 - 21114,three_bhk_rent_range
+bangalore,Silver Springs Layout,-,-,three_bhk_rent_range
+bangalore,Sompura,-,Rs. 9536 - 11003,three_bhk_rent_range
+bangalore,Sonnenahalli,-,-,three_bhk_rent_range
+bangalore,TC Palaya,-,Rs. 12852 - 15606,three_bhk_rent_range
+bangalore,Thigalarapalya,-,-,three_bhk_rent_range
+bangalore,Thubarahalli,-,-,three_bhk_rent_range
+bangalore,Varthur,Rs. 7140 - 7140,Rs. 14416 - 16218,three_bhk_rent_range
+bangalore,Varthur Road,-,Rs. 15129 - 17799,three_bhk_rent_range
+bangalore,Vasanth Nagar,-,-,three_bhk_rent_range
+bangalore,Vignana Nagar,Rs. 9962 - 12452,Rs. 14927 - 15805,three_bhk_rent_range
+bangalore,Whitefield,-,Rs. 15852 - 20514,three_bhk_rent_range
+bangalore,Yemlur,-,-,three_bhk_rent_range
+bangalore,Abbigere,-,Rs. 12559 - 13396,three_bhk_rent_range
+bangalore,Abshot Layout,-,Rs. 40424 - 46065,three_bhk_rent_range
+bangalore,Amruthahalli,-,Rs. 12920 - 14535,three_bhk_rent_range
+bangalore,Ashirvad Colony,-,-,three_bhk_rent_range
+bangalore,Ashwathnagar,-,Rs. 11717 - 15623,three_bhk_rent_range
+bangalore,Avalahalli,-,-,three_bhk_rent_range
+bangalore,Babusapalaya,-,Rs. 14025 - 15895,three_bhk_rent_range
+bangalore,Budigere,-,Rs. 13872 - 14797,three_bhk_rent_range
+bangalore,Chikkabanavar,-,Rs. 6487 - 8920,three_bhk_rent_range
+bangalore,Chokkanahalli,-,Rs. 17071 - 17969,three_bhk_rent_range
+bangalore,Coconut Grove Layout,-,-,three_bhk_rent_range
+bangalore,Dasarahalli,-,Rs. 13090 - 14960,three_bhk_rent_range
+bangalore,Devanahalli,-,-,three_bhk_rent_range
+bangalore,Devi Nagar,-,Rs. 12031 - 13750,three_bhk_rent_range
+bangalore,Doddaballapur,-,-,three_bhk_rent_range
+bangalore,Dollars Colony,-,-,three_bhk_rent_range
+bangalore,Hebbal,-,Rs. 15341 - 19176,three_bhk_rent_range
+bangalore,Hebbal Kempapura,-,Rs. 16320 - 20400,three_bhk_rent_range
+bangalore,Hegde Nagar,-,Rs. 14810 - 16662,three_bhk_rent_range
+bangalore,Hennur,Rs. 9575 - 12767,Rs. 15895 - 18700,three_bhk_rent_range
+bangalore,Hennur Gardens,-,-,three_bhk_rent_range
+bangalore,Hennur Road,Rs. 9358 - 12478,Rs. 15895 - 18700,three_bhk_rent_range
+bangalore,Horamavu,-,Rs. 13399 - 16271,three_bhk_rent_range
+bangalore,Horamavu Agara,-,Rs. 13090 - 15895,three_bhk_rent_range
+bangalore,Horamavu Banaswadi,-,Rs. 13171 - 14049,three_bhk_rent_range
+bangalore,IVC Road,-,-,three_bhk_rent_range
+bangalore,Jakkur,-,Rs. 16198 - 19235,three_bhk_rent_range
+bangalore,Jakkur Plantation,-,-,three_bhk_rent_range
+bangalore,Jalahalli,-,Rs. 13872 - 15606,three_bhk_rent_range
+bangalore,Jalahalli East,-,Rs. 10532 - 12036,three_bhk_rent_range
+bangalore,Kanaka Nagar,-,-,three_bhk_rent_range
+bangalore,Karthik Nagar,Rs. 11985 - 14382,-,three_bhk_rent_range
+bangalore,Kaval Byrasandra,-,Rs. 11220 - 14960,three_bhk_rent_range
+bangalore,Kempapura,-,Rs. 14363 - 17441,three_bhk_rent_range
+bangalore,Kereguddadahalli,-,-,three_bhk_rent_range
+bangalore,Kodigehaali,-,Rs. 11503 - 14158,three_bhk_rent_range
+bangalore,Kogilu,-,-,three_bhk_rent_range
+bangalore,Kothanur,-,Rs. 13090 - 15895,three_bhk_rent_range
+bangalore,Malleshwaram,-,Rs. 25500 - 31620,three_bhk_rent_range
+bangalore,Maruthi Sevanagar,-,Rs. 16320 - 18360,three_bhk_rent_range
+bangalore,Medahalli,-,Rs. 11900 - 13600,three_bhk_rent_range
+bangalore,Nagavara,-,Rs. 16430 - 19329,three_bhk_rent_range
+bangalore,Nehru Nagar,-,-,three_bhk_rent_range
+bangalore,R.T. Nagar,-,Rs. 14662 - 16618,three_bhk_rent_range
+bangalore,Rachenahalli,-,Rs. 14946 - 19617,three_bhk_rent_range
+bangalore,Sadashiva Nagar,-,-,three_bhk_rent_range
+bangalore,Sahakara Nagar,-,Rs. 13459 - 18266,three_bhk_rent_range
+bangalore,Sanjay Nagar,-,-,three_bhk_rent_range
+bangalore,Sultan Palaya,-,Rs. 14158 - 16812,three_bhk_rent_range
+bangalore,Thanisandra,-,Rs. 15837 - 18632,three_bhk_rent_range
+bangalore,Vasanth Nagar,-,Rs. 39270 - 45815,three_bhk_rent_range
+bangalore,Vidyaranyapura,-,Rs. 11067 - 13834,three_bhk_rent_range
+bangalore,Yelahanka,-,Rs. 13899 - 17870,three_bhk_rent_range
+bangalore,Yelahanka New Town,-,Rs. 10710 - 14280,three_bhk_rent_range
+bangalore,Yeshwanthpur,-,Rs. 24477 - 27669,three_bhk_rent_range
+chennai,Alapakkam,-,Rs. 6582 - 8228,three_bhk_rent_range
+chennai,Alwarthirunagar,-,Rs. 10200 - 12240,three_bhk_rent_range
+chennai,Arcot Road,Rs. 7521 - 8595,Rs. 12240 - 14535,three_bhk_rent_range
+chennai,Ayappakkam,-,-,three_bhk_rent_range
+chennai,Chembarambakkam,-,Rs. 9518 - 10384,three_bhk_rent_range
+chennai,Gerugambakkam,-,Rs. 8534 - 9387,three_bhk_rent_range
+chennai,Irungattukottai,-,Rs. 7473 - 8007,three_bhk_rent_range
+chennai,Iyyappanthangal,-,Rs. 7667 - 9758,three_bhk_rent_range
+chennai,Kattupakkam,-,-,three_bhk_rent_range
+chennai,Kolapakkam,-,Rs. 8583 - 10144,three_bhk_rent_range
+chennai,Koyambedu,-,Rs. 10115 - 13728,three_bhk_rent_range
+chennai,Madanandapuram,-,Rs. 9180 - 10710,three_bhk_rent_range
+chennai,Maduravoyal,-,-,three_bhk_rent_range
+chennai,Mangadu,-,-,three_bhk_rent_range
+chennai,Mugalivakkam,-,Rs. 9945 - 12240,three_bhk_rent_range
+chennai,Nerkundram,-,Rs. 11269 - 12879,three_bhk_rent_range
+chennai,Poonamallee,-,-,three_bhk_rent_range
+chennai,Porur,-,-,three_bhk_rent_range
+chennai,Ramapuram,-,Rs. 12240 - 14535,three_bhk_rent_range
+chennai,Saligramam,-,Rs. 13728 - 16958,three_bhk_rent_range
+chennai,Sankareswarar Nagar,-,-,three_bhk_rent_range
+chennai,Sriperumbudur,-,-,three_bhk_rent_range
+chennai,Thiruverkadu,-,Rs. 7480 - 8840,three_bhk_rent_range
+chennai,Valasaravakkam,-,Rs. 11475 - 13770,three_bhk_rent_range
+chennai,Vanagaram,-,-,three_bhk_rent_range
+chennai,Virugambakkam,-,Rs. 12282 - 15172,three_bhk_rent_range
+chennai,Aminjikarai,-,Rs. 13600 - 16150,three_bhk_rent_range
+chennai,Anna Salai,-,-,three_bhk_rent_range
+chennai,Arumbakkam,-,Rs. 13573 - 15269,three_bhk_rent_range
+chennai,Athreya Puram,-,Rs. 13627 - 15331,three_bhk_rent_range
+chennai,Chetpet,-,-,three_bhk_rent_range
+chennai,Choolaimedu,Rs. 8522 - 9942,Rs. 14450 - 17000,three_bhk_rent_range
+chennai,Egmore,-,Rs. 20352 - 24776,three_bhk_rent_range
+chennai,Kilpauk,-,Rs. 18700 - 22440,three_bhk_rent_range
+chennai,Nelson Manickam Road,-,Rs. 16830 - 19635,three_bhk_rent_range
+chennai,Nungambakkam,-,Rs. 16065 - 19635,three_bhk_rent_range
+chennai,Poes Garden,-,-,three_bhk_rent_range
+chennai,Sowrashtra Nagar,-,Rs. 15300 - 18700,three_bhk_rent_range
+chennai,Sterling Road,-,Rs. 23154 - 26627,three_bhk_rent_range
+chennai,Thiyagaraya Nagar,-,Rs. 16490 - 22262,three_bhk_rent_range
+chennai,Triplicane,-,Rs. 14605 - 16596,three_bhk_rent_range
+chennai,Abhiramapuram,-,-,three_bhk_rent_range
+chennai,Adambakkam,-,Rs. 10710 - 13005,three_bhk_rent_range
+chennai,Adyar,Rs. 12750 - 14790,Rs. 21250 - 25500,three_bhk_rent_range
+chennai,Alandur,-,Rs. 16667 - 21053,three_bhk_rent_range
+chennai,Alwarpet,-,Rs. 22100 - 28900,three_bhk_rent_range
+chennai,Anakaputhur,-,-,three_bhk_rent_range
+chennai,Arasankazhani,-,Rs. 10774 - 12431,three_bhk_rent_range
+chennai,Ashok Nagar,-,Rs. 13770 - 16830,three_bhk_rent_range
+chennai,Baby Nagar,-,Rs. 15042 - 16812,three_bhk_rent_range
+chennai,Besant Nagar,-,Rs. 22440 - 26180,three_bhk_rent_range
+chennai,Bhuvaneshwari Nagar,-,Rs. 13005 - 15300,three_bhk_rent_range
+chennai,Boat Club,-,-,three_bhk_rent_range
+chennai,Camp Road,Rs. 5189 - 6133,Rs. 8711 - 10163,three_bhk_rent_range
+chennai,Chettipunniyam,-,Rs. 9027 - 9779,three_bhk_rent_range
+chennai,Chitlapakkam,-,Rs. 8808 - 10409,three_bhk_rent_range
+chennai,Chromepet,Rs. 4675 - 6078,Rs. 7499 - 9544,three_bhk_rent_range
+chennai,East Tambaram,-,-,three_bhk_rent_range
+chennai,ECR,-,-,three_bhk_rent_range
+chennai,Egattur,-,Rs. 17381 - 20278,three_bhk_rent_range
+chennai,Gopalapuram,-,-,three_bhk_rent_range
+chennai,Gowrivakkam,-,Rs. 8228 - 10472,three_bhk_rent_range
+chennai,GST Road,-,-,three_bhk_rent_range
+chennai,Guduvancheri,-,Rs. 6365 - 8486,three_bhk_rent_range
+chennai,Guindy,Rs. 7023 - 9501,Rs. 13728 - 17765,three_bhk_rent_range
+chennai,Habibullah Road,-,Rs. 20359 - 22056,three_bhk_rent_range
+chennai,Hastinapuram,-,-,three_bhk_rent_range
+chennai,Indira Nagar,-,-,three_bhk_rent_range
+chennai,Jafferkhanpet,-,Rs. 11949 - 14605,three_bhk_rent_range
+chennai,K.K. Nagar,-,Rs. 12860 - 15130,three_bhk_rent_range
+chennai,Kalakshetra Colony,-,Rs. 21016 - 24671,three_bhk_rent_range
+chennai,Kamaraj Nagar,-,-,three_bhk_rent_range
+chennai,Kandanchavadi,-,Rs. 11900 - 14875,three_bhk_rent_range
+chennai,Kandigai,-,-,three_bhk_rent_range
+chennai,Karapakkam,-,Rs. 12763 - 16166,three_bhk_rent_range
+chennai,Kattankulathur,-,-,three_bhk_rent_range
+chennai,Kazhipattur,-,Rs. 10310 - 11896,three_bhk_rent_range
+chennai,Keelkattalai,-,Rs. 9823 - 12846,three_bhk_rent_range
+chennai,Kelambakkam,Rs. 5795 - 7865,-,three_bhk_rent_range
+chennai,Kodambakkam,Rs. 6690 - 7871,Rs. 16371 - 18827,three_bhk_rent_range
+chennai,Kotturpuram,-,Rs. 15300 - 18700,three_bhk_rent_range
+chennai,Kovilambakkam,-,Rs. 10200 - 11050,three_bhk_rent_range
+chennai,Krishnapuri,-,-,three_bhk_rent_range
+chennai,Kundrathur,-,Rs. 7098 - 9227,three_bhk_rent_range
+chennai,Madambakkam,-,Rs. 7160 - 9547,three_bhk_rent_range
+chennai,Madipakkam,-,Rs. 9394 - 11743,three_bhk_rent_range
+chennai,Mahindra City,-,Rs. 11587 - 13760,three_bhk_rent_range
+chennai,Mambakkam,Rs. 8078 - 9425,-,three_bhk_rent_range
+chennai,Manapakkam,-,Rs. 12920 - 15342,three_bhk_rent_range
+chennai,Mandaveli,-,-,three_bhk_rent_range
+chennai,Manivakkam,-,-,three_bhk_rent_range
+chennai,Maraimalai Nagar,-,-,three_bhk_rent_range
+chennai,Medavakkam,-,Rs. 9690 - 12112,three_bhk_rent_range
+chennai,Mehta Nagar,-,-,three_bhk_rent_range
+chennai,MRC Nagar,-,Rs. 59310 - 78676,three_bhk_rent_range
+chennai,Mudichur,-,-,three_bhk_rent_range
+chennai,Mylapore,Rs. 8907 - 10604,-,three_bhk_rent_range
+chennai,Nallambakkam,-,-,three_bhk_rent_range
+chennai,Nanganallur,-,Rs. 10838 - 12282,three_bhk_rent_range
+chennai,Nanmangalam,-,Rs. 6800 - 8160,three_bhk_rent_range
+chennai,Navalur,Rs. 10445 - 11750,Rs. 13954 - 18314,three_bhk_rent_range
+chennai,New Perungalathur,-,Rs. 6640 - 8854,three_bhk_rent_range
+chennai,Okkiyam Thuraipakkam,-,-,three_bhk_rent_range
+chennai,Old Perungalathur,-,-,three_bhk_rent_range
+chennai,OMR,-,Rs. 11602 - 14918,three_bhk_rent_range
+chennai,Oragadam,-,Rs. 7097 - 8387,three_bhk_rent_range
+chennai,Padappai,-,Rs. 5738 - 7012,three_bhk_rent_range
+chennai,Padur,-,Rs. 11271 - 12138,three_bhk_rent_range
+chennai,Palavakkam,Rs. 5610 - 7650,-,three_bhk_rent_range
+chennai,Pallavaram,Rs. 8752 - 11669,Rs. 10627 - 12145,three_bhk_rent_range
+chennai,Pallikaranai,-,Rs. 12277 - 14165,three_bhk_rent_range
+chennai,Pammal,-,Rs. 7718 - 10033,three_bhk_rent_range
+chennai,Perumbakkam,-,Rs. 10973 - 12661,three_bhk_rent_range
+chennai,Perungalathur,-,Rs. 7268 - 9690,three_bhk_rent_range
+chennai,Perungudi,-,Rs. 14091 - 16440,three_bhk_rent_range
+chennai,Potheri,-,-,three_bhk_rent_range
+chennai,Pudupakkam Village,Rs. 8854 - 10118,-,three_bhk_rent_range
+chennai,Puzhuthivakkam,-,-,three_bhk_rent_range
+chennai,Radha Nagar,-,Rs. 7443 - 8796,three_bhk_rent_range
+chennai,Rajakilpakkam,-,Rs. 7994 - 9448,three_bhk_rent_range
+chennai,RA Puram,-,Rs. 21318 - 24871,three_bhk_rent_range
+chennai,Revathipuram,-,Rs. 6472 - 7910,three_bhk_rent_range
+chennai,Saidapet,Rs. 6120 - 7650,-,three_bhk_rent_range
+chennai,Santhosapuram,-,-,three_bhk_rent_range
+chennai,Selaiyur,-,Rs. 8711 - 10163,three_bhk_rent_range
+chennai,Sembakkam,-,Rs. 7901 - 10056,three_bhk_rent_range
+chennai,Semmancheri,-,-,three_bhk_rent_range
+chennai,Semmenchery,-,-,three_bhk_rent_range
+chennai,Shastri Nagar,-,-,three_bhk_rent_range
+chennai,Sholinganallur,-,Rs. 14710 - 18171,three_bhk_rent_range
+chennai,Singaperumal Koil,-,Rs. 8181 - 9669,three_bhk_rent_range
+chennai,Siruseri,Rs. 8123 - 10261,Rs. 8813 - 11016,three_bhk_rent_range
+chennai,Sithalapakkam,-,Rs. 9180 - 10710,three_bhk_rent_range
+chennai,S Kolathur,-,-,three_bhk_rent_range
+chennai,Sunnambu Kolathur,-,-,three_bhk_rent_range
+chennai,T.Nagar,Rs. 8959 - 11199,Rs. 15137 - 18741,three_bhk_rent_range
+chennai,Tambaram,Rs. 5437 - 6343,Rs. 8116 - 10329,three_bhk_rent_range
+chennai,Tambaram Sanatoruim,-,-,three_bhk_rent_range
+chennai,Thaiyur,-,Rs. 5967 - 7344,three_bhk_rent_range
+chennai,Thalambur,-,-,three_bhk_rent_range
+chennai,Thirumudivakkam,-,Rs. 10163 - 12340,three_bhk_rent_range
+chennai,Thiruporur,-,-,three_bhk_rent_range
+chennai,Thiruvanchery,-,-,three_bhk_rent_range
+chennai,Thiruvanmiyur,-,Rs. 17340 - 21675,three_bhk_rent_range
+chennai,Thoraipakkam,-,Rs. 13682 - 16247,three_bhk_rent_range
+chennai,Trustpuram,-,Rs. 12112 - 14535,three_bhk_rent_range
+chennai,Ullagaram,-,-,three_bhk_rent_range
+chennai,Urapakkam,-,-,three_bhk_rent_range
+chennai,Vandalur,-,-,three_bhk_rent_range
+chennai,Vandalur Kelambakkam Road,Rs. 8078 - 9874,-,three_bhk_rent_range
+chennai,Varadarajapuram,-,-,three_bhk_rent_range
+chennai,Velachery,Rs. 7331 - 9775,Rs. 13151 - 15617,three_bhk_rent_range
+chennai,Vengaivasal,-,-,three_bhk_rent_range
+chennai,Viduthalai Nagar,-,-,three_bhk_rent_range
+chennai,West Mambalam,-,Rs. 13102 - 14350,three_bhk_rent_range
+chennai,West Tambaram,-,-,three_bhk_rent_range
+chennai,Zamin Pallavaram,-,Rs. 11156 - 12644,three_bhk_rent_range
+chennai,Ambattur,Rs. 5171 - 6033,Rs. 7948 - 10115,three_bhk_rent_range
+chennai,Anna Nagar,-,Rs. 17000 - 22100,three_bhk_rent_range
+chennai,Anna Nagar East,-,-,three_bhk_rent_range
+chennai,Anna Nagar West,-,-,three_bhk_rent_range
+chennai,Anna Nagar Western Extension,-,Rs. 15300 - 17595,three_bhk_rent_range
+chennai,Annanur,-,-,three_bhk_rent_range
+chennai,Avadi,-,Rs. 6792 - 8150,three_bhk_rent_range
+chennai,Ayanambakkam,-,-,three_bhk_rent_range
+chennai,Ayanavaram,-,Rs. 9991 - 12211,three_bhk_rent_range
+chennai,Kallikuppam,-,-,three_bhk_rent_range
+chennai,Kodungaiyur,-,-,three_bhk_rent_range
+chennai,Kolathur,-,Rs. 9170 - 11462,three_bhk_rent_range
+chennai,Korattur,-,-,three_bhk_rent_range
+chennai,Lakshmipuram,-,-,three_bhk_rent_range
+chennai,Madhavaram,-,-,three_bhk_rent_range
+chennai,Mogappair,-,-,three_bhk_rent_range
+chennai,Mogappair East,-,Rs. 11985 - 14382,three_bhk_rent_range
+chennai,Mogappair West,-,Rs. 10710 - 12240,three_bhk_rent_range
+chennai,Nolambur,-,Rs. 11305 - 13728,three_bhk_rent_range
+chennai,Paruthipet,-,-,three_bhk_rent_range
+chennai,Perambalur,-,Rs. 9960 - 12095,three_bhk_rent_range
+chennai,Perambur,Rs. 5610 - 7480,Rs. 9282 - 11424,three_bhk_rent_range
+chennai,Purasaiwakkam,-,-,three_bhk_rent_range
+chennai,Shanthi Colony,-,Rs. 18582 - 22121,three_bhk_rent_range
+chennai,Thirumullaivoyal,-,Rs. 7225 - 8670,three_bhk_rent_range
+chennai,Villivakkam,Rs. 5516 - 6018,Rs. 9448 - 11628,three_bhk_rent_range
+hyderabad,3rd Phase KPHB,-,-,three_bhk_rent_range
+hyderabad,5th Phase KPHB,-,-,three_bhk_rent_range
+hyderabad,6th Phase KPHB,-,Rs. 13872 - 15606,three_bhk_rent_range
+hyderabad,A.S Rao Nagar,-,-,three_bhk_rent_range
+hyderabad,Adibatla,-,-,three_bhk_rent_range
+hyderabad,Alkapuri,-,-,three_bhk_rent_range
+hyderabad,Ameerpet,Rs. 5916 - 6409,Rs. 10047 - 11722,three_bhk_rent_range
+hyderabad,Aminpur,-,Rs. 8296 - 10785,three_bhk_rent_range
+hyderabad,Anjaiah Nagar,Rs. 10540 - 11858,-,three_bhk_rent_range
+hyderabad,Attapur,-,Rs. 8500 - 11050,three_bhk_rent_range
+hyderabad,Bachupally,-,Rs. 7480 - 8415,three_bhk_rent_range
+hyderabad,Bandam Kommu,-,-,three_bhk_rent_range
+hyderabad,Bandlaguda,-,Rs. 8285 - 10126,three_bhk_rent_range
+hyderabad,Bangalore Highway,-,Rs. 21366 - 26115,three_bhk_rent_range
+hyderabad,Banjara Hills,Rs. 7714 - 9256,-,three_bhk_rent_range
+hyderabad,Beeramguda,-,-,three_bhk_rent_range
+hyderabad,Begumpet,Rs. 5100 - 6630,Rs. 10928 - 13450,three_bhk_rent_range
+hyderabad,Boduppal,-,-,three_bhk_rent_range
+hyderabad,Chandanagar,-,Rs. 12661 - 14349,three_bhk_rent_range
+hyderabad,D.D. Colony,-,Rs. 12974 - 13785,three_bhk_rent_range
+hyderabad,Dilsukh Nagar,-,Rs. 7599 - 9119,three_bhk_rent_range
+hyderabad,Film Nagar,-,-,three_bhk_rent_range
+hyderabad,Financial District,-,Rs. 21366 - 26115,three_bhk_rent_range
+hyderabad,Forest Department Colony,Rs. 8453 - 10442,Rs. 14387 - 16600,three_bhk_rent_range
+hyderabad,Gachibowli,-,-,three_bhk_rent_range
+hyderabad,Gajulramaram,-,-,three_bhk_rent_range
+hyderabad,Goutami Enclave,-,Rs. 13426 - 15491,three_bhk_rent_range
+hyderabad,Gouthami Enclave,Rs. 8255 - 9287,Rs. 14382 - 15341,three_bhk_rent_range
+hyderabad,Hafeezpet,-,Rs. 13846 - 16616,three_bhk_rent_range
+hyderabad,Hi-Tech City,-,Rs. 18700 - 19635,three_bhk_rent_range
+hyderabad,Himayat Nagar,-,-,three_bhk_rent_range
+hyderabad,Hydershakote,-,-,three_bhk_rent_range
+hyderabad,Jubilee Hills,-,-,three_bhk_rent_range
+hyderabad,Kapra,-,Rs. 6072 - 7590,three_bhk_rent_range
+hyderabad,Khajaguda,-,-,three_bhk_rent_range
+hyderabad,Kokapet,-,-,three_bhk_rent_range
+hyderabad,Kondapur,-,Rs. 14050 - 15924,three_bhk_rent_range
+hyderabad,Kothaguda,-,-,three_bhk_rent_range
+hyderabad,Kothapet,-,Rs. 8109 - 8920,three_bhk_rent_range
+hyderabad,KPHB,Rs. 4250 - 5525,Rs. 13423 - 17618,three_bhk_rent_range
+hyderabad,Kukatpally,Rs. 7127 - 8772,-,three_bhk_rent_range
+hyderabad,Laxmi Nagar,Rs. 7670 - 9588,Rs. 12724 - 16966,three_bhk_rent_range
+hyderabad,LB Nagar,-,Rs. 7650 - 9180,three_bhk_rent_range
+hyderabad,Lingampally,-,-,three_bhk_rent_range
+hyderabad,Madhapur,Rs. 8058 - 10744,Rs. 16401 - 20260,three_bhk_rent_range
+hyderabad,Madinaguda,-,-,three_bhk_rent_range
+hyderabad,Manikonda,-,Rs. 13340 - 17151,three_bhk_rent_range
+hyderabad,Masjid Banda,-,-,three_bhk_rent_range
+hyderabad,Mayuri Nagar,-,-,three_bhk_rent_range
+hyderabad,Mehdipatnam,-,Rs. 11555 - 14031,three_bhk_rent_range
+hyderabad,Miyapur,-,Rs. 10710 - 13388,three_bhk_rent_range
+hyderabad,Moosapet,-,Rs. 12033 - 14810,three_bhk_rent_range
+hyderabad,Moti Nagar,-,-,three_bhk_rent_range
+hyderabad,Nagaram,-,-,three_bhk_rent_range
+hyderabad,Nagole,-,-,three_bhk_rent_range
+hyderabad,Nallagandla,-,Rs. 15776 - 17748,three_bhk_rent_range
+hyderabad,Nallakunta,-,-,three_bhk_rent_range
+hyderabad,Nanakramguda,-,Rs. 20641 - 25405,three_bhk_rent_range
+hyderabad,Narsingi,-,-,three_bhk_rent_range
+hyderabad,Neknampur,-,-,three_bhk_rent_range
+hyderabad,Nizampet,-,Rs. 10678 - 11648,three_bhk_rent_range
+hyderabad,Patancheru Mandal,-,-,three_bhk_rent_range
+hyderabad,P Janardhan Reddy Nagar,-,-,three_bhk_rent_range
+hyderabad,Pocharam,-,Rs. 9670 - 11281,three_bhk_rent_range
+hyderabad,Pragati Nagar,-,Rs. 9911 - 11713,three_bhk_rent_range
+hyderabad,Puppalaguda,-,Rs. 12376 - 15232,three_bhk_rent_range
+hyderabad,Raghavendra Colony,Rs. 8541 - 10142,Rs. 14149 - 17181,three_bhk_rent_range
+hyderabad,Rajarajeshwari Nagar,-,Rs. 13337 - 16415,three_bhk_rent_range
+hyderabad,Ramchandrapuram,-,-,three_bhk_rent_range
+hyderabad,Sanath Nagar,-,Rs. 11155 - 13183,three_bhk_rent_range
+hyderabad,Sanjeeva Reddy Nagar,Rs. 6177 - 6177,Rs. 9782 - 11412,three_bhk_rent_range
+hyderabad,Serlingampally,-,-,three_bhk_rent_range
+hyderabad,Shaikpet,-,Rs. 14960 - 15895,three_bhk_rent_range
+hyderabad,Sindhi Colony,-,Rs. 12495 - 13536,three_bhk_rent_range
+hyderabad,Somajiguda,-,Rs. 11733 - 15086,three_bhk_rent_range
+hyderabad,Srinagar Colony,-,-,three_bhk_rent_range
+hyderabad,Telecom Nagar,-,Rs. 15470 - 19040,three_bhk_rent_range
+hyderabad,Tellapur,-,-,three_bhk_rent_range
+hyderabad,Tolichowki,-,-,three_bhk_rent_range
+hyderabad,Upparpally,-,-,three_bhk_rent_range
+hyderabad,Vittal Rao Nagar,-,-,three_bhk_rent_range
+hyderabad,Whitefield,-,-,three_bhk_rent_range
+pune,Abasaheb Raikar Nagar,-,-,three_bhk_rent_range
+pune,Akurdi,Rs. 9180 - 10200,Rs. 12240 - 14535,three_bhk_rent_range
+pune,Alandi,Rs. 4675 - 5142,-,three_bhk_rent_range
+pune,Alandi Road,Rs. 5814 - 6783,Rs. 9702 - 11194,three_bhk_rent_range
+pune,Ambedkar Nagar,-,-,three_bhk_rent_range
+pune,Ambegaon,Rs. 6332 - 7793,Rs. 9119 - 11398,three_bhk_rent_range
+pune,Ambegaon Bk,-,Rs. 8415 - 10710,three_bhk_rent_range
+pune,Ambegaon Budruk,Rs. 6310 - 8251,Rs. 9591 - 12543,three_bhk_rent_range
+pune,Ambegaon Pathar,-,-,three_bhk_rent_range
+pune,Anand Nagar,-,Rs. 11475 - 13770,three_bhk_rent_range
+pune,Ashoka Nagar,-,Rs. 20607 - 21544,three_bhk_rent_range
+pune,Ashok Nagar,-,-,three_bhk_rent_range
+pune,Aundh,Rs. 11832 - 13311,Rs. 16660 - 19159,three_bhk_rent_range
+pune,Aundh Gaon,Rs. 10883 - 12862,-,three_bhk_rent_range
+pune,B.T Kawade Road,Rs. 9945 - 12431,Rs. 15278 - 19298,three_bhk_rent_range
+pune,Bakori,Rs. 3243 - 3706,-,three_bhk_rent_range
+pune,Balaji Nagar,-,-,three_bhk_rent_range
+pune,Balewadi,Rs. 9690 - 12750,Rs. 15172 - 17850,three_bhk_rent_range
+pune,Balewadi Phata,-,Rs. 16877 - 18653,three_bhk_rent_range
+pune,Baner,Rs. 11220 - 12750,Rs. 15172 - 17850,three_bhk_rent_range
+pune,Baner-Sus,-,Rs. 11983 - 14551,three_bhk_rent_range
+pune,Baner Pashan Link Road,-,Rs. 15172 - 16958,three_bhk_rent_range
+pune,Baramati,-,-,three_bhk_rent_range
+pune,Bavdhan,Rs. 8537 - 10909,Rs. 13600 - 15300,three_bhk_rent_range
+pune,Benkar Nagar,Rs. 4845 - 5814,-,three_bhk_rent_range
+pune,Bhairav Nagar,Rs. 8415 - 9350,-,three_bhk_rent_range
+pune,Bhawani Peth,-,-,three_bhk_rent_range
+pune,Bhekrai Nagar,Rs. 6564 - 8078,-,three_bhk_rent_range
+pune,Bhor,Rs. 3581 - 4558,Rs. 5692 - 6640,three_bhk_rent_range
+pune,Bhosale Nagar,-,Rs. 21509 - 23558,three_bhk_rent_range
+pune,Bhosari,Rs. 7140 - 8670,Rs. 9392 - 11560,three_bhk_rent_range
+pune,Bhugaon,-,Rs. 10387 - 11985,three_bhk_rent_range
+pune,Bhujbal Vasti,-,Rs. 12699 - 15239,three_bhk_rent_range
+pune,Bhumkar Nagar,-,Rs. 13546 - 16085,three_bhk_rent_range
+pune,Bhunde Vasti,-,Rs. 13328 - 14161,three_bhk_rent_range
+pune,Bhusari Colony,Rs. 10353 - 11339,Rs. 16150 - 17850,three_bhk_rent_range
+pune,Bibwewadi,Rs. 8752 - 11183,Rs. 12553 - 14906,three_bhk_rent_range
+pune,Bibwewadi Kondhwa Road,Rs. 9335 - 11300,Rs. 12920 - 15342,three_bhk_rent_range
+pune,Boat Club Road,-,-,three_bhk_rent_range
+pune,Bopodi,-,Rs. 15300 - 17850,three_bhk_rent_range
+pune,Borhade Wadi,Rs. 6586 - 7092,Rs. 7420 - 9647,three_bhk_rent_range
+pune,Bund Garden,-,Rs. 22134 - 25296,three_bhk_rent_range
+pune,Camp,Rs. 11628 - 13082,-,three_bhk_rent_range
+pune,Chakan,Rs. 4752 - 5702,-,three_bhk_rent_range
+pune,Chandan Nagar,Rs. 9571 - 10528,Rs. 13600 - 16150,three_bhk_rent_range
+pune,Charholi,Rs. 5712 - 6664,Rs. 9724 - 11220,three_bhk_rent_range
+pune,Charholi Budruk,Rs. 4786 - 6221,-,three_bhk_rent_range
+pune,Chikhali,Rs. 5896 - 6878,Rs. 8466 - 9877,three_bhk_rent_range
+pune,Chinchwad,Rs. 8627 - 10149,Rs. 11475 - 14535,three_bhk_rent_range
+pune,Chinchwad Gaon,Rs. 7915 - 8905,Rs. 11832 - 12572,three_bhk_rent_range
+pune,Chintamani Nagar,-,-,three_bhk_rent_range
+pune,Clover Park,Rs. 12376 - 14280,Rs. 21505 - 24310,three_bhk_rent_range
+pune,Dahanukar Colony,Rs. 10948 - 11900,Rs. 16065 - 18475,three_bhk_rent_range
+pune,Dange Chowk,Rs. 8350 - 10438,Rs. 12376 - 14144,three_bhk_rent_range
+pune,Dapodi,Rs. 8526 - 10030,Rs. 10460 - 12702,three_bhk_rent_range
+pune,Dashrath Nagar,-,-,three_bhk_rent_range
+pune,Dattanagar,-,Rs. 10315 - 11690,three_bhk_rent_range
+pune,Dehu Road,-,-,three_bhk_rent_range
+pune,Dhankawadi,Rs. 7012 - 8415,Rs. 13505 - 14349,three_bhk_rent_range
+pune,Dhanori,Rs. 8526 - 10532,Rs. 12607 - 14183,three_bhk_rent_range
+pune,Dhayari,Rs. 5330 - 6298,Rs. 7948 - 10115,three_bhk_rent_range
+pune,Dhayari Phata,Rs. 5320 - 6287,Rs. 9170 - 10698,three_bhk_rent_range
+pune,Dhole Patil Road,Rs. 13812 - 15938,Rs. 19380 - 24480,three_bhk_rent_range
+pune,Dighi,Rs. 7344 - 8323,Rs. 9525 - 11723,three_bhk_rent_range
+pune,Eon Free Zone,Rs. 11246 - 14994,Rs. 18742 - 21420,three_bhk_rent_range
+pune,Erandwane,Rs. 11836 - 13730,Rs. 19550 - 21250,three_bhk_rent_range
+pune,Fatima Nagar,Rs. 9350 - 10285,Rs. 14538 - 16356,three_bhk_rent_range
+pune,Ganesh Nagar,-,-,three_bhk_rent_range
+pune,Ghorpadi,-,Rs. 16065 - 19125,three_bhk_rent_range
+pune,Gokul Nagar,-,-,three_bhk_rent_range
+pune,Hadapsar,-,Rs. 15940 - 19296,three_bhk_rent_range
+pune,Hadapsar Gaon,Rs. 8135 - 10050,Rs. 13728 - 15342,three_bhk_rent_range
+pune,Handewadi,-,-,three_bhk_rent_range
+pune,Hingne Khurd,Rs. 6243 - 8164,-,three_bhk_rent_range
+pune,Hinjewadi,Rs. 11046 - 13927,Rs. 14464 - 17868,three_bhk_rent_range
+pune,Hinjewadi Phase 1,-,Rs. 16170 - 19202,three_bhk_rent_range
+pune,Hinjewadi Phase 2,-,Rs. 17765 - 20570,three_bhk_rent_range
+pune,Jadhav Wadi,-,Rs. 8211 - 8895,three_bhk_rent_range
+pune,Jai Bhavani Nagar,Rs. 10547 - 12464,Rs. 15342 - 16958,three_bhk_rent_range
+pune,Jambhul,-,-,three_bhk_rent_range
+pune,Jambhulkar Mala,Rs. 8500 - 8925,-,three_bhk_rent_range
+pune,Kad Nagar,-,Rs. 10940 - 12622,three_bhk_rent_range
+pune,Kala Khadak,-,Rs. 13770 - 15606,three_bhk_rent_range
+pune,Kale Padal,Rs. 6688 - 8121,Rs. 10067 - 11506,three_bhk_rent_range
+pune,Kalewadi,Rs. 8813 - 9792,-,three_bhk_rent_range
+pune,Kalyani Nagar,Rs. 14586 - 16531,Rs. 23906 - 26775,three_bhk_rent_range
+pune,Kalyani Nagar Annexe,Rs. 11587 - 13518,Rs. 19903 - 21798,three_bhk_rent_range
+pune,Karve Nagar,Rs. 9350 - 11220,Rs. 16761 - 19156,three_bhk_rent_range
+pune,Karve Road,-,Rs. 19550 - 21250,three_bhk_rent_range
+pune,Kasarwadi,-,-,three_bhk_rent_range
+pune,Kaspate Vasti,Rs. 10078 - 11669,Rs. 15389 - 17200,three_bhk_rent_range
+pune,Kate Wasti,-,Rs. 9455 - 11819,three_bhk_rent_range
+pune,Kathepurna Nagar,Rs. 8160 - 9690,-,three_bhk_rent_range
+pune,Katraj,Rs. 5916 - 7888,Rs. 10746 - 13048,three_bhk_rent_range
+pune,Katraj Kondhwa Road,-,Rs. 10498 - 12920,three_bhk_rent_range
+pune,Kedari Nagar,Rs. 10547 - 11506,Rs. 16150 - 18700,three_bhk_rent_range
+pune,Keshav Nagar,-,Rs. 13728 - 15342,three_bhk_rent_range
+pune,Kesnand,-,-,three_bhk_rent_range
+pune,Khadki,-,-,three_bhk_rent_range
+pune,Kharadi,Rs. 10200 - 12750,Rs. 19224 - 21971,three_bhk_rent_range
+pune,Kirkatwadi,-,Rs. 5975 - 6638,three_bhk_rent_range
+pune,Kiwale,Rs. 6630 - 8160,Rs. 9527 - 10321,three_bhk_rent_range
+pune,Kondhawe Dhawade,-,Rs. 6146 - 7375,three_bhk_rent_range
+pune,Kondhwa,Rs. 7711 - 9639,Rs. 11805 - 14334,three_bhk_rent_range
+pune,Kondhwa Budruk,Rs. 6630 - 8840,Rs. 9078 - 10591,three_bhk_rent_range
+pune,Koregaon Park,Rs. 17748 - 20213,Rs. 25497 - 33052,three_bhk_rent_range
+pune,Koregaon Park Annexe,-,Rs. 22460 - 26204,three_bhk_rent_range
+pune,Kothrud,Rs. 10174 - 12112,Rs. 17000 - 19550,three_bhk_rent_range
+pune,Kunj Colony,-,Rs. 14713 - 18584,three_bhk_rent_range
+pune,Kutwal Colony,-,Rs. 12124 - 12837,three_bhk_rent_range
+pune,Law College Road,-,Rs. 24973 - 25934,three_bhk_rent_range
+pune,Laxman Nagar,-,Rs. 17765 - 18700,three_bhk_rent_range
+pune,Lohegaon,Rs. 6120 - 8160,Rs. 11373 - 12889,three_bhk_rent_range
+pune,Lokmanya Colony,Rs. 10353 - 11832,-,three_bhk_rent_range
+pune,Loni Kalbhor,-,-,three_bhk_rent_range
+pune,Lullanagar,Rs. 8568 - 9520,Rs. 14497 - 16430,three_bhk_rent_range
+pune,Madhav Nagar,Rs. 9945 - 10940,Rs. 12675 - 14260,three_bhk_rent_range
+pune,Magarpatta,Rs. 12818 - 14790,Rs. 18326 - 20825,three_bhk_rent_range
+pune,Mahadev Nagar,-,-,three_bhk_rent_range
+pune,Mahalunge,Rs. 7548 - 8963,Rs. 8284 - 11296,three_bhk_rent_range
+pune,Mahalunge Ingale,-,-,three_bhk_rent_range
+pune,Malwadi,-,Rs. 13150 - 14696,three_bhk_rent_range
+pune,Mamurdi,-,Rs. 9023 - 10663,three_bhk_rent_range
+pune,Manik Baug,-,Rs. 10710 - 12240,three_bhk_rent_range
+pune,Manjari Budruk,-,Rs. 9415 - 11587,three_bhk_rent_range
+pune,Manjri,Rs. 7586 - 9104,Rs. 11067 - 12648,three_bhk_rent_range
+pune,Manjri BK,-,Rs. 10398 - 13597,three_bhk_rent_range
+pune,Market Yard,Rs. 10835 - 12383,Rs. 15407 - 17840,three_bhk_rent_range
+pune,Marunji,Rs. 6497 - 8354,Rs. 10468 - 12561,three_bhk_rent_range
+pune,Marutirao Gaikwad Nagar,Rs. 11985 - 12944,-,three_bhk_rent_range
+pune,Mate Nagar,Rs. 8395 - 10371,-,three_bhk_rent_range
+pune,Mayur Colony,Rs. 10752 - 13090,Rs. 17765 - 20570,three_bhk_rent_range
+pune,Meera Nagar,-,Rs. 30408 - 39236,three_bhk_rent_range
+pune,Meeta Nagar,-,-,three_bhk_rent_range
+pune,Mhada Colony,Rs. 13770 - 15810,Rs. 22419 - 25109,three_bhk_rent_range
+pune,Mhasoba Nagar,-,Rs. 16218 - 17029,three_bhk_rent_range
+pune,Model Colony,Rs. 14586 - 16045,-,three_bhk_rent_range
+pune,Mohamadwadi,-,Rs. 11536 - 14198,three_bhk_rent_range
+pune,Mokarwadi,Rs. 5236 - 5712,Rs. 7225 - 9392,three_bhk_rent_range
+pune,Morwadi,-,Rs. 13728 - 16150,three_bhk_rent_range
+pune,Moshi,Rs. 6586 - 7599,Rs. 7910 - 9348,three_bhk_rent_range
+pune,Mundhwa,-,Rs. 13944 - 17225,three_bhk_rent_range
+pune,Nagar Road,Rs. 9282 - 10166,-,three_bhk_rent_range
+pune,Nanded,Rs. 8002 - 8446,Rs. 10221 - 11794,three_bhk_rent_range
+pune,Nandel Fata,-,-,three_bhk_rent_range
+pune,Narhe,Rs. 5236 - 5712,Rs. 7225 - 9392,three_bhk_rent_range
+pune,Nehru Nagar,-,-,three_bhk_rent_range
+pune,Nere,Rs. 3581 - 4558,Rs. 5692 - 6640,three_bhk_rent_range
+pune,New Sanghvi,Rs. 8670 - 10200,Rs. 11601 - 14501,three_bhk_rent_range
+pune,NIBM,Rs. 9042 - 10549,Rs. 11415 - 14049,three_bhk_rent_range
+pune,Nigdi,Rs. 8160 - 10200,Rs. 12186 - 13709,three_bhk_rent_range
+pune,North Hadapsar,Rs. 12431 - 12928,Rs. 14596 - 16218,three_bhk_rent_range
+pune,Old Sangvi,Rs. 8410 - 9894,Rs. 11876 - 15269,three_bhk_rent_range
+pune,Padmavati,-,-,three_bhk_rent_range
+pune,Pandhari Nagar,-,Rs. 16432 - 17345,three_bhk_rent_range
+pune,Pandurang Industrial Area,Rs. 8247 - 8705,Rs. 10033 - 11577,three_bhk_rent_range
+pune,Parkhe Vasti,Rs. 10772 - 12177,Rs. 13296 - 15512,three_bhk_rent_range
+pune,Pashan,Rs. 9588 - 11506,Rs. 13600 - 16150,three_bhk_rent_range
+pune,Pashan-Sus Road,Rs. 10251 - 11276,Rs. 13728 - 15342,three_bhk_rent_range
+pune,Patil Nagar,Rs. 8595 - 10744,Rs. 13736 - 15453,three_bhk_rent_range
+pune,Paud Road,Rs. 11730 - 13260,Rs. 18700 - 20400,three_bhk_rent_range
+pune,Phase-3 Hinjewadi,-,Rs. 12699 - 16085,three_bhk_rent_range
+pune,Phursungi,-,Rs. 10276 - 11858,three_bhk_rent_range
+pune,Pimple Gurav,Rs. 8670 - 10710,Rs. 13106 - 14648,three_bhk_rent_range
+pune,Pimple Nilakh,Rs. 9625 - 11652,Rs. 12961 - 15391,three_bhk_rent_range
+pune,Pimple Saudagar,Rs. 10960 - 13048,Rs. 15300 - 17000,three_bhk_rent_range
+pune,Pimpri,Rs. 9180 - 11730,Rs. 14450 - 17000,three_bhk_rent_range
+pune,Pimpri Chinchwad,Rs. 8160 - 10200,Rs. 12750 - 14450,three_bhk_rent_range
+pune,Pingale Wasti,-,Rs. 19462 - 22705,three_bhk_rent_range
+pune,Pirangut,Rs. 4552 - 5058,Rs. 6564 - 7293,three_bhk_rent_range
+pune,Pisoli,-,Rs. 8304 - 9965,three_bhk_rent_range
+pune,Postal Colony,Rs. 8721 - 11144,Rs. 14450 - 16150,three_bhk_rent_range
+pune,Prabhat Road,-,-,three_bhk_rent_range
+pune,Pradhikaran,-,Rs. 11475 - 13770,three_bhk_rent_range
+pune,Prasad Nagar,Rs. 9588 - 10547,-,three_bhk_rent_range
+pune,Punawale,Rs. 7778 - 8296,Rs. 10951 - 12635,three_bhk_rent_range
+pune,Pune-Satara Road,Rs. 8675 - 10121,Rs. 12553 - 14906,three_bhk_rent_range
+pune,Pune Mumbai Highway,Rs. 10557 - 11085,Rs. 16062 - 20077,three_bhk_rent_range
+pune,Pune Nagar Road,Rs. 4811 - 5292,Rs. 5780 - 7225,three_bhk_rent_range
+pune,Pune Sholapur Road,Rs. 3930 - 4913,-,three_bhk_rent_range
+pune,Rahatani,Rs. 9333 - 11407,Rs. 13437 - 15956,three_bhk_rent_range
+pune,Rajashri Colony,Rs. 7714 - 9256,-,three_bhk_rent_range
+pune,Rajgurunagar,-,-,three_bhk_rent_range
+pune,Rakshak Nagar,-,Rs. 14229 - 15810,three_bhk_rent_range
+pune,Rambaug Colony,Rs. 11220 - 12155,Rs. 19550 - 22950,three_bhk_rent_range
+pune,Ramkrishna Paramhans Nagar,Rs. 9996 - 11424,Rs. 15592 - 19260,three_bhk_rent_range
+pune,Rasta Peth,-,-,three_bhk_rent_range
+pune,Ravet,Rs. 7778 - 9333,Rs. 11162 - 12757,three_bhk_rent_range
+pune,Sadashiv Peth,Rs. 13260 - 17850,Rs. 19380 - 20188,three_bhk_rent_range
+pune,Sainath Nagar,-,Rs. 15407 - 17029,three_bhk_rent_range
+pune,Sainikwadi,-,Rs. 20290 - 23056,three_bhk_rent_range
+pune,Sakal Nagar,Rs. 11492 - 13702,-,three_bhk_rent_range
+pune,Sakore Nagar,Rs. 14280 - 15810,Rs. 18887 - 21462,three_bhk_rent_range
+pune,Salisbury Park,-,Rs. 16218 - 18651,three_bhk_rent_range
+pune,Salunke Vihar,-,Rs. 14810 - 16662,three_bhk_rent_range
+pune,Samarth Colony,-,-,three_bhk_rent_range
+pune,Sanaswadi,-,-,three_bhk_rent_range
+pune,Sanewadi,Rs. 12243 - 13185,Rs. 16958 - 18572,three_bhk_rent_range
+pune,Sant Nagar,-,-,three_bhk_rent_range
+pune,Sasane Nagar,Rs. 6902 - 8381,Rs. 10163 - 12340,three_bhk_rent_range
+pune,Satar Nagar,-,Rs. 9459 - 10186,three_bhk_rent_range
+pune,Satav Nagar,-,-,three_bhk_rent_range
+pune,Satavwadi,Rs. 8609 - 10761,-,three_bhk_rent_range
+pune,Sector-6 Moshi,-,-,three_bhk_rent_range
+pune,Sector-29 Ravet,-,Rs. 11105 - 12586,three_bhk_rent_range
+pune,Sector No-26 Pradhikaran,-,Rs. 11067 - 13280,three_bhk_rent_range
+pune,Senapati Bapat Road,-,Rs. 21250 - 24650,three_bhk_rent_range
+pune,Shaniwar Peth,Rs. 13447 - 13927,-,three_bhk_rent_range
+pune,Shankar Kalat Nagar,Rs. 10710 - 12750,Rs. 14999 - 16764,three_bhk_rent_range
+pune,Shastri Nagar,Rs. 14256 - 16802,Rs. 19746 - 24038,three_bhk_rent_range
+pune,Shewalewadi,Rs. 6842 - 8309,-,three_bhk_rent_range
+pune,Shikrapur,-,-,three_bhk_rent_range
+pune,Shikshaknagar,Rs. 9925 - 11342,-,three_bhk_rent_range
+pune,Shivaji Nagar,-,-,three_bhk_rent_range
+pune,Shivane,Rs. 4598 - 5978,Rs. 8565 - 10900,three_bhk_rent_range
+pune,Shivneri Nagar,Rs. 9350 - 9818,-,three_bhk_rent_range
+pune,Shivtirth Nagar,Rs. 11033 - 13540,Rs. 14450 - 19550,three_bhk_rent_range
+pune,Siddartha Nagar,-,Rs. 14229 - 15810,three_bhk_rent_range
+pune,Siddharth Nagar,-,Rs. 14198 - 17354,three_bhk_rent_range
+pune,Sinhgad Road,Rs. 5273 - 6712,Rs. 8935 - 10424,three_bhk_rent_range
+pune,Somatane,-,Rs. 6038 - 8303,three_bhk_rent_range
+pune,Somatne Phata,-,-,three_bhk_rent_range
+pune,Someshwarwadi,-,-,three_bhk_rent_range
+pune,Somnath Nagar,Rs. 8670 - 10710,-,three_bhk_rent_range
+pune,Sopan Baug,-,-,three_bhk_rent_range
+pune,Sukhsagar Nagar,-,Rs. 10305 - 11778,three_bhk_rent_range
+pune,Sunita Nagar,Rs. 8338 - 10790,-,three_bhk_rent_range
+pune,Sus,-,Rs. 11829 - 14363,three_bhk_rent_range
+pune,Sutarwadi,-,Rs. 13260 - 14918,three_bhk_rent_range
+pune,Swatantrya Sainik Nagar,-,Rs. 19380 - 20995,three_bhk_rent_range
+pune,Talawade,-,-,three_bhk_rent_range
+pune,Talegaon,Rs. 4223 - 5278,-,three_bhk_rent_range
+pune,Talegaon Dabhade,Rs. 4752 - 5227,Rs. 5807 - 7259,three_bhk_rent_range
+pune,Talegaon Dhamdhere,-,-,three_bhk_rent_range
+pune,Tathawade,Rs. 7778 - 10370,Rs. 12281 - 14035,three_bhk_rent_range
+pune,Thergaon,Rs. 10207 - 11281,Rs. 13328 - 14994,three_bhk_rent_range
+pune,Thite Nagar,Rs. 8675 - 11567,Rs. 16328 - 18906,three_bhk_rent_range
+pune,Tilekar Nagar,-,Rs. 8041 - 8772,three_bhk_rent_range
+pune,Tilekar Vasti,-,Rs. 16150 - 17000,three_bhk_rent_range
+pune,Tingre Nagar,Rs. 10047 - 11554,Rs. 14535 - 17765,three_bhk_rent_range
+pune,Tukaram Nagar,Rs. 10659 - 12903,Rs. 18885 - 20684,three_bhk_rent_range
+pune,Tulaja Bhawani Nagar,-,Rs. 18796 - 21481,three_bhk_rent_range
+pune,Ubale Nagar,Rs. 7012 - 9818,Rs. 11138 - 13525,three_bhk_rent_range
+pune,Udyog Nagar,-,Rs. 12151 - 12961,three_bhk_rent_range
+pune,Undri,Rs. 6564 - 8078,Rs. 8882 - 10498,three_bhk_rent_range
+pune,Vadgaon Budruk,Rs. 6232 - 7670,Rs. 7948 - 10115,three_bhk_rent_range
+pune,Vadgaon Sheri,-,Rs. 17000 - 21250,three_bhk_rent_range
+pune,Varale,-,Rs. 5379 - 6724,three_bhk_rent_range
+pune,Vasant Kunj,-,-,three_bhk_rent_range
+pune,Veerbhadra Nagar,-,Rs. 17000 - 18700,three_bhk_rent_range
+pune,Vikas Nagar,-,Rs. 10111 - 10888,three_bhk_rent_range
+pune,Viman Nagar,Rs. 13701 - 15731,Rs. 20743 - 24350,three_bhk_rent_range
+pune,Vishal Nagar,-,Rs. 13280 - 14756,three_bhk_rent_range
+pune,Vishnu Dev Nagar,-,-,three_bhk_rent_range
+pune,Vishrantwadi,Rs. 9746 - 11602,Rs. 15300 - 18700,three_bhk_rent_range
+pune,Wadgaon Budruk,-,-,three_bhk_rent_range
+pune,Wadgaon Sheri,Rs. 9180 - 10710,Rs. 13728 - 16150,three_bhk_rent_range
+pune,Wadmukhwadi,Rs. 6120 - 7650,-,three_bhk_rent_range
+pune,Wagholi,Rs. 6212 - 7247,Rs. 8817 - 9619,three_bhk_rent_range
+pune,Wakad,Rs. 10336 - 11886,Rs. 14594 - 17170,three_bhk_rent_range
+pune,Wakadkar Wasti,-,Rs. 15833 - 18095,three_bhk_rent_range
+pune,Wanowrie,Rs. 9710 - 11098,Rs. 16356 - 18173,three_bhk_rent_range
+pune,Wanwadi,Rs. 9189 - 11124,Rs. 14280 - 16958,three_bhk_rent_range
+pune,Warje,Rs. 8150 - 9588,Rs. 11985 - 13583,three_bhk_rent_range
+pune,Warje Malwadi,-,-,three_bhk_rent_range
+pune,Wireless Colony,Rs. 12240 - 13770,Rs. 17136 - 19584,three_bhk_rent_range
+pune,Yamuna Nagar,-,Rs. 9520 - 11560,three_bhk_rent_range
+pune,Yerwada,Rs. 10832 - 12638,Rs. 16065 - 20081,three_bhk_rent_range
+pune,Yewalewadi,Rs. 6111 - 7051,Rs. 8670 - 10115,three_bhk_rent_range
+kolkata,Entally,-,-,three_bhk_rent_range
+kolkata,Park Street,-,Rs. 39270 - 47685,three_bhk_rent_range
+kolkata,Sealdah,-,-,three_bhk_rent_range
+kolkata,Andul,-,-,three_bhk_rent_range
+kolkata,Andul Road,-,-,three_bhk_rent_range
+kolkata,Bally,-,-,three_bhk_rent_range
+kolkata,Bhadrakali,-,-,three_bhk_rent_range
+kolkata,Chandannagar,-,-,three_bhk_rent_range
+kolkata,Chinsurah,-,-,three_bhk_rent_range
+kolkata,Hooghly,-,-,three_bhk_rent_range
+kolkata,Howrah,-,Rs. 11773 - 13013,three_bhk_rent_range
+kolkata,Konnagar,-,Rs. 4980 - 6640,three_bhk_rent_range
+kolkata,Liluah,-,-,three_bhk_rent_range
+kolkata,Mankundu,-,-,three_bhk_rent_range
+kolkata,Rishra,-,-,three_bhk_rent_range
+kolkata,Santragachi,-,-,three_bhk_rent_range
+kolkata,Shibpur,-,-,three_bhk_rent_range
+kolkata,Uttarpara,-,-,three_bhk_rent_range
+kolkata,Action Area 1A,-,Rs. 11411 - 13694,three_bhk_rent_range
+kolkata,Action Area 1B,-,-,three_bhk_rent_range
+kolkata,Action Area 1C,-,-,three_bhk_rent_range
+kolkata,Action Area 1D,-,-,three_bhk_rent_range
+kolkata,Action Area I,-,Rs. 12559 - 15070,three_bhk_rent_range
+kolkata,Action Area II,-,Rs. 12102 - 14792,three_bhk_rent_range
+kolkata,Action Area IIB,-,Rs. 7568 - 8199,three_bhk_rent_range
+kolkata,Action Area IIC,-,-,three_bhk_rent_range
+kolkata,Action Area III,Rs. 5603 - 5953,-,three_bhk_rent_range
+kolkata,Bablatala,-,Rs. 7714 - 10519,three_bhk_rent_range
+kolkata,Chinar Park,Rs. 4962 - 5671,Rs. 8060 - 9525,three_bhk_rent_range
+kolkata,Chingrighata,-,-,three_bhk_rent_range
+kolkata,City Centre 2,Rs. 6681 - 7349,Rs. 10780 - 13316,three_bhk_rent_range
+kolkata,Dash Drone,-,Rs. 9058 - 11322,three_bhk_rent_range
+kolkata,E M Bypass,-,-,three_bhk_rent_range
+kolkata,Krishnapur,-,-,three_bhk_rent_range
+kolkata,Majarhati,-,-,three_bhk_rent_range
+kolkata,New Town,Rs. 6502 - 8309,Rs. 10159 - 12699,three_bhk_rent_range
+kolkata,Rajarhat,Rs. 5046 - 6127,-,three_bhk_rent_range
+kolkata,Salua,-,-,three_bhk_rent_range
+kolkata,Tangra,-,Rs. 17850 - 21250,three_bhk_rent_range
+kolkata,Uniworld City,-,-,three_bhk_rent_range
+kolkata,VIP Haldirams,-,Rs. 9401 - 10072,three_bhk_rent_range
+kolkata,Ajay Nagar,-,Rs. 12485 - 16386,three_bhk_rent_range
+kolkata,Alipore,-,-,three_bhk_rent_range
+kolkata,Bagha Jatin,-,Rs. 7948 - 10115,three_bhk_rent_range
+kolkata,Ballygunge,-,Rs. 23006 - 27430,three_bhk_rent_range
+kolkata,Ballygunge Circular Road,-,-,three_bhk_rent_range
+kolkata,Bansdroni,-,Rs. 10341 - 13296,three_bhk_rent_range
+kolkata,Baruipur,-,-,three_bhk_rent_range
+kolkata,BataNagar,-,-,three_bhk_rent_range
+kolkata,Behala,-,Rs. 8398 - 9690,three_bhk_rent_range
+kolkata,Behala Chowrasta,-,Rs. 8191 - 10238,three_bhk_rent_range
+kolkata,Bhawanipore,-,-,three_bhk_rent_range
+kolkata,Bijoygarh,-,-,three_bhk_rent_range
+kolkata,B L Saha Road,-,-,three_bhk_rent_range
+kolkata,Boral,-,-,three_bhk_rent_range
+kolkata,Brahmapur,-,-,three_bhk_rent_range
+kolkata,Dhakuria,-,Rs. 9901 - 12376,three_bhk_rent_range
+kolkata,E M Bypass,Rs. 10557 - 11339,Rs. 15744 - 18742,three_bhk_rent_range
+kolkata,E M Bypass Extension,-,Rs. 7790 - 8989,three_bhk_rent_range
+kolkata,Ganguly Bagan,-,-,three_bhk_rent_range
+kolkata,Garfa,-,-,three_bhk_rent_range
+kolkata,Garia,-,Rs. 8696 - 11372,three_bhk_rent_range
+kolkata,Gariahat,-,Rs. 21503 - 24812,three_bhk_rent_range
+kolkata,Golf Green,-,-,three_bhk_rent_range
+kolkata,Haltu,-,-,three_bhk_rent_range
+kolkata,Haridebpur,-,-,three_bhk_rent_range
+kolkata,Hazra Road,-,-,three_bhk_rent_range
+kolkata,Hiland Park,-,-,three_bhk_rent_range
+kolkata,Jadavpur,-,Rs. 13495 - 16493,three_bhk_rent_range
+kolkata,Jodhpur Garden,-,Rs. 10498 - 12708,three_bhk_rent_range
+kolkata,Jodhpur Park,-,Rs. 20528 - 23205,three_bhk_rent_range
+kolkata,Joka,-,-,three_bhk_rent_range
+kolkata,Kalighat,-,-,three_bhk_rent_range
+kolkata,Kalikapur,-,Rs. 9841 - 10544,three_bhk_rent_range
+kolkata,Kamalgazi,-,-,three_bhk_rent_range
+kolkata,Kasba,Rs. 6430 - 7943,Rs. 11704 - 13770,three_bhk_rent_range
+kolkata,Kudgat,-,-,three_bhk_rent_range
+kolkata,Lake Gardens,-,Rs. 13728 - 15895,three_bhk_rent_range
+kolkata,Madurdaha,-,Rs. 10353 - 12572,three_bhk_rent_range
+kolkata,Mahamayatala,-,-,three_bhk_rent_range
+kolkata,Maheshtala,-,Rs. 6707 - 8255,three_bhk_rent_range
+kolkata,Mukundapur,-,Rs. 13600 - 17680,three_bhk_rent_range
+kolkata,Naktala,-,Rs. 9080 - 11025,three_bhk_rent_range
+kolkata,Narendrapur,-,Rs. 8718 - 11401,three_bhk_rent_range
+kolkata,Nayabad,-,-,three_bhk_rent_range
+kolkata,Netaji Nagar,-,-,three_bhk_rent_range
+kolkata,New Alipore,Rs. 8711 - 11614,Rs. 12684 - 14798,three_bhk_rent_range
+kolkata,New Ballygunge,-,-,three_bhk_rent_range
+kolkata,New Garia,-,-,three_bhk_rent_range
+kolkata,Pailan,-,-,three_bhk_rent_range
+kolkata,Panchasayar,-,-,three_bhk_rent_range
+kolkata,Park Circus,-,-,three_bhk_rent_range
+kolkata,Parnasree Palli,-,-,three_bhk_rent_range
+kolkata,Patuli,-,Rs. 10258 - 13189,three_bhk_rent_range
+kolkata,Picnic Garden,-,Rs. 9588 - 10866,three_bhk_rent_range
+kolkata,Prince Anwar Shah Rd.,-,-,three_bhk_rent_range
+kolkata,Prince Anwar Shah Road Connector,-,Rs. 10968 - 13548,three_bhk_rent_range
+kolkata,Purbalok,-,-,three_bhk_rent_range
+kolkata,Rajpur,-,-,three_bhk_rent_range
+kolkata,Ranikuthi,-,Rs. 7735 - 10498,three_bhk_rent_range
+kolkata,Sakher Bazar,-,Rs. 8272 - 9651,three_bhk_rent_range
+kolkata,Santoshpur,-,-,three_bhk_rent_range
+kolkata,Sarsuna,-,Rs. 9271 - 11410,three_bhk_rent_range
+kolkata,Shibrampur,-,-,three_bhk_rent_range
+kolkata,Silpara,-,-,three_bhk_rent_range
+kolkata,Sonarpur,-,-,three_bhk_rent_range
+kolkata,Southern Avenue,-,-,three_bhk_rent_range
+kolkata,Tagore Park,-,-,three_bhk_rent_range
+kolkata,Thakurpukur,-,-,three_bhk_rent_range
+kolkata,Tollygunge,Rs. 6286 - 7765,-,three_bhk_rent_range
+kolkata,Topsia,-,-,three_bhk_rent_range
+kolkata,Uttar Panchanna Gram,Rs. 5419 - 7012,-,three_bhk_rent_range
+kolkata,Vip Nagar,Rs. 5100 - 6375,-,three_bhk_rent_range
+kolkata,Agarpara,-,-,three_bhk_rent_range
+kolkata,Airport,-,Rs. 7640 - 8276,three_bhk_rent_range
+kolkata,Ariadaha,-,-,three_bhk_rent_range
+kolkata,Baguihati,Rs. 4835 - 6446,Rs. 6760 - 8604,three_bhk_rent_range
+kolkata,Bangur,-,-,three_bhk_rent_range
+kolkata,Bara Nagar,-,-,three_bhk_rent_range
+kolkata,Barasat,-,Rs. 5485 - 6704,three_bhk_rent_range
+kolkata,Barrackpore,-,-,three_bhk_rent_range
+kolkata,Belgharia,-,Rs. 5967 - 7956,three_bhk_rent_range
+kolkata,Belgharia Expressway,-,-,three_bhk_rent_range
+kolkata,Beliaghata,-,-,three_bhk_rent_range
+kolkata,Birati,-,Rs. 6588 - 8564,three_bhk_rent_range
+kolkata,B T Road,-,-,three_bhk_rent_range
+kolkata,Dum Dum,-,Rs. 7480 - 9520,three_bhk_rent_range
+kolkata,Dum Dum Cantt.,-,Rs. 5745 - 6384,three_bhk_rent_range
+kolkata,Dum Dum Park,-,Rs. 10532 - 12036,three_bhk_rent_range
+kolkata,Dunlop,-,-,three_bhk_rent_range
+kolkata,Durganagar,-,-,three_bhk_rent_range
+kolkata,H B Town,-,-,three_bhk_rent_range
+kolkata,Jessore Road,-,Rs. 10765 - 13932,three_bhk_rent_range
+kolkata,Jyangra,-,-,three_bhk_rent_range
+kolkata,Kadapara,-,-,three_bhk_rent_range
+kolkata,Kaikhali,-,Rs. 8011 - 9860,three_bhk_rent_range
+kolkata,Kalyani,-,-,three_bhk_rent_range
+kolkata,Kankurgachi,-,-,three_bhk_rent_range
+kolkata,Kestopur,Rs. 4752 - 5848,Rs. 7721 - 8365,three_bhk_rent_range
+kolkata,Khardah,-,Rs. 6021 - 7358,three_bhk_rent_range
+kolkata,Lake Town,-,Rs. 10115 - 13005,three_bhk_rent_range
+kolkata,Madhyamgram,-,Rs. 5898 - 7209,three_bhk_rent_range
+kolkata,Maniktala,-,-,three_bhk_rent_range
+kolkata,Nager Bazar,-,Rs. 8730 - 10072,three_bhk_rent_range
+kolkata,Narayanpur,-,-,three_bhk_rent_range
+kolkata,New Barrakpur,-,-,three_bhk_rent_range
+kolkata,Paikpara,-,-,three_bhk_rent_range
+kolkata,Phoolbagan,-,-,three_bhk_rent_range
+kolkata,Raghunathpur,-,-,three_bhk_rent_range
+kolkata,Rajbari,-,-,three_bhk_rent_range
+kolkata,Salt Lake,-,Rs. 11560 - 15172,three_bhk_rent_range
+kolkata,Sector I - Salt Lake,-,-,three_bhk_rent_range
+kolkata,Sector II - Salt Lake,-,Rs. 13005 - 15172,three_bhk_rent_range
+kolkata,Sector III - Salt Lake,-,-,three_bhk_rent_range
+kolkata,Sinthee,-,-,three_bhk_rent_range
+kolkata,Sodepur,-,Rs. 5440 - 6800,three_bhk_rent_range
+kolkata,Teghoria,-,Rs. 8660 - 11546,three_bhk_rent_range
+kolkata,Ultadanga,-,-,three_bhk_rent_range
+kolkata,VIP Haldiram,-,Rs. 10332 - 13511,three_bhk_rent_range
+kolkata,Zarda Bagan,-,-,three_bhk_rent_range
+ahmedabad,Ambawadi,-,Rs. 12470 - 16626,three_bhk_rent_range
+ahmedabad,Bodakdev,-,Rs. 13196 - 16715,three_bhk_rent_range
+ahmedabad,C.G. Road,-,-,three_bhk_rent_range
+ahmedabad,Drive In Road,-,Rs. 13438 - 16126,three_bhk_rent_range
+ahmedabad,Ghatlodia,Rs. 6436 - 7509,Rs. 8721 - 10465,three_bhk_rent_range
+ahmedabad,Gurukul,-,Rs. 13209 - 15851,three_bhk_rent_range
+ahmedabad,Jivraj Park,-,-,three_bhk_rent_range
+ahmedabad,Jodhpur,Rs. 7140 - 8925,Rs. 12453 - 16285,three_bhk_rent_range
+ahmedabad,Judges Bunglow,-,-,three_bhk_rent_range
+ahmedabad,Juhapura,-,-,three_bhk_rent_range
+ahmedabad,Memnagar,-,Rs. 12750 - 15300,three_bhk_rent_range
+ahmedabad,Naranpura,-,Rs. 11669 - 14362,three_bhk_rent_range
+ahmedabad,Nava Vadaj,-,-,three_bhk_rent_range
+ahmedabad,Navrangpura,-,-,three_bhk_rent_range
+ahmedabad,New Ranip,-,Rs. 7398 - 9041,three_bhk_rent_range
+ahmedabad,Nirnay Nagar,-,-,three_bhk_rent_range
+ahmedabad,Paldi,-,-,three_bhk_rent_range
+ahmedabad,Prernatirth Derasar Road,-,-,three_bhk_rent_range
+ahmedabad,Ramdev Nagar,-,Rs. 13438 - 16126,three_bhk_rent_range
+ahmedabad,Ranip,-,-,three_bhk_rent_range
+ahmedabad,Satadhar,-,Rs. 10145 - 11067,three_bhk_rent_range
+ahmedabad,Satellite,-,Rs. 12708 - 16618,three_bhk_rent_range
+ahmedabad,Satellite Extension,-,-,three_bhk_rent_range
+ahmedabad,Shyamal Cross Road,-,-,three_bhk_rent_range
+ahmedabad,Vasna,Rs. 5926 - 7902,-,three_bhk_rent_range
+ahmedabad,Vastrapur,-,Rs. 14688 - 18360,three_bhk_rent_range
+ahmedabad,Vejalpur,Rs. 8119 - 10656,Rs. 11934 - 13770,three_bhk_rent_range
+ahmedabad,Ghodasar,-,-,three_bhk_rent_range
+ahmedabad,Hathijan,-,-,three_bhk_rent_range
+ahmedabad,Isanpur,-,-,three_bhk_rent_range
+ahmedabad,Kankaria,-,-,three_bhk_rent_range
+ahmedabad,Maninagar,Rs. 6747 - 8193,Rs. 11016 - 12852,three_bhk_rent_range
+ahmedabad,Maninagar East,-,Rs. 10603 - 12118,three_bhk_rent_range
+ahmedabad,Meghani Nagar,-,-,three_bhk_rent_range
+ahmedabad,Naroda,-,Rs. 4590 - 5355,three_bhk_rent_range
+ahmedabad,Narol,-,-,three_bhk_rent_range
+ahmedabad,Narolgam,-,-,three_bhk_rent_range
+ahmedabad,Nava Naroda,-,-,three_bhk_rent_range
+ahmedabad,New Maninagar,-,-,three_bhk_rent_range
+ahmedabad,Nikol,-,-,three_bhk_rent_range
+ahmedabad,Nikol - Naroda Road,-,-,three_bhk_rent_range
+ahmedabad,Odhav,-,-,three_bhk_rent_range
+ahmedabad,Shahibaug,-,-,three_bhk_rent_range
+ahmedabad,Uttamnagar,-,Rs. 10098 - 11934,three_bhk_rent_range
+ahmedabad,Vastral,-,-,three_bhk_rent_range
+ahmedabad,Vatva,-,-,three_bhk_rent_range
+ahmedabad,Vinzol,-,-,three_bhk_rent_range
+ahmedabad,Ambli,-,-,three_bhk_rent_range
+ahmedabad,Ambli Bopal,-,-,three_bhk_rent_range
+ahmedabad,Bopal,-,Rs. 9668 - 12305,three_bhk_rent_range
+ahmedabad,Chandlodia,-,-,three_bhk_rent_range
+ahmedabad,Ghuma,-,Rs. 9350 - 11050,three_bhk_rent_range
+ahmedabad,Gota,-,Rs. 8354 - 10210,three_bhk_rent_range
+ahmedabad,Iscon-Ambli Road,-,-,three_bhk_rent_range
+ahmedabad,Jagatpur,Rs. 6350 - 6773,Rs. 8500 - 10200,three_bhk_rent_range
+ahmedabad,Makarba,-,Rs. 13477 - 17071,three_bhk_rent_range
+ahmedabad,Prahlad Nagar,-,Rs. 13661 - 17564,three_bhk_rent_range
+ahmedabad,Sarkhej,-,-,three_bhk_rent_range
+ahmedabad,Science City,-,Rs. 11730 - 13685,three_bhk_rent_range
+ahmedabad,SG Highway,-,Rs. 10014 - 12745,three_bhk_rent_range
+ahmedabad,Shela,-,Rs. 11043 - 13410,three_bhk_rent_range
+ahmedabad,Shilaj,-,Rs. 10365 - 12757,three_bhk_rent_range
+ahmedabad,Sola,-,Rs. 11628 - 12597,three_bhk_rent_range
+ahmedabad,South Bopal,-,Rs. 12174 - 14782,three_bhk_rent_range
+ahmedabad,Thaltej,-,Rs. 13349 - 16019,three_bhk_rent_range
+ahmedabad,Tragad,-,-,three_bhk_rent_range
+ahmedabad,Vaishnodevi Circle,-,Rs. 9350 - 11050,three_bhk_rent_range
+ahmedabad,Chandkheda,-,-,three_bhk_rent_range
+ahmedabad,Gandhi Nagar,-,-,three_bhk_rent_range
+ahmedabad,Koteshwar,-,Rs. 7541 - 9426,three_bhk_rent_range
+ahmedabad,Kudasan,-,-,three_bhk_rent_range
+ahmedabad,Motera,-,Rs. 8231 - 10975,three_bhk_rent_range
+ahmedabad,New CG Road,-,-,three_bhk_rent_range
+ahmedabad,Sabarmati,-,-,three_bhk_rent_range
+ahmedabad,Sardar Patel Ring Road,-,-,three_bhk_rent_range
+ahmedabad,Sargasan,-,-,three_bhk_rent_range
+ahmedabad,Sughad,-,-,three_bhk_rent_range
+ahmedabad,Vadsar,-,-,three_bhk_rent_range
+ahmedabad,Zundal,-,-,three_bhk_rent_range
+bhubaneswar,Dumduma,-,-,three_bhk_rent_range
+bhubaneswar,Ghatikia,-,-,three_bhk_rent_range
+bhubaneswar,Gothapatna,-,-,three_bhk_rent_range
+bhubaneswar,Hanspal,-,-,three_bhk_rent_range
+bhubaneswar,Kalinganagar,-,Rs. 8288 - 10774,three_bhk_rent_range
+bhubaneswar,Khandagiri,-,-,three_bhk_rent_range
+bhubaneswar,Nayapalli,-,-,three_bhk_rent_range
+bhubaneswar,Patia,-,Rs. 7997 - 9996,three_bhk_rent_range
+bhubaneswar,Patrapada,-,-,three_bhk_rent_range
+bhubaneswar,Raghunathpur,-,-,three_bhk_rent_range
+bhubaneswar,Sailashree Vihar,-,-,three_bhk_rent_range
+bhubaneswar,Sundarpada,-,Rs. 4131 - 4957,three_bhk_rent_range
+bhubaneswar,Tamando,-,-,three_bhk_rent_range
+coimbatore,Ganapathy,-,Rs. 8177 - 10630,three_bhk_rent_range
+coimbatore,Peelamedu,-,Rs. 12243 - 14127,three_bhk_rent_range
+coimbatore,Race Course,-,-,three_bhk_rent_range
+coimbatore,Ramanathapuram,-,Rs. 11503 - 12388,three_bhk_rent_range
+coimbatore,Saibaba Colony,-,-,three_bhk_rent_range
+coimbatore,Saravanampatti,-,Rs. 9350 - 11050,three_bhk_rent_range
+coimbatore,Singanallur,-,-,three_bhk_rent_range
+coimbatore,Thudiyalur,-,-,three_bhk_rent_range
+coimbatore,Uppilipalayam,-,-,three_bhk_rent_range
+coimbatore,Vadavalli,-,Rs. 6800 - 8500,three_bhk_rent_range
+indore,AB Bypass Road,-,-,three_bhk_rent_range
+indore,AB Road Indore,-,-,three_bhk_rent_range
+indore,Bengali Square,-,Rs. 9350 - 11900,three_bhk_rent_range
+indore,Bicholi Mardana,-,Rs. 7896 - 10265,three_bhk_rent_range
+indore,Dewas Naka(Panchvati),-,-,three_bhk_rent_range
+indore,Kanadia Road,-,-,three_bhk_rent_range
+indore,Khandwa Road,-,-,three_bhk_rent_range
+indore,Limbodi,-,-,three_bhk_rent_range
+indore,Mahalakshmi Nagar,-,Rs. 6885 - 8415,three_bhk_rent_range
+indore,Manorama Ganj,-,-,three_bhk_rent_range
+indore,Nipania,Rs. 10166 - 12708,Rs. 10453 - 12354,three_bhk_rent_range
+indore,Niranjanpur,-,-,three_bhk_rent_range
+indore,Palasia,-,Rs. 11680 - 15274,three_bhk_rent_range
+indore,Pipaliyahana,-,-,three_bhk_rent_range
+indore,Piplya Kumar,-,Rs. 9512 - 11414,three_bhk_rent_range
+indore,Rajendra Nagar,-,-,three_bhk_rent_range
+indore,Rau,-,-,three_bhk_rent_range
+indore,Rau Road,-,-,three_bhk_rent_range
+indore,Saket Nagar,-,-,three_bhk_rent_range
+indore,Super Corridor,-,Rs. 7018 - 8772,three_bhk_rent_range
+indore,Vijay Nagar,-,Rs. 11220 - 14025,three_bhk_rent_range
+nagpur,Ajni,-,Rs. 12266 - 14719,three_bhk_rent_range
+nagpur,Amravati Road,-,-,three_bhk_rent_range
+nagpur,Bajaj Nagar,-,Rs. 11271 - 13005,three_bhk_rent_range
+nagpur,Beltarodi,-,-,three_bhk_rent_range
+nagpur,Besa,-,Rs. 6460 - 8075,three_bhk_rent_range
+nagpur,Bharat Nagar,-,Rs. 11169 - 12658,three_bhk_rent_range
+nagpur,Buti Bori,-,-,three_bhk_rent_range
+nagpur,Byramji Town,-,-,three_bhk_rent_range
+nagpur,Civil Lines,-,Rs. 12390 - 14713,three_bhk_rent_range
+nagpur,Clark Town,-,-,three_bhk_rent_range
+nagpur,Dabha,-,-,three_bhk_rent_range
+nagpur,Dhantoli,-,Rs. 11067 - 13280,three_bhk_rent_range
+nagpur,Dharampeth,-,Rs. 12368 - 14841,three_bhk_rent_range
+nagpur,Dighori,-,Rs. 5454 - 6817,three_bhk_rent_range
+nagpur,Friends Colony,-,Rs. 7650 - 9945,three_bhk_rent_range
+nagpur,Gandhi Nagar,-,Rs. 9180 - 10710,three_bhk_rent_range
+nagpur,Ganeshpeth Colony,-,Rs. 10542 - 13785,three_bhk_rent_range
+nagpur,Godhani,-,-,three_bhk_rent_range
+nagpur,Godhani Road,-,Rs. 6215 - 6992,three_bhk_rent_range
+nagpur,Hazari Pahad,-,Rs. 8191 - 10424,three_bhk_rent_range
+nagpur,Hingna Road,-,Rs. 5692 - 7826,three_bhk_rent_range
+nagpur,Hudakeshwar Road,-,-,three_bhk_rent_range
+nagpur,Jaiprakash Nagar,-,Rs. 12138 - 15606,three_bhk_rent_range
+nagpur,Jaitala Road,-,Rs. 6392 - 7990,three_bhk_rent_range
+nagpur,Katol Road,Rs. 5126 - 5638,Rs. 7650 - 9945,three_bhk_rent_range
+nagpur,Khamla,-,Rs. 10542 - 12164,three_bhk_rent_range
+nagpur,Khare Town,-,Rs. 11805 - 12543,three_bhk_rent_range
+nagpur,Koradi,-,Rs. 6215 - 6992,three_bhk_rent_range
+nagpur,Koradi Road,-,Rs. 6215 - 8546,three_bhk_rent_range
+nagpur,Laxminagar,-,Rs. 12278 - 14734,three_bhk_rent_range
+nagpur,Mahal,-,-,three_bhk_rent_range
+nagpur,Manewada,-,-,three_bhk_rent_range
+nagpur,Manish Nagar,Rs. 5026 - 6143,Rs. 8500 - 9350,three_bhk_rent_range
+nagpur,Mankapur,-,Rs. 6120 - 8415,three_bhk_rent_range
+nagpur,Medical Square,-,Rs. 13630 - 18173,three_bhk_rent_range
+nagpur,Mihan,-,Rs. 7298 - 8109,three_bhk_rent_range
+nagpur,Mohan Nagar,-,Rs. 9591 - 11805,three_bhk_rent_range
+nagpur,Narendra Nagar,-,Rs. 7726 - 10044,three_bhk_rent_range
+nagpur,New Colony,-,Rs. 13280 - 14756,three_bhk_rent_range
+nagpur,New Manish Nagar,-,Rs. 7635 - 9331,three_bhk_rent_range
+nagpur,New Sneh Nagar,-,-,three_bhk_rent_range
+nagpur,Nrendra Nagar Extension,-,Rs. 8415 - 9945,three_bhk_rent_range
+nagpur,Omkar Nagar,-,Rs. 7079 - 8848,three_bhk_rent_range
+nagpur,Pande Layout,-,-,three_bhk_rent_range
+nagpur,Pratap Nagar,-,Rs. 11050 - 12750,three_bhk_rent_range
+nagpur,Ramdas Peth,-,Rs. 13834 - 15678,three_bhk_rent_range
+nagpur,Ram Nagar,-,Rs. 11353 - 15407,three_bhk_rent_range
+nagpur,Rana Pratap Nagar,-,Rs. 11691 - 12590,three_bhk_rent_range
+nagpur,Ring Road,-,-,three_bhk_rent_range
+nagpur,Sadar,-,-,three_bhk_rent_range
+nagpur,Seminari Hill,-,Rs. 8415 - 9945,three_bhk_rent_range
+nagpur,Shankar Nagar,-,Rs. 12920 - 15342,three_bhk_rent_range
+nagpur,Shivaji Nagar,-,Rs. 11322 - 13586,three_bhk_rent_range
+nagpur,Somalwada,-,Rs. 8330 - 10829,three_bhk_rent_range
+nagpur,Subhash Nagar,-,Rs. 9313 - 11641,three_bhk_rent_range
+nagpur,Swawlambi Nagar,-,Rs. 11591 - 13375,three_bhk_rent_range
+nagpur,Trimurti Nagar,Rs. 5848 - 7602,Rs. 9190 - 9956,three_bhk_rent_range
+nagpur,Wanadongri,-,-,three_bhk_rent_range
+nagpur,Wardha Road,Rs. 4590 - 6120,-,three_bhk_rent_range
+nagpur,Wathoda,-,-,three_bhk_rent_range
+nagpur,Zingabai Takli,-,Rs. 6215 - 6992,three_bhk_rent_range
+vadodara,Ajwa Road,-,Rs. 5090 - 6786,three_bhk_rent_range
+vadodara,Akota,-,Rs. 11220 - 13090,three_bhk_rent_range
+vadodara,Alkapuri,-,-,three_bhk_rent_range
+vadodara,Atladra,-,Rs. 6120 - 7650,three_bhk_rent_range
+vadodara,Bhayli,-,Rs. 5902 - 8116,three_bhk_rent_range
+vadodara,Chhani,-,-,three_bhk_rent_range
+vadodara,Chhani Jakat Naka,-,-,three_bhk_rent_range
+vadodara,Diwalipura,-,Rs. 7650 - 8415,three_bhk_rent_range
+vadodara,Elora Park,-,Rs. 8848 - 11503,three_bhk_rent_range
+vadodara,Fatehgunj,-,Rs. 8920 - 11353,three_bhk_rent_range
+vadodara,Gorwa,-,Rs. 7956 - 9547,three_bhk_rent_range
+vadodara,Gotri,-,Rs. 7413 - 9060,three_bhk_rent_range
+vadodara,Gotri Road,-,Rs. 8075 - 9690,three_bhk_rent_range
+vadodara,Harni,-,-,three_bhk_rent_range
+vadodara,Kalali,-,Rs. 5528 - 7107,three_bhk_rent_range
+vadodara,Kareli Bagh,-,-,three_bhk_rent_range
+vadodara,Laxmipura,-,Rs. 8372 - 10884,three_bhk_rent_range
+vadodara,Makarpura,-,-,three_bhk_rent_range
+vadodara,Manjalpur,-,Rs. 7512 - 10016,three_bhk_rent_range
+vadodara,New Alkapuri,-,Rs. 8372 - 10884,three_bhk_rent_range
+vadodara,New Karelibaug,-,-,three_bhk_rent_range
+vadodara,New Sama,-,-,three_bhk_rent_range
+vadodara,New Sama Road,-,Rs. 7803 - 10404,three_bhk_rent_range
+vadodara,Nizampura,-,Rs. 8109 - 9731,three_bhk_rent_range
+vadodara,Old Padra Road,Rs. 5100 - 5950,Rs. 9027 - 9930,three_bhk_rent_range
+vadodara,Race Course Circle,-,-,three_bhk_rent_range
+vadodara,Sama,-,Rs. 8094 - 9892,three_bhk_rent_range
+vadodara,Sama Savli Road,-,Rs. 7627 - 10169,three_bhk_rent_range
+vadodara,Sayajigunj,-,Rs. 9874 - 11669,three_bhk_rent_range
+vadodara,Sayajipura,-,-,three_bhk_rent_range
+vadodara,Sevasi,-,Rs. 8698 - 9664,three_bhk_rent_range
+vadodara,Soma Talav,-,-,three_bhk_rent_range
+vadodara,Subhanpura,-,Rs. 8882 - 10659,three_bhk_rent_range
+vadodara,Sunpharma Road,-,Rs. 6732 - 7480,three_bhk_rent_range
+vadodara,Tandalja,-,-,three_bhk_rent_range
+vadodara,Tarsali,-,-,three_bhk_rent_range
+vadodara,Vadsar,-,Rs. 5498 - 6283,three_bhk_rent_range
+vadodara,Vasant Vihar,-,-,three_bhk_rent_range
+vadodara,Vasna-Bhayli-Road,-,Rs. 7222 - 8826,three_bhk_rent_range
+vadodara,Vasna Road,-,Rs. 7956 - 10343,three_bhk_rent_range
+vadodara,Vemali,-,-,three_bhk_rent_range
+vadodara,Waghodia,-,-,three_bhk_rent_range
+vadodara,Waghodia Road,-,-,three_bhk_rent_range
+chandigarh,Dera Bassi,-,-,three_bhk_rent_range
+chandigarh,Kharar,-,-,three_bhk_rent_range
+chandigarh,Manimajra,-,-,three_bhk_rent_range
+chandigarh,Mohali,-,-,three_bhk_rent_range
+chandigarh,Mohalla Pharigat,-,-,three_bhk_rent_range
+chandigarh,Mullanpur,-,-,three_bhk_rent_range
+chandigarh,New Chandigarh,-,-,three_bhk_rent_range
+chandigarh,Sector-49B Chandigarh,-,-,three_bhk_rent_range
+chandigarh,Sector 15-Chandigarh,Rs. 9960 - 13280,-,three_bhk_rent_range
+chandigarh,Sector 44-Chandigarh,-,-,three_bhk_rent_range
+chandigarh,Sector 45-Chandigarh,-,-,three_bhk_rent_range
+chandigarh,Sector 48-Chandigarh,-,-,three_bhk_rent_range
+chandigarh,Sector 49-Chandigarh,-,Rs. 15640 - 20528,three_bhk_rent_range
+chandigarh,Sector 50-Chandigarh,-,-,three_bhk_rent_range
+chandigarh,Sector 51-Chandigarh,-,Rs. 16719 - 17702,three_bhk_rent_range
+chandigarh,Sector 63-Chandigarh,Rs. 10752 - 12708,Rs. 15895 - 18700,three_bhk_rent_range
+chandigarh,Zirakpur,-,Rs. 9690 - 12597,three_bhk_rent_range
+jaipur,Adarsh Nagar,-,-,three_bhk_rent_range
+jaipur,Ajmer Road,-,Rs. 6766 - 8458,three_bhk_rent_range
+jaipur,Bani Park,-,-,three_bhk_rent_range
+jaipur,Bapu Nagar,-,-,three_bhk_rent_range
+jaipur,C-Scheme,-,Rs. 16040 - 20757,three_bhk_rent_range
+jaipur,Chitrakoot,-,Rs. 8224 - 10051,three_bhk_rent_range
+jaipur,Civil Lines,-,-,three_bhk_rent_range
+jaipur,Gandhi Path,-,-,three_bhk_rent_range
+jaipur,Gopalpura Bypass,-,-,three_bhk_rent_range
+jaipur,Govindpura,-,-,three_bhk_rent_range
+jaipur,Jagatpura,-,Rs. 9350 - 11900,three_bhk_rent_range
+jaipur,Malviya Nagar,-,Rs. 13260 - 15300,three_bhk_rent_range
+jaipur,Mansarovar,-,-,three_bhk_rent_range
+jaipur,Mansarovar Extension,-,Rs. 9602 - 11348,three_bhk_rent_range
+jaipur,Narayan Vihar,-,-,three_bhk_rent_range
+jaipur,Nirman Nagar,Rs. 4781 - 5844,Rs. 9350 - 11220,three_bhk_rent_range
+jaipur,Niwaru  Road,-,-,three_bhk_rent_range
+jaipur,Patrakar Colony,-,-,three_bhk_rent_range
+jaipur,Pratap Nagar,-,-,three_bhk_rent_range
+jaipur,Raja Park,-,Rs. 11730 - 14662,three_bhk_rent_range
+jaipur,Sanganer,-,-,three_bhk_rent_range
+jaipur,Shyam Nagar,-,Rs. 8500 - 10200,three_bhk_rent_range
+jaipur,Sikar Road,-,-,three_bhk_rent_range
+jaipur,Sirsi Road,-,Rs. 7358 - 9197,three_bhk_rent_range
+jaipur,Sodala,Rs. 5311 - 6276,Rs. 7803 - 8670,three_bhk_rent_range
+jaipur,Swage Farm,-,Rs. 15606 - 18360,three_bhk_rent_range
+jaipur,Tilak Nagar,-,-,three_bhk_rent_range
+jaipur,Vaishali Nagar,-,Rs. 9002 - 10802,three_bhk_rent_range
+jaipur,Vidhyadhar Nagar,-,Rs. 8354 - 10210,three_bhk_rent_range
+lucknow,Adil Nagar,-,-,three_bhk_rent_range
+lucknow,Amar Shaheed Path,-,Rs. 6885 - 8415,three_bhk_rent_range
+lucknow,Aziz Nagar,-,-,three_bhk_rent_range
+lucknow,Chinhat,-,Rs. 7512 - 9182,three_bhk_rent_range
+lucknow,Dewa Road,-,-,three_bhk_rent_range
+lucknow,Faizabad Road,-,Rs. 8361 - 9290,three_bhk_rent_range
+lucknow,Gomti Nagar,-,Rs. 11965 - 14956,three_bhk_rent_range
+lucknow,Gomti Nagar Extension,-,-,three_bhk_rent_range
+lucknow,Hazrat Ganj,-,-,three_bhk_rent_range
+lucknow,IIM Road,-,-,three_bhk_rent_range
+lucknow,Indira Nagar,-,Rs. 8670 - 9392,three_bhk_rent_range
+lucknow,Jankipuram,-,-,three_bhk_rent_range
+lucknow,Kanpur Road,-,-,three_bhk_rent_range
+lucknow,Kursi Road,-,-,three_bhk_rent_range
+lucknow,Lucknow Kanpur Highway,-,-,three_bhk_rent_range
+lucknow,Mahanagar,-,-,three_bhk_rent_range
+lucknow,New Hyderabad,-,-,three_bhk_rent_range
+lucknow,Raebareli Road,-,Rs. 8882 - 9690,three_bhk_rent_range
+lucknow,Sarojini Nagar,-,-,three_bhk_rent_range
+lucknow,Sitapur National Highway,-,-,three_bhk_rent_range
+lucknow,Sultanpur Road,-,-,three_bhk_rent_range
+lucknow,Sushant Golf City,-,Rs. 10200 - 10200,three_bhk_rent_range
+lucknow,Uttardhauna,-,-,three_bhk_rent_range
+lucknow,Ved Nath Puram,-,-,three_bhk_rent_range
+lucknow,Vibhuti Khand,-,Rs. 14573 - 15545,three_bhk_rent_range
+lucknow,Vrindavan Colony,-,-,three_bhk_rent_range
+lucknow,Vrindavan Yojna,-,Rs. 7676 - 9211,three_bhk_rent_range
+surat,Adajan,Rs. 5236 - 6807,Rs. 7971 - 9743,three_bhk_rent_range
+surat,Althan,-,Rs. 10360 - 12243,three_bhk_rent_range
+surat,Amroli,-,-,three_bhk_rent_range
+surat,Athwa,-,-,three_bhk_rent_range
+surat,Bhatar,-,Rs. 12912 - 14756,three_bhk_rent_range
+surat,Bhimrad,-,-,three_bhk_rent_range
+surat,Citylight Area,-,Rs. 14102 - 15042,three_bhk_rent_range
+surat,Dindoli,-,-,three_bhk_rent_range
+surat,Dumas,-,-,three_bhk_rent_range
+surat,Dumas Road,-,-,three_bhk_rent_range
+surat,Ghod Dod Road,-,Rs. 13423 - 15341,three_bhk_rent_range
+surat,Jahangirabad,-,-,three_bhk_rent_range
+surat,Jahangirpura,-,-,three_bhk_rent_range
+surat,PAL,-,Rs. 7994 - 9771,three_bhk_rent_range
+surat,Palanpur,-,Rs. 7130 - 7922,three_bhk_rent_range
+surat,Palanpur Gam,-,Rs. 7079 - 7964,three_bhk_rent_range
+surat,Palanpur Jakatnaka,-,-,three_bhk_rent_range
+surat,Pal Gam,-,-,three_bhk_rent_range
+surat,Parvat Patiya,-,-,three_bhk_rent_range
+surat,Piplod,-,Rs. 12912 - 13834,three_bhk_rent_range
+surat,Sachin,-,-,three_bhk_rent_range
+surat,Vankala,-,-,three_bhk_rent_range
+surat,Vesu,-,Rs. 11536 - 12498,three_bhk_rent_range
+surat,VIP Road Vesu,-,-,three_bhk_rent_range
